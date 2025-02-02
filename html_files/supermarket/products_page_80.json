@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 80,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:59:52.207Z",
+  "products": [
+    {
+      "title": "APPLE & EVE 100% APPLE JUICE 295ML",
+      "price": "₵20.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/3/03491a.jpg",
+      "url": "https://melcom.com/apple-eve-100-apple-juice-295ml.html"
+    },
+    {
+      "title": "BAY AFRICA CREAM LIQUOR 17% 700ML",
+      "price": "₵124.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/2/32469a.jpg",
+      "url": "https://melcom.com/bay-africa-cream-liquor-17-700ml.html"
+    },
+    {
+      "title": "BARON DE RUBI SEMI SWEET RED WINE 11% 750ML",
+      "price": "₵67.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106353a.jpg",
+      "url": "https://melcom.com/baron-de-rubi-semi-sweet-red-wine-11-750ml.html"
+    },
+    {
+      "title": "3TOL ANTISEPTIC LIQUID 500ML",
+      "price": "₵28.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104496a.jpg",
+      "url": "https://melcom.com/3tol-antiseptic-liquid-500ml.html"
+    },
+    {
+      "title": "VASELINE BODY LOTION COCOGLOW 400ML",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36024a.jpg",
+      "url": "https://melcom.com/vaseline-body-lotion-cocoglow-400ml.html"
+    },
+    {
+      "title": "ANNELEEN NON ALCOHOLIC SPARKLING WHITE GRAPE DRINK 750ML",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/9/39340a.jpg",
+      "url": "https://melcom.com/anneleen-non-alc-spk-white-grape-drink-750ml.html"
+    },
+    {
+      "title": "OBA SUNFLOWER OIL 900ML",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121456a_1.jpg",
+      "url": "https://melcom.com/oba-sunflower-oil-900ml.html"
+    },
+    {
+      "title": "PLATINUM SUNFLOWER OIL (TU.) 5L",
+      "price": "₵249.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98528a.jpg",
+      "url": "https://melcom.com/platinum-sunflower-oil-tu-5l.html"
+    },
+    {
+      "title": "WETTOL LIQUID ANTISEPTIC 500ML",
+      "price": "₵28.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105473a.jpg",
+      "url": "https://melcom.com/wettol-liquid-antiseptic-500ml.html"
+    },
+    {
+      "title": "EVERPACK AKWAABA TISSUE LARGE SIZE 150 SHEETS",
+      "price": "₵13.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/5/n565a.jpg",
+      "url": "https://melcom.com/akwaba-safari-tissue-large-size-150-sheets.html"
+    },
+    {
+      "title": "EVERPACK AKWAABA TISSUE SMALL SIZE 76 SHEETS",
+      "price": "₵7.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/5/n566a.jpg",
+      "url": "https://melcom.com/akwaaba-tissue-small-size-76-sheets.html"
+    },
+    {
+      "title": "ALPRO ALMOND VANILLA FLAVOR 1L",
+      "price": "₵85.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72394a.jpg",
+      "url": "https://melcom.com/alpro-almond-vanilla-flavor-1l.html"
+    },
+    {
+      "title": "ALPRO SOYA DRINK UNSWEETENED 1L",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36384a.jpg",
+      "url": "https://melcom.com/alpro-soya-drink-unsweetened-1l.html"
+    },
+    {
+      "title": "ALPRO SOYA DRINK CHOCOLATE 1L",
+      "price": "₵65.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36389a.jpg",
+      "url": "https://melcom.com/alpro-soya-drink-chocolate-1l.html"
+    },
+    {
+      "title": "ALPRO SOYA DRINK VANILLA 1L",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36383a.jpg",
+      "url": "https://melcom.com/alpro-soya-drink-vanilla-1l.html"
+    },
+    {
+      "title": "VITAMILK DOUBLE CHOCO SHAKE SOYAMILK 300ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08353a.jpg",
+      "url": "https://melcom.com/vitamilk-double-choco-shake-soyamilk-300ml.html"
+    },
+    {
+      "title": "VITAMILK REGULAR SOYAMILK 300ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08351a.jpg",
+      "url": "https://melcom.com/vitamilk-regular-soyamilk-300ml.html"
+    },
+    {
+      "title": "VITAMILK STRAWBERRY SOYAMILK 300ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105077a.jpg",
+      "url": "https://melcom.com/vitamilk-strawberry-soyamilk-300ml.html"
+    },
+    {
+      "title": "WELCH'S 100% FRUIT PUNCH JUICE 473ML",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/3/03483a.jpg",
+      "url": "https://melcom.com/welch-s-100-friut-punch-juice-473ml.html"
+    },
+    {
+      "title": "8PM HONEY WHISKY 35% 750ML",
+      "price": "₵116.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103969a.jpg",
+      "url": "https://melcom.com/8pm-honey-whisky-35-750ml.html"
+    },
+    {
+      "title": "8PM PREMIUM BLACK WHISKY 42.8% 750ML",
+      "price": "₵116.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/115107a.jpg",
+      "url": "https://melcom.com/8pm-premium-black-whisky-42-8-750ml.html"
+    },
+    {
+      "title": "ZWAN CHICKEN SAUSAGES COCKTAIL 200G",
+      "price": "₵45.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/8/48754a.jpg",
+      "url": "https://melcom.com/zwan-chicken-sauages-cocktail-200g.html"
+    },
+    {
+      "title": "ZWAN CHICKEN SAUSAGES COCKTAIL 120G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/0/00364a_1.jpg",
+      "url": "https://melcom.com/zwan-chicken-sauages-cocktail-120g.html"
+    },
+    {
+      "title": "UNOLI SUNFLOWER OIL 1L",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76891a_1.jpg",
+      "url": "https://melcom.com/unoli-sunflower-oil-1l.html"
+    },
+    {
+      "title": "UNOLI SOYABEAN OIL 1L",
+      "price": "₵60.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/9/49364a.jpg",
+      "url": "https://melcom.com/unoli-soyabean-oil-1l.html"
+    },
+    {
+      "title": "OBA SUNFLOWER OIL 5L",
+      "price": "₵249.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121457a.jpg",
+      "url": "https://melcom.com/oba-sunflower-oil-5l.html"
+    },
+    {
+      "title": "CHTOURA PICKLES GARDEN CUCUMBER 600G",
+      "price": "₵61.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108516a.jpg",
+      "url": "https://melcom.com/chtoura-pickles-garden-cucumber-600g.html"
+    },
+    {
+      "title": "CHTOURA GARDEN FAVA BEANS EGYPTIAN RECIPE 400G",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/40240a.jpg",
+      "url": "https://melcom.com/chtoura-garden-fava-beans-egyptian-recipe-400g.html"
+    },
+    {
+      "title": "CHTOURA CONSERVES GARDEN FAVA BEANS SYRIAN 400G",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/9/09294a.jpg",
+      "url": "https://melcom.com/chtoura-conserves-garden-fava-beans-syrian-400g.html"
+    },
+    {
+      "title": "BLUE DRAGON SWEET CHILLI & GARLIC STIR FRY",
+      "price": "₵35.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08434a.jpg",
+      "url": "https://melcom.com/blue-dragon-sweet-chilli-garlic-stir-fry.html"
+    },
+    {
+      "title": "BAYARA BLACK PEPPER CRUSHED",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108002.jpg",
+      "url": "https://melcom.com/bayara-black-pepper-crushed.html"
+    },
+    {
+      "title": "HARIBO SOUR SPARKS 160G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/117441a.jpg",
+      "url": "https://melcom.com/haribo-sour-sparks-160g.html"
+    }
+  ]
+}

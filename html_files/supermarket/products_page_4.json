@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 4,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:53:36.065Z",
+  "products": [
+    {
+      "title": "GOLDEN PENNY INS. NOODLES JOLL HOT HOT FLAV 70G",
+      "price": "₵4.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/167332.png",
+      "url": "https://melcom.com/golden-penny-ins-noodles-joll-hot-hot-flav-70g.html"
+    },
+    {
+      "title": "TRESEMME RICH MOISTURE SHAMPOO 300ML",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/177530.png",
+      "url": "https://melcom.com/tresemme-rich-moisture-shampoo-300ml.html"
+    },
+    {
+      "title": "TRESEMME CLEANSE AND REPLENISH SHAMPOO 300ML",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/177527.png",
+      "url": "https://melcom.com/tresemme-cleanse-and-replenish-shampoo-300ml.html"
+    },
+    {
+      "title": "ELEGANCE STYLING WAX ALOE VERA 140G",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176236.png",
+      "url": "https://melcom.com/elegance-styling-wax-aloe-vera-140g.html"
+    },
+    {
+      "title": "ELEGANCE STYLING WAX ARGAN OIL 140G",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176235.png",
+      "url": "https://melcom.com/elegance-styling-wax-argan-oil-140g.html"
+    },
+    {
+      "title": "ELEGANCE STYLING WAX AVOCADO 140G",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176234.png",
+      "url": "https://melcom.com/elegance-styling-wax-avocado-140g.html"
+    },
+    {
+      "title": "TRUESMILE TOOTHPASTE & BRUSH PROWHITE 100ML",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/169956.png",
+      "url": "https://melcom.com/truesmile-toothpaste-brush-prowhite-100ml.html"
+    },
+    {
+      "title": "BLUEY MILK CHOCOLATE ADVENT CALENDAR 40G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/175819_1.png",
+      "url": "https://melcom.com/bluey-milk-chocolate-advent-calendar-40g.html"
+    },
+    {
+      "title": "SKITTLES FRUITS SWEET BULK VENDING BAG 1.6KG",
+      "price": "₵249.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/172125.png",
+      "url": "https://melcom.com/skittles-fruits-sweet-bulk-vending-bag-1-6kg.html"
+    },
+    {
+      "title": "LINDOR BOW GIFT BOX MILK 75G",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176703.png",
+      "url": "https://melcom.com/lindor-bow-gift-box-milk-75g.html"
+    },
+    {
+      "title": "EISBERG CHARDONNAY ALCOHOL FREE 75CL",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176486.png",
+      "url": "https://melcom.com/eisberg-chardonnay-alcohol-free-75cl.html"
+    },
+    {
+      "title": "ULTRA COMPACT NAIL POLISH REMO-STRAWBERRY 125ML",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/174373.png",
+      "url": "https://melcom.com/ultra-compact-nail-polish-remo-strawberry-125ml.html"
+    },
+    {
+      "title": "CERTO JAMS  JELLIES&MARMALADES PECTIN 250G",
+      "price": "₵101.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176632.png",
+      "url": "https://melcom.com/certo-jams-jellies-marmalades-pectin-250g.html"
+    },
+    {
+      "title": "MISSION FOODS TORTILLA CHIPS CHILI 175G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137740.png",
+      "url": "https://melcom.com/mission-foods-tortilla-chips-chili-175g.html"
+    },
+    {
+      "title": "ALLINSON EASYBAKE YEAST DRUM 100G",
+      "price": "₵132.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176293.png",
+      "url": "https://melcom.com/allinson-easybake-yeast-drum-100g.html"
+    },
+    {
+      "title": "BENS ORIGINAL SWEET & SOUR VEGETABLE SAUCE 450G",
+      "price": "₵98.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176360.png",
+      "url": "https://melcom.com/bens-original-sweet-sour-vegetable-sauce-450g.html"
+    },
+    {
+      "title": "DR. OETKER GEL FOOD COLOUR BLACK 15G",
+      "price": "₵68.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176451.png",
+      "url": "https://melcom.com/dr-oetker-gel-food-colour-black-15g.html"
+    },
+    {
+      "title": "DR. OETKER GEL FOOD COLOUR BLUE 15G",
+      "price": "₵67.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176452.png",
+      "url": "https://melcom.com/dr-oetker-gel-food-colour-blue-15g.html"
+    },
+    {
+      "title": "DR. OETKER GEL FOOD COLOUR GREEN 15G",
+      "price": "₵85.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176453.png",
+      "url": "https://melcom.com/dr-oetker-gel-food-colour-green-15g.html"
+    },
+    {
+      "title": "SIMPLY DELISH NATURAL PUDDING  BANANA 48G",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138109.png",
+      "url": "https://melcom.com/simply-delish-natural-pudding-banana-48g.html"
+    },
+    {
+      "title": "DR. OETKER GEL FOOD COLOUR YELLOW 15G",
+      "price": "₵68.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176457.png",
+      "url": "https://melcom.com/dr-oetker-gel-food-colour-yellow-15g.html"
+    },
+    {
+      "title": "DR OETKER HUNDREDS & THOUSANDS 65G",
+      "price": "₵53.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176472.png",
+      "url": "https://melcom.com/dr-oetker-hundreds-thousands-65g.html"
+    },
+    {
+      "title": "HUSKY CHUNKY CHICKEN 775G",
+      "price": "₵55.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138224.png",
+      "url": "https://melcom.com/husky-chunky-chicken-775g.html"
+    },
+    {
+      "title": "DR OETKER SUGAR STRANDS 55G",
+      "price": "₵68.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176477.png",
+      "url": "https://melcom.com/dr-oetker-sugar-strands-55g.html"
+    },
+    {
+      "title": "BLUE DRAGON THAI SWEET CHILLI SAUCE 250ML",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176609.png",
+      "url": "https://melcom.com/blue-dragon-thai-sweet-chilli-sauce-250ml.html"
+    },
+    {
+      "title": "BLUE DRAGON THAI RED CURRY PASTE 170G",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176615.png",
+      "url": "https://melcom.com/blue-dragon-thai-red-curry-paste-170g.html"
+    },
+    {
+      "title": "EPICURE MERINGUE NESTS 100G",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176698.png",
+      "url": "https://melcom.com/epicure-meringue-nests-100g.html"
+    },
+    {
+      "title": "EPICURE MANZANILLA OLIVES STUF W. PIMIENTO 235G",
+      "price": "₵77.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/176710.png",
+      "url": "https://melcom.com/epicure-manzanilla-olives-stuf-w-pimiento-235g.html"
+    },
+    {
+      "title": "MORRISONS FAST ACTION YEAST SACHETS 56G",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/177114.png",
+      "url": "https://melcom.com/morrisons-fast-action-yeast-sachets-56g.html"
+    },
+    {
+      "title": "BART CHILLI POWDER HOT 36G",
+      "price": "₵61.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/177221.png",
+      "url": "https://melcom.com/bart-chilli-powder-hot-36g.html"
+    },
+    {
+      "title": "BART CORIANDER GROUND 30G",
+      "price": "₵67.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/177222.png",
+      "url": "https://melcom.com/bart-coriander-ground-30g.html"
+    },
+    {
+      "title": "BIONA FRENCH DIJON MUSTARD STRONG ORGANIC 200G",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/177230.png",
+      "url": "https://melcom.com/biona-french-dijon-mustard-strong-organic-200g.html"
+    }
+  ]
+}

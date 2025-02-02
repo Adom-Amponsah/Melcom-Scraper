@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 27,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:55:22.083Z",
+  "products": [
+    {
+      "title": "MOLINERA SUGARFREE PINEAPPLE FRUIT JUICE 1L",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156279.png",
+      "url": "https://melcom.com/molinera-sugarfree-pineapple-fruit-juice-1l.html"
+    },
+    {
+      "title": "MOLINERA SUGARFREE ORANGE FRUIT JUICE 1L",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156278.png",
+      "url": "https://melcom.com/molinera-sugarfree-orange-fruit-juice-1l.html"
+    },
+    {
+      "title": "MOLINERA SUGARFREE MULTIFRUIT JUICE 1L",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156277.png",
+      "url": "https://melcom.com/molinera-sugarfree-multifruit-juice-1l.html"
+    },
+    {
+      "title": "MOLINERA SUGARFREE MANGO FRUIT JUICE 1L",
+      "price": "₵30.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156276.png",
+      "url": "https://melcom.com/molinera-sugarfree-mango-fruit-juice-1l.html"
+    },
+    {
+      "title": "MOLINERA SUGARFREE APPLE FRUIT JUICE 1L",
+      "price": "₵30.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156275_1.png",
+      "url": "https://melcom.com/molinera-sugarfree-apple-fruit-juice-1l.html"
+    },
+    {
+      "title": "VERONI ACTIVE ISOTONIC LEMON DRINK 700ML",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151003.png",
+      "url": "https://melcom.com/veroni-active-isotonic-lemon-drink-700ml.html"
+    },
+    {
+      "title": "VERONI ACTIVE ISOTONIC MULTIFRUIT DRINK 700ML",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/150780.png",
+      "url": "https://melcom.com/veroni-active-isotonic-multifruit-drink-700ml.html"
+    },
+    {
+      "title": "VERONI ACTIVE ISOTONIC DRINK ORANGE 700ML",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/5/05442.png",
+      "url": "https://melcom.com/veroni-active-isotonic-drink-orange-700ml.html"
+    },
+    {
+      "title": "SERENGETI MERLOT WINE 750ML",
+      "price": "₵119.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157380.png",
+      "url": "https://melcom.com/serengeti-merlot-wine-750ml.html"
+    },
+    {
+      "title": "CASAL GARCIA VINHO BLANCO WHITE WINE 250ML",
+      "price": "₵51.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157374.png",
+      "url": "https://melcom.com/casal-garcia-vinho-blanco-white-wine-250ml.html"
+    },
+    {
+      "title": "SYYCAFE 3 IN 1 INSTANT COFFEE STRING 10 X 36G",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156443_1.png",
+      "url": "https://melcom.com/syycafe-3-in-1-instant-coffee-string-10-x-36g.html"
+    },
+    {
+      "title": "MONT NATURAL MINERAL WATER 500ML",
+      "price": "₵1.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149364.png",
+      "url": "https://melcom.com/mont-natural-mineral-water-500ml.html"
+    },
+    {
+      "title": "GASTONE LAGO POKER HAZELNUT WAFERS  150G",
+      "price": "₵31.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156440.png",
+      "url": "https://melcom.com/gastone-lago-poker-hazelnut-wafers-150g.html"
+    },
+    {
+      "title": "GASTONE LAGO POKER COCOA WAFER 150G",
+      "price": "₵31.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156439.png",
+      "url": "https://melcom.com/gastone-lago-poker-cocoa-wafer-150g.html"
+    },
+    {
+      "title": "GASTONE LAGO MINI PARTY WAFER VANILLA 125G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156438.png",
+      "url": "https://melcom.com/gastone-lago-mini-party-wafer-vanilla-125g.html"
+    },
+    {
+      "title": "GASTONE LAGO MINI PARTY COCOA WAFER 125G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156437.png",
+      "url": "https://melcom.com/gastone-lago-mini-party-cocoa-wafer-125g.html"
+    },
+    {
+      "title": "GASTONE LAGO MINI PARTY HAZELNUT WAFER 125G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156435.png",
+      "url": "https://melcom.com/gastone-lago-mini-party-hazelnut-wafer-125g.html"
+    },
+    {
+      "title": "GASTONE LAGO POKER MINI PARTY WAF. COCONUT 125G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156433.png",
+      "url": "https://melcom.com/gastone-lago-poker-mini-party-waf-coconut-125g.html"
+    },
+    {
+      "title": "GASTONE LAGO POKER VANILLA WAFER  45G",
+      "price": "₵10.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156431.png",
+      "url": "https://melcom.com/gastone-lago-poker-vanilla-wafer-45g.html"
+    },
+    {
+      "title": "GASTONE LAGO POKER HAZELNUT WAFER  45G",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156429.png",
+      "url": "https://melcom.com/gastone-lago-poker-hazelnut-wafer-45g.html"
+    },
+    {
+      "title": "GASTONE LAGO POKER WAFER COCOA 45G",
+      "price": "₵10.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/156428.png",
+      "url": "https://melcom.com/gastone-lago-poker-wafer-cocoa-45g.html"
+    },
+    {
+      "title": "CLOVER SUPER M STRAWBERRY FLAV MED FAT MILK 1L",
+      "price": "₵58.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/112354.png",
+      "url": "https://melcom.com/clover-super-m-strawberry-flav-med-fat-milk-1l.html"
+    },
+    {
+      "title": "HYSON ORGANIC CHAMOMILE HERBAL TEA 22.5G",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/110794.png",
+      "url": "https://melcom.com/hyson-organic-chamomile-herbal-tea-22-5g.html"
+    },
+    {
+      "title": "HYSON PEPPERMINT TEA 15-PIECES",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103824.b.png",
+      "url": "https://melcom.com/hyson-peppermint-tea-15-pieces.html"
+    },
+    {
+      "title": "BELOXXI CREAM CRACKERS 190G",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133052.png",
+      "url": "https://melcom.com/beloxxi-cream-crackers-190g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER EXTRA CRUNCHY 510G",
+      "price": "₵47.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133055.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-extra-crunchy-510g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER CREAM SMOOTH 510G",
+      "price": "₵47.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133056.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-cream-smooth-510g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER HONEY 510G",
+      "price": "₵51.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133057.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-honey-510g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER CHOCOLATE 510G",
+      "price": "₵55.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133058.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-chocolate-510g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER EXTRA CRUNCHY 227G",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138193.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-extra-crunchy-227g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER CREAMY SMOOTH 227G",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138194.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-creamy-smooth-227g.html"
+    },
+    {
+      "title": "NUTZY PEANUT BUTTER HONEY 227G",
+      "price": "₵26.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138195.png",
+      "url": "https://melcom.com/nutzy-peanut-butter-honey-227g.html"
+    }
+  ]
+}

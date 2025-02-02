@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 91,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:00:47.592Z",
+  "products": [
+    {
+      "title": "BOSS BAKER READY TO EAT CHOCOLATE CAKE 20G",
+      "price": "₵2.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104903a.jpg",
+      "url": "https://melcom.com/boss-baker-cake-103904.html"
+    },
+    {
+      "title": "BOSS BAKER READY TO EAT CAKE 30G",
+      "price": "₵1.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/1/91811a_1.jpg",
+      "url": "https://melcom.com/boss-baker-ready-to-eat-cake-30g.html"
+    },
+    {
+      "title": "BOSS BAKER READY TO EAT CHOCOLATE COOKIES 30G",
+      "price": "₵1.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93769a.jpg",
+      "url": "https://melcom.com/boss-baker-ready-to-eat-chocolate-cookies-30g.html"
+    },
+    {
+      "title": "MRS BECTORS BISCUIT GLUCOSE  41G",
+      "price": "₵1.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/8/48889a.jpg",
+      "url": "https://melcom.com/mrs-bectors-biscuit-glucose-41g.html"
+    },
+    {
+      "title": "GINO TOMATO MIX SACHET 70G",
+      "price": "₵3.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/3/73149a.jpg",
+      "url": "https://melcom.com/gino-tomato-mix-sachet-70g.html"
+    },
+    {
+      "title": "MRS BECTORS MALT N MILK  BISCUIT 41G",
+      "price": "₵1.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/8/48890a.jpg",
+      "url": "https://melcom.com/mrs-bectors-malt-n-milk-biscuit-41g.html"
+    },
+    {
+      "title": "TASTY TOM JOLLOF MIX 70G",
+      "price": "₵3.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/101386a.jpg",
+      "url": "https://melcom.com/tasty-tom-jollof-mix-70g.html"
+    },
+    {
+      "title": "MRS BECTORS SHORT BREAD FINGERS 170G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/1/31232a.jpg",
+      "url": "https://melcom.com/mrs-bectors-short-bread-fingers-170g.html"
+    },
+    {
+      "title": "PARLE RIK RAK CHOCOLATE FILLED WAFER 36G",
+      "price": "₵1.09",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/4/64715a.jpg",
+      "url": "https://melcom.com/parle-rik-rak-chocolate-filled-wafer-36g.html"
+    },
+    {
+      "title": "PARLE RIK RAK STRAWBERRY FILLED WAFER 36G",
+      "price": "₵1.09",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/4/64717a.jpg",
+      "url": "https://melcom.com/parle-rik-rak-strawberry-filled-wafer-36g.html"
+    },
+    {
+      "title": "PARLE CHOCO RINGS BISCUITS 75G",
+      "price": "₵2.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98607a.jpg",
+      "url": "https://melcom.com/parle-choco-rings-biscuits-75g.html"
+    },
+    {
+      "title": "POMO TOMATO PASTE SACHET  70G",
+      "price": "₵3.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/8/18153a_1.jpg",
+      "url": "https://melcom.com/pomo-tomato-paste-sachet-70g.html"
+    },
+    {
+      "title": "SPRITE ZERO SUGAR PET 300ML",
+      "price": "₵5.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/5/95403a.jpg",
+      "url": "https://melcom.com/sprite-zero-pet-300ml.html"
+    },
+    {
+      "title": "ENA PA NON-DAIRY CREAMER 225G",
+      "price": "₵18.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87968a.jpg",
+      "url": "https://melcom.com/ena-pa-non-dairy-creamer-225g.html"
+    },
+    {
+      "title": "NIDO ESSENTIA NUTRIPAK 10PCS 14G",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/u/nutripak_14g.jpg",
+      "url": "https://melcom.com/nido-essentia-nutripak-14g-10pcs.html"
+    },
+    {
+      "title": "NUTRISNAX OATS DIGESTIVE BISCUITS 105G",
+      "price": "₵5.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/6/86918a.jpg",
+      "url": "https://melcom.com/nutrisnax-oats-digestive-biscuits-105g.html"
+    },
+    {
+      "title": "5 STAR KAESAR APPLE DRINK 350ML",
+      "price": "₵2.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/2/62260a.jpg",
+      "url": "https://melcom.com/5-star-kaesar-apple-drink-350ml.html"
+    },
+    {
+      "title": "YUMVITA INFANT CEREAL MAIZE & WHEAT 50G",
+      "price": "₵6.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/0/50144a.jpg",
+      "url": "https://melcom.com/yumvita-infant-cereal-maize-wheat-50g.html"
+    },
+    {
+      "title": "YUMVITA INFANT CEREAL WHEAT 50G",
+      "price": "₵6.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/1/61767a.jpg",
+      "url": "https://melcom.com/yumvita-infant-cereal-wheat-50g.html"
+    },
+    {
+      "title": "ENA PA NON-DAIRY CREAMER 20G",
+      "price": "₵1.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99602a.jpg",
+      "url": "https://melcom.com/enapa-non-dairy-creamer-20g.html"
+    },
+    {
+      "title": "VITAMILK CHAMP SOURCE OF PROTEIN 125ML",
+      "price": "₵5.59",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08357.jpg",
+      "url": "https://melcom.com/vitamilk-champ-source-of-protein-tetra-pack-125ml.html"
+    },
+    {
+      "title": "SPRITE ZERO SUGAR PET 450ML",
+      "price": "₵7.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/9/89788a_1.jpg",
+      "url": "https://melcom.com/sprite-zero-pet-450ml.html"
+    },
+    {
+      "title": "SPRITE CAN 330ML",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/8/x807a.jpg",
+      "url": "https://melcom.com/can-sprite-330ml.html"
+    },
+    {
+      "title": "PURE HEAVEN PINEAPPLE & COCONUT JUICE 1L",
+      "price": "₵42.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/6/d641a_1.jpg",
+      "url": "https://melcom.com/pure-heaven-pineapple-coconut-juice-1l.html"
+    },
+    {
+      "title": "VAETTEL NATURAL MINERAL WATER 500ML",
+      "price": "₵1.75",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93627a.jpg",
+      "url": "https://melcom.com/vaettel-natural-mineral-water-500ml.html"
+    },
+    {
+      "title": "VERNA MINERAL WATER  500ML",
+      "price": "₵1.59",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53304a.jpg",
+      "url": "https://melcom.com/verna-mineral-water-500ml.html"
+    },
+    {
+      "title": "TAMPICO CITRUS PUNCH 300ML",
+      "price": "₵6.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/5/65529a.jpg",
+      "url": "https://melcom.com/tampico-citrus-punch-300ml.html"
+    },
+    {
+      "title": "AIRWICK FRESHMATIC SPARKLING CITRUS REFILL 250ML",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/9/49197a.jpg",
+      "url": "https://melcom.com/airwick-freshmatic-sparkling-citrus-refill-250ml.html"
+    },
+    {
+      "title": "PAPILION BABY COTTON BUDS 60PCS",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/6/96181a.jpg",
+      "url": "https://melcom.com/papilion-baby-cotton-buds-60pcs.html"
+    },
+    {
+      "title": "EASY MOUZUO ORANGE 200ML",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/2/32791a.jpg",
+      "url": "https://melcom.com/easy-mouzoo-orange-200ml.html"
+    },
+    {
+      "title": "UNIBIS CHOCOLATE CHIP COOKIES 75G",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94217a.jpg",
+      "url": "https://melcom.com/unibis-chocolate-chip-cookies-75g.html"
+    },
+    {
+      "title": "JACK DANIEL'S WHISKY OLD NO.7 BRAND 40% 700ML",
+      "price": "₵469.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36845a.jpg",
+      "url": "https://melcom.com/jack-daniel-s-whisky-old-no-7-brand-700ml.html"
+    }
+  ]
+}

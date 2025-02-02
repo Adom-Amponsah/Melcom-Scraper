@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 29,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:55:31.976Z",
+  "products": [
+    {
+      "title": "PEPSODENT KIDS ORANGE TOOTHPASTE 2-6YEARS 45G",
+      "price": "₵13.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/r/orange_1.jpg",
+      "url": "https://melcom.com/pepsodent-kids-orange-toothpaste-2-6years-45g.html"
+    },
+    {
+      "title": "PEPSODENT KIDS STRAWBERRY TOOTHPASTE 2-6YEARS 45G",
+      "price": "₵13.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/t/strawberry.jpg",
+      "url": "https://melcom.com/pepsodent-kids-strawberry-toothpaste-2-6years-45g.html"
+    },
+    {
+      "title": "MCCAIN SWEET POTATO ROSEMARY&GARLIC 500G",
+      "price": "₵119.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/164540.png",
+      "url": "https://melcom.com/mccain-sweet-potato-rosemary-garlic-500g.html"
+    },
+    {
+      "title": "HARIBO TANGFASTICS 100G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/164152-removebg-preview_1_.png",
+      "url": "https://melcom.com/haribo-tangfastics-100g.html"
+    },
+    {
+      "title": "HARIBO HAPPY COLA 100G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/164124-removebg-preview_1_.png",
+      "url": "https://melcom.com/haribo-happy-cola-100g.html"
+    },
+    {
+      "title": "HARIBO GOLDBAREN 100G",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/164123-removebg-preview_1_.png",
+      "url": "https://melcom.com/haribo-goldbaren-100g.html"
+    },
+    {
+      "title": "HARIBO SQUIDGIES 80G",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/164116-removebg-preview_1_.png",
+      "url": "https://melcom.com/haribo-squidgies-80g.html"
+    },
+    {
+      "title": "WRIGLEY-S EXTRA WHITE BUBBLEMINT CHEW SUGARFREE 10PCS",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159040.png",
+      "url": "https://melcom.com/wrigley-s-extra-white-bubblemint-chew-sugarfree-10pcs.html"
+    },
+    {
+      "title": "WRIGLEYS AIRWAVES MENTHOL & EUCALYPTUS 10PCS",
+      "price": "₵8.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/i/m/image.jpg",
+      "url": "https://melcom.com/wrigleys-airwaves-menthol-eucalyptus-10pcs.html"
+    },
+    {
+      "title": "WRIGLEYS AIRWAVES BLACKMINT 10PCS",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159006.png",
+      "url": "https://melcom.com/wrigleys-airwaves-blackmint-10pcs.html"
+    },
+    {
+      "title": "WRIGLEYS AIRWAVES BLACKCURRANT SUGARFREE 10PCS",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159004.png",
+      "url": "https://melcom.com/wrigleys-airwaves-blackcurrant-sugarfree-10pcs.html"
+    },
+    {
+      "title": "WRIGLEY EXTRA SPEARMINT CHEWING GUM SUGARFREE 10PCS",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158991.png",
+      "url": "https://melcom.com/wrigley-extra-spearmint-chewing-gum-sugarfree-10pcs.html"
+    },
+    {
+      "title": "WRIGLEY EXTRA ICE PEPPERMINT SUGARFREE GUM 10PCS",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158985.png",
+      "url": "https://melcom.com/wrigley-extra-ice-peppermint-sugarfree-gum-10pcs.html"
+    },
+    {
+      "title": "SIMONINI SALSICCIA CURVA PICCANTE GR.320 S/V",
+      "price": "₵149.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158759_ie0aamf.png",
+      "url": "https://melcom.com/simonini-salsiccia-curva-piccante-gr-320-s-v.html"
+    },
+    {
+      "title": "DELI ELLE&VIRE EMMENTAL CHEESE 3-4KG",
+      "price": "₵299.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146763_2.png",
+      "url": "https://melcom.com/deli-elle-vire-emmental-cheese-3-4kg.html"
+    },
+    {
+      "title": "BAYARA SOUK EXTRA MIXED NUTS PREMIUM 2KG",
+      "price": "₵569.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146479.png",
+      "url": "https://melcom.com/bayara-souk-extra-mixed-nuts-premium-2kg.html"
+    },
+    {
+      "title": "KLEESOFT PERFUMED WASHING POWDER 420G",
+      "price": "₵15.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92255a.jpg",
+      "url": "https://melcom.com/kleesoft-perfumed-washing-powder-420g.html"
+    },
+    {
+      "title": "NERO NATURAL MINERAL WATER 500ML",
+      "price": "₵1.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104804a.jpg",
+      "url": "https://melcom.com/nero-natural-mineral-water-500ml.html"
+    },
+    {
+      "title": "PEPSODENT CAVITY FIGHTER TOOTHPASTE  200G",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/9/29393a.jpg",
+      "url": "https://melcom.com/pepsodent-cavity-fighter-toothpaste-200g.html"
+    },
+    {
+      "title": "HAPPY DELIGHT MULTI-FRUIT FRUIT JUICE 1L",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/40550a.jpg",
+      "url": "https://melcom.com/happy-delight-multi-fruit-fruit-juice-1l.html"
+    },
+    {
+      "title": "HAPPY DELIGHT TROPICAL FRUIT JUICE 1L",
+      "price": "₵24.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/40548a.jpg",
+      "url": "https://melcom.com/happy-delight-tropical-fruit-juice-1l.html"
+    },
+    {
+      "title": "7UP SUGARFREE CARBONATED DRINK 330ML",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/40092a.jpg",
+      "url": "https://melcom.com/7up-sugarfree-carbonated-drink-330ml.html"
+    },
+    {
+      "title": "SANPELLEGRINO LIMONATA SPARKLING DRINK 330ML",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/15300a.jpg",
+      "url": "https://melcom.com/sanpellegrino-limonata-sparkling-drink-330ml.html"
+    },
+    {
+      "title": "SIMBA CHUNKS WITH CHIC AND LIVER  DOG FOOD 150GM",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/134446.jpg",
+      "url": "https://melcom.com/simba-chunks-with-chic-and-liver-dog-food-150gm.html"
+    },
+    {
+      "title": "YUMS TOMATO KETCHUP PET 340G",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155955a.jpg",
+      "url": "https://melcom.com/yums-tomato-ketchup-pet-340g.html"
+    },
+    {
+      "title": "YUMS MAYONNAISE 235ML",
+      "price": "₵17.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146773a.jpg",
+      "url": "https://melcom.com/yums-mayonnaise-235ml.html"
+    },
+    {
+      "title": "SIMBA CAT WITH BEEF 415G",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118316.jpg",
+      "url": "https://melcom.com/simba-cat-with-beef-415g.html"
+    },
+    {
+      "title": "SIMBA CAT WITH CHICKEN 415G",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/122522.jpg",
+      "url": "https://melcom.com/simba-cat-with-chicken-415g.html"
+    },
+    {
+      "title": "SIMBA CAT WITH TUNA 415G",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/122524.jpg",
+      "url": "https://melcom.com/simba-cat-with-tuna-415g.html"
+    },
+    {
+      "title": "KIVO CLASSIC BAKED BEANS IN TOMATO SAUCE 400G",
+      "price": "₵24.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108399a.jpg",
+      "url": "https://melcom.com/kivo-classic-baked-beans-in-tomato-sauce-400g.html"
+    },
+    {
+      "title": "KIVO GOOD TIME NON DAIRY CREAMER 250G",
+      "price": "₵19.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/119658a.jpg",
+      "url": "https://melcom.com/kivo-good-time-non-dairy-creamer-250g.html"
+    },
+    {
+      "title": "ZESTA APPLE TEA 25-TEA BAGS 45G",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/2/32412a.jpg",
+      "url": "https://melcom.com/zesta-apple-tea-25-tea-bags-45g.html"
+    }
+  ]
+}

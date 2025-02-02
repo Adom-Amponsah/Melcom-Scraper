@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 85,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:00:17.457Z",
+  "products": [
+    {
+      "title": "ABIDO BIRYANI SPICES POUCH 50G",
+      "price": "₵21.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108346a.jpg",
+      "url": "https://melcom.com/abido-biryani-spices-pouch-50g.html"
+    },
+    {
+      "title": "ABIDO SHAWARMA SPICES POUCH 50G",
+      "price": "₵31.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108360a.jpg",
+      "url": "https://melcom.com/abido-shawarma-spices-pouch-50g.html"
+    },
+    {
+      "title": "CHTOURA OLIVES GARDEN GREEN 1KG",
+      "price": "₵94.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108582a.jpg",
+      "url": "https://melcom.com/chtoura-olives-garden-green-1kg.html"
+    },
+    {
+      "title": "CHTOURA CONSERVES GARDEN STUFFED EGGPLANT 350G",
+      "price": "₵95.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108517a.jpg",
+      "url": "https://melcom.com/chtoura-conserves-garden-stuffed-eggplant-350g.html"
+    },
+    {
+      "title": "EAT REAL QUINOA SOUR CREAM & CHIVE 30G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105842.jpg",
+      "url": "https://melcom.com/eat-real-quinoa-sour-cream-chive-30g.html"
+    },
+    {
+      "title": "DARLING CELLARS SAUVIGNON BLANC 12% 750ML",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108234a.jpg",
+      "url": "https://melcom.com/darling-cellars-sauvignon-blanc-750ml.html"
+    },
+    {
+      "title": "NESTLE CEREAL CHEERIOS HONEY FIBRE DELICIOUS 375G",
+      "price": "₵101.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/13882b_4.jpg",
+      "url": "https://melcom.com/nestle-cereal-cheerios-honey-fibre-delicious-375g.html"
+    },
+    {
+      "title": "GRANORO ELICOIDALI NO 23.1023 500G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/7663-removebg-preview_1_.png",
+      "url": "https://melcom.com/granoro-elicoidali-no-23-1023-500g.html"
+    },
+    {
+      "title": "HARIBO STARMIX CANDIES 140G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/7/47177a.jpg",
+      "url": "https://melcom.com/haribo-starmix-candies.html"
+    },
+    {
+      "title": "MOET & CHANDON ROSE IMPERIAL CHAMPAGNE 12% 750ML",
+      "price": "₵1,249.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/7/37757a.jpg",
+      "url": "https://melcom.com/moet-chandon-rose-imperial-champagne-750ml.html"
+    },
+    {
+      "title": "FRUTAIL CRANBERRY DRINK 1L",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104520a.jpg",
+      "url": "https://melcom.com/frutail-cranberry-drink-1l.html"
+    },
+    {
+      "title": "DARLING CELLARS CLASSIC SWEET RED 12.5% 750ML",
+      "price": "₵114.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108235a.jpg",
+      "url": "https://melcom.com/darling-cellars-classic-sweet-red-750ml-12-5.html"
+    },
+    {
+      "title": "KERRYGOLD FULL CREAM MILK POWDER 400G TIN  12",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/400g_tin.jpg",
+      "url": "https://melcom.com/kerrygold-full-cream-milk-powder-400g-tin-12.html"
+    },
+    {
+      "title": "HAPPYFLAKES WHITE OATS 500G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107275a.jpg",
+      "url": "https://melcom.com/happyflakes-white-oats-500g.html"
+    },
+    {
+      "title": "KERRYGOLD AVANTAGE MILK POWDER TIN 400G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/400g.jpg",
+      "url": "https://melcom.com/kerrygold-fat-filled-milk-powder-tin-400g.html"
+    },
+    {
+      "title": "KERRYGOLD AVANTAGE MILK POWDER TIN 900G",
+      "price": "₵122.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/0/900g.jpg",
+      "url": "https://melcom.com/kerrygold-fat-filled-milk-powder-tin-900g.html"
+    },
+    {
+      "title": "HAHNE WHITE OATS IN BAG 500G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/101692a.jpg",
+      "url": "https://melcom.com/hahne-white-oats-in-bag-500g.html"
+    },
+    {
+      "title": "RAMBO OMEGA 3 SARDINES IN VEGETABLE OIL 125G",
+      "price": "₵10.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/110719b.jpg",
+      "url": "https://melcom.com/rambo-omega-3-sardines-in-vegetable-oil-125g.html"
+    },
+    {
+      "title": "KERRYGOLD FULL CREAM MILK POWDER POUCH 900G",
+      "price": "₵199.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/o/pouch_1.jpg",
+      "url": "https://melcom.com/kerrygold-full-cream-milk-powder-pouch-900g.html"
+    },
+    {
+      "title": "AFRICA FACIAL TISSUE 2PLY 150 TISSUES",
+      "price": "₵12.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/6/56619a.jpg",
+      "url": "https://melcom.com/africa-facial-tissue-2ply-150-tissues.html"
+    },
+    {
+      "title": "BLING BLEACH 5L",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103892a.jpg",
+      "url": "https://melcom.com/bling-bleach-5l.html"
+    },
+    {
+      "title": "ENA PA MACKEREL IN TOMATO SAUCE 155G",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/3/23132_1_1.jpg",
+      "url": "https://melcom.com/ena-pa-mackerel-in-tomato-sauce-155g.html"
+    },
+    {
+      "title": "ZWAN BEEF LUNCHEON MEAT 200G",
+      "price": "₵38.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/0/00362a_2.jpg",
+      "url": "https://melcom.com/zwan-beef-luncheon-meat-200g.html"
+    },
+    {
+      "title": "UNIBIS HONEY OATMEAL COOKIES 75G",
+      "price": "₵10.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94218a.jpg",
+      "url": "https://melcom.com/unibis-honey-oatmeal-cookies-75g.html"
+    },
+    {
+      "title": "CUSSONS MORNING FRESH DISH WASH ZESTY LEMON 450G",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/7/57878_1a.jpg",
+      "url": "https://melcom.com/cussons-morning-fresh-dish-wash-zesty-lemon-450g.html"
+    },
+    {
+      "title": "CUSSONS MORNING FRESH DISH WASH ORIGINAL 450ML",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/7/57869_1a.jpg",
+      "url": "https://melcom.com/cussons-morning-fresh-dish-wash-original-450ml.html"
+    },
+    {
+      "title": "CUSSONS BABY POWDER MILD & GENTLE 200G",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/3/23061a.jpg",
+      "url": "https://melcom.com/cussons-baby-powder-mild-gentle-200g.html"
+    },
+    {
+      "title": "CUSSONS BABY OIL SOFT & SMOOTH 200ML",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/9/29452a.jpg",
+      "url": "https://melcom.com/cussons-baby-oil-soft-smooth-200ml.html"
+    },
+    {
+      "title": "CUSSONS BABY OIL MILD & GENTLE 100ML",
+      "price": "₵10.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/3/23063a.jpg",
+      "url": "https://melcom.com/cussons-baby-oil-mild-gentle-100ml.html"
+    },
+    {
+      "title": "CUSSONS BABY OIL MILD & GENTLE 200ML",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/9/29453a.jpg",
+      "url": "https://melcom.com/cussons-baby-oil-mild-gentle-200ml.html"
+    },
+    {
+      "title": "CAMEL ANTI-SOAP COOLING MENTHOL 175G",
+      "price": "₵15.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/3/63870a.jpg",
+      "url": "https://melcom.com/camel-anti-soap-cooling-menthol-175g.html"
+    },
+    {
+      "title": "KELLOGG'S ALL BRAN ORIGINAL GUT 750G",
+      "price": "₵124.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08377b_1.jpg",
+      "url": "https://melcom.com/kellogg-s-all-bran-original-gut-750g.html"
+    }
+  ]
+}

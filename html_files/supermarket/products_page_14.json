@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 14,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:54:18.452Z",
+  "products": [
+    {
+      "title": "ONION WHITEKS PACK",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144751.png",
+      "url": "https://melcom.com/onion-whiteks-pack.html"
+    },
+    {
+      "title": "CARROTS STICKS IN PACK",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/c/a/carr1.png",
+      "url": "https://melcom.com/carrots-sticks-in-pack.html"
+    },
+    {
+      "title": "APPLE ROYAL GALA FRESH PACK",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147065.png",
+      "url": "https://melcom.com/apple-royal-gala-fresh-pack.html"
+    },
+    {
+      "title": "GARLIC GP PACK",
+      "price": "₵8.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133254.png",
+      "url": "https://melcom.com/garlic-gp-pack.html"
+    },
+    {
+      "title": "GREEN PEPPER GP PACK",
+      "price": "₵21.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133399.png",
+      "url": "https://melcom.com/green-pepper-gp-pack.html"
+    },
+    {
+      "title": "SPRING ONIONS PACK VF",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136314_1.png",
+      "url": "https://melcom.com/spring-onions-pack-vf.html"
+    },
+    {
+      "title": "LEMON LOCAL PACK VF",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136365.png",
+      "url": "https://melcom.com/lemon-local-pack-vf.html"
+    },
+    {
+      "title": "WATERMELON VF 1KG",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137470_2.png",
+      "url": "https://melcom.com/watermelon-vf-1kg.html"
+    },
+    {
+      "title": "PUMPKIN -KS 1PC",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/k/p/kpp.png",
+      "url": "https://melcom.com/pumpkin-ks-1pc.html"
+    },
+    {
+      "title": "ONION-TFM BAG",
+      "price": "₵28.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139339_1.png",
+      "url": "https://melcom.com/onion-tfm-bag.html"
+    },
+    {
+      "title": "GREEN PEPPER-TFM PACK",
+      "price": "₵9.80",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139341.png",
+      "url": "https://melcom.com/green-pepper-tfm-pack.html"
+    },
+    {
+      "title": "SQUASH-TFM PACK",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139343_1.png",
+      "url": "https://melcom.com/squash-tfm-pack.html"
+    },
+    {
+      "title": "LETTUCE-TFM PACK",
+      "price": "₵11.20",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139345_1.png",
+      "url": "https://melcom.com/lettuce-tfm-pack.html"
+    },
+    {
+      "title": "SPRING ONION TFM PCS",
+      "price": "₵7.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139347.png",
+      "url": "https://melcom.com/spring-onion-tfm-pcs.html"
+    },
+    {
+      "title": "TOMATO (BIG) -TFM PACK",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139349.png",
+      "url": "https://melcom.com/tomato-big-tfm-pack.html"
+    },
+    {
+      "title": "EGG PLANT-TFM PACK",
+      "price": "₵11.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139353.png",
+      "url": "https://melcom.com/egg-plant-tfm-pack.html"
+    },
+    {
+      "title": "YAM -TFM BIG 1PC",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139911_1.png",
+      "url": "https://melcom.com/yam-tfm-big-1pc.html"
+    },
+    {
+      "title": "SWEET POTATO 1-PACK",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136368.png",
+      "url": "https://melcom.com/sweet-potato-1-pack.html"
+    },
+    {
+      "title": "PLUM IMPORT 1-PACK",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138153.png",
+      "url": "https://melcom.com/plum-import-1-pack.html"
+    },
+    {
+      "title": "TOMATO-GP PACK",
+      "price": "₵41.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139382.png",
+      "url": "https://melcom.com/tomato-gp-pack.html"
+    },
+    {
+      "title": "RED HABANERO PACK",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136297_1.png",
+      "url": "https://melcom.com/red-habanero-pack.html"
+    },
+    {
+      "title": "APPLE GRANNY SMITH FRESH PACK",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158539_1.png",
+      "url": "https://melcom.com/apple-granny-smith-fresh-pack.html"
+    },
+    {
+      "title": "POTATO AMADINE 35-55MM 6*2.5KG CARRYBAG",
+      "price": "₵129.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/154890_1.png",
+      "url": "https://melcom.com/potato-amadine-35-55mm-6-2-5kg-carrybag.html"
+    },
+    {
+      "title": "CABBAGE-TFM 1PC",
+      "price": "₵14.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139340.png",
+      "url": "https://melcom.com/cabbage-tfm-1pc.html"
+    },
+    {
+      "title": "EMBORG FROZEN FRUITS BLUEBERRY & STRAWBERRY 400G",
+      "price": "₵132.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/1/91988.png",
+      "url": "https://melcom.com/emborg-frozen-fruits-blueberry-strawberry-400g.html"
+    },
+    {
+      "title": "GRAPE WHITE SEEDLESS SMALL PACK",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97361.png",
+      "url": "https://melcom.com/grape-white-seedless-small-pack.html"
+    },
+    {
+      "title": "ENO'S PALM NUT PULP WITH TURKEY BERRY 1KG",
+      "price": "₵58.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/165819.png",
+      "url": "https://melcom.com/eno-s-palm-nut-pulp-with-turkey-berry-1kg.html"
+    },
+    {
+      "title": "DOVE BAR SOAP GO FRESH CUCUMBER 4PK",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149582.png",
+      "url": "https://melcom.com/dove-bar-soap-go-fresh-cucumber-4pk.html"
+    },
+    {
+      "title": "JUVER DISFRUTA PEAR PINA DRINK 330ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126468.png",
+      "url": "https://melcom.com/juver-disfruta-pear-pina-drink-330ml.html"
+    },
+    {
+      "title": "JUVER DISFRUTA PEACH DRINK 330ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126469.png",
+      "url": "https://melcom.com/juver-disfruta-peach-drink-330ml.html"
+    },
+    {
+      "title": "JUVER DISFRUTA  MANGO DRINK 330ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126470.png",
+      "url": "https://melcom.com/juver-disfruta-mango-drink-330ml.html"
+    },
+    {
+      "title": "JUVER DISFRUTA  APPLE DRINK 330ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126471.png",
+      "url": "https://melcom.com/juver-disfruta-apple-drink-330ml.html"
+    }
+  ]
+}

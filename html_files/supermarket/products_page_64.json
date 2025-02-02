@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 64,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:58:29.952Z",
+  "products": [
+    {
+      "title": "MAGGI SEASONING POWDER SHRIMP FLAVOR 100G",
+      "price": "₵10.89",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/115707a_1.jpg",
+      "url": "https://melcom.com/maggi-seasoning-powder-shrimp-flavor-100g.html"
+    },
+    {
+      "title": "ONGA TABLET (64TABS X12G) SHRIMP FLAVOR",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/6/26965.jpg",
+      "url": "https://melcom.com/onga-tablet-64tabs-x12g-shrimp-flavor.html"
+    },
+    {
+      "title": "MAGGI DEDEEDE CUBE 600G",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/m/a/maggi_dedeede_seasoning_24_60x10g_c.jpg",
+      "url": "https://melcom.com/maggi-dedeede-cube-600g.html"
+    },
+    {
+      "title": "SAF LEVURE INSTANT YEAST PACK 500G",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/9/7969.jpg",
+      "url": "https://melcom.com/saf-levure-instant-yeast-pack-500g.html"
+    },
+    {
+      "title": "KREMELA CREAMER 250G",
+      "price": "₵17.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99574.jpg",
+      "url": "https://melcom.com/kremela-creamer-250g.html"
+    },
+    {
+      "title": "AMERICAN COLA CAN 330ML",
+      "price": "₵6.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69059.jpg",
+      "url": "https://melcom.com/american-cola-can-330ml.html"
+    },
+    {
+      "title": "DR. MALT DARK CAN 330ML",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69055.jpg",
+      "url": "https://melcom.com/dr-malt-dark-can-330ml.html"
+    },
+    {
+      "title": "COKE ZERO PET 300ML",
+      "price": "₵5.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/5/95403.jpg",
+      "url": "https://melcom.com/coke-zero-pet-300ml.html"
+    },
+    {
+      "title": "STORM ENERGY DRINK 500ML",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/16639.jpg",
+      "url": "https://melcom.com/storm-energy-drink-500ml.html"
+    },
+    {
+      "title": "NESCAFE COFFEE GOLD BLEND 95G",
+      "price": "₵104.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/9/19637.jpg",
+      "url": "https://melcom.com/nescafe-coffee-gold-blend-95g.html"
+    },
+    {
+      "title": "COWBELL COFFEE 40G",
+      "price": "₵5.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/7/x745.jpg",
+      "url": "https://melcom.com/cowbell-coffee-40g.html"
+    },
+    {
+      "title": "MIKSI CHOCO  3 IN 1 SACHET 40G",
+      "price": "₵4.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/113183.jpg",
+      "url": "https://melcom.com/miksi-choco-3-in-1-sachet-40g.html"
+    },
+    {
+      "title": "COWBELL CHOCOMALT 40G",
+      "price": "₵5.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/7/n747.jpg",
+      "url": "https://melcom.com/cowbell-chocomalt-40g.html"
+    },
+    {
+      "title": "AWAKE MINERAL WATER 1.5L",
+      "price": "₵4.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69153.jpg",
+      "url": "https://melcom.com/awake-mineral-water-1-5l.html"
+    },
+    {
+      "title": "ROYALTY COCKTAIL SAPPHIRE SPARKLING WINE 750ML",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/2/52685a.jpg",
+      "url": "https://melcom.com/royalty-cocktail-sapphire-sparkling-wine-750ml.html"
+    },
+    {
+      "title": "ROYALTY COCKTAIL PINEAPPLE EMERALD SPARKLING WINE 750ML",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/10350a.jpg",
+      "url": "https://melcom.com/royalty-cocktail-pineapple-emerald-sparkling-wine-750ml.html"
+    },
+    {
+      "title": "ROYALTY COCKTAIL RASPBERRY RUBY SPARKLING WINE 750ML",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08324a.jpg",
+      "url": "https://melcom.com/royalty-cocktail-raspberry-ruby-sparkling-wine-750ml.html"
+    },
+    {
+      "title": "PURE HEAVEN SPARKLING APPLE 750ML",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/1/01565a.jpg",
+      "url": "https://melcom.com/pure-heaven-sparkling-apple-750ml.html"
+    },
+    {
+      "title": "CADBURY DAIRY MILK DUO CHOCOLATE 54.4G",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118446.png",
+      "url": "https://melcom.com/cadbury-dairy-milk-duo-chocolate-54-4g.html"
+    },
+    {
+      "title": "CADBURY CHOCOLATE FLAKE (4 BARS)",
+      "price": "₵35.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/_/1_32.jpg",
+      "url": "https://melcom.com/cadbury-chocolate-flake-4-bars.html"
+    },
+    {
+      "title": "PEDIGREE SCHMACKOS DOG TREAT POULTRY  144G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/116043a.jpg",
+      "url": "https://melcom.com/pedigree-schmackos-dog-treat-poultry-144g.html"
+    },
+    {
+      "title": "SENAC SPARKLING COCKTAIL YELLOW  375ML",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_1_1_2.jpg",
+      "url": "https://melcom.com/senac-sparkling-cocktail-yellow-375ml.html"
+    },
+    {
+      "title": "PEDIGREE JUMBONE TREAT WITH BEEF 180G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/8/18838a_1.jpg",
+      "url": "https://melcom.com/pedigree-jumbone-treat-with-beef-180g.html"
+    },
+    {
+      "title": "TWININGS CEYLON TEA 25'S",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126306a.jpg",
+      "url": "https://melcom.com/twinings-ceylon-tea-25-s.html"
+    },
+    {
+      "title": "KERRYGOLD AVANTAGE MILK POWDER POUCH 400G",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_4_6.jpg",
+      "url": "https://melcom.com/kerrygold-fat-filled-milk-powder-pouch-400g.html"
+    },
+    {
+      "title": "ROSALINDA SARDINE IN VEGETABLE OIL 125G",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121711a.jpg",
+      "url": "https://melcom.com/rosalinda-sardine-in-vegetable-oil-125g.html"
+    },
+    {
+      "title": "STRETTON'S GIN 750ML PINK",
+      "price": "₵95.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/115199.jpg",
+      "url": "https://melcom.com/stretton-s-gin-750ml-pink.html"
+    },
+    {
+      "title": "EVERPACK WET NAPKINS (100 PIECES)",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93718_c.jpg",
+      "url": "https://melcom.com/everpack-wet-napkins-100-pieces.html"
+    },
+    {
+      "title": "COLGATE BABY TOOTHPASTE STRAWBERRY (0-2YRS) 50ML",
+      "price": "₵15.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/5/65112a_1.jpg",
+      "url": "https://melcom.com/colgate-baby-toothpaste-strawberry-0-2yrs-50ml.html"
+    },
+    {
+      "title": "PALMOLIVE GOURMET SPA STRAWBERRY SHOWER GEL 500ML",
+      "price": "₵57.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/9/59830a.jpg",
+      "url": "https://melcom.com/palmolive-gourmet-spa-strawberry-shower-gel-500ml.html"
+    },
+    {
+      "title": "PALMOLIVE AROMA SENSATON MINERAL SCRUB 500ML",
+      "price": "₵58.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/9/59829a.jpg",
+      "url": "https://melcom.com/palmolive-aroma-sensaton-mineral-scrub-500ml.html"
+    },
+    {
+      "title": "DELTA XMAS FACIAL TISSUE ASSORTED COLOUR",
+      "price": "₵12.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/9/49381a.jpg",
+      "url": "https://melcom.com/delta-xmas-facial-tissue-assorted-colour.html"
+    }
+  ]
+}

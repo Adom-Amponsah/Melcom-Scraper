@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 41,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:56:32.930Z",
+  "products": [
+    {
+      "title": "PRAN BUDDY CHOCO CHOCO 4GM X 100PCS",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149523a.jpg",
+      "url": "https://melcom.com/pran-buddy-choco-choco-4gm-x-100pcs.html"
+    },
+    {
+      "title": "WHITE HILLS RESERVE WHISKY 1L",
+      "price": "₵102.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149426.png",
+      "url": "https://melcom.com/white-hills-reserve-whisky-1l.html"
+    },
+    {
+      "title": "LOTUS BISCOFF CRUNCHY SPREAD 380G",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14891a.jpg",
+      "url": "https://melcom.com/lotus-biscoff-crunchy-spread-380g.html"
+    },
+    {
+      "title": "NUTELLA BISCUITS 12PC 166G",
+      "price": "₵74.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147633.png",
+      "url": "https://melcom.com/nutella-biscuits-12pc-166g.html"
+    },
+    {
+      "title": "ELLE&VIRE FRENCH CREAM CHEESE BLOCK 1KG",
+      "price": "₵299.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146762_1.png",
+      "url": "https://melcom.com/elle-vire-french-cream-cheese-block-1kg.html"
+    },
+    {
+      "title": "ELLE&VIRE WHIPPING CREAM 35% FAT 500ML",
+      "price": "₵109.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146674_1.png",
+      "url": "https://melcom.com/elle-vire-whipping-cream-35-fat-500ml.html"
+    },
+    {
+      "title": "CROCO SALTED MINI STICKS 250G",
+      "price": "₵48.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144192_1.png",
+      "url": "https://melcom.com/croco-salted-mini-sticks-250g.html"
+    },
+    {
+      "title": "CROCO BREZEL CRACKERS MIX 500G",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144191.png",
+      "url": "https://melcom.com/catalog/product/view/id/60914/s/croco-brezel-crackers-mix-500g/category/3112/"
+    },
+    {
+      "title": "PNUT PEANUT BUTTER SUGAR FREE 200G",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143886a.jpg",
+      "url": "https://melcom.com/pnut-peanut-butter-sugar-free-200g.html"
+    },
+    {
+      "title": "PNUT CRUNCHY PEANUT BUTTER 200G",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143630a.jpg",
+      "url": "https://melcom.com/pnut-crunchy-peanut-butter-200g.html"
+    },
+    {
+      "title": "PNUT CREAMY PEANUT BUTTER 340G",
+      "price": "₵38.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143627a.jpg",
+      "url": "https://melcom.com/pnut-creamy-peanut-butter-340g.html"
+    },
+    {
+      "title": "CASTANIA DATE + ALMOND BAR SF 38G",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143421.png",
+      "url": "https://melcom.com/catalog/product/view/id/60892/s/castania-date-almond-bar-sf-38g/category/3112/"
+    },
+    {
+      "title": "CASTANIA EGYPTIAN SEEDS - SMALL 70G",
+      "price": "₵21.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143263.png",
+      "url": "https://melcom.com/catalog/product/view/id/60885/s/castania-egyptian-seeds-small-70g/category/3112/"
+    },
+    {
+      "title": "CASTANIA PUMPKIN SEEDS 60G",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143227_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/60884/s/castania-pumpkin-seeds-60g/category/3112/"
+    },
+    {
+      "title": "CASTANIA YELLOW CHICKPEAS 70G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143225.png",
+      "url": "https://melcom.com/catalog/product/view/id/60883/s/castania-yellow-chickpeas-70g/category/3112/"
+    },
+    {
+      "title": "CASTANIA PEANUT IN SHELL 150G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143220_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/60882/s/castania-peanut-in-shell-150g/category/3112/"
+    },
+    {
+      "title": "FAIRY ANTI-BACTERIAL WASHING UP LIQUID EUCALYPTUS 383ML",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140281.png",
+      "url": "https://melcom.com/catalog/product/view/id/60880/s/fairy-anti-bacterial-washing-up-liquid-eucalyptus-383ml/category/3112/"
+    },
+    {
+      "title": "GULLON MEGA DUO VANILLA CREAM BISCUIT 500G",
+      "price": "₵56.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/131173a.jpg",
+      "url": "https://melcom.com/gullon-mega-duo-vanilla-cream-biscuit-500g.html"
+    },
+    {
+      "title": "GULLON MEGA DUO CHOCOLATE CREAM BISCUIT 500G",
+      "price": "₵56.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/131172a.jpg",
+      "url": "https://melcom.com/gullon-mega-duo-chocolate-cream-biscuit-500g.html"
+    },
+    {
+      "title": "BAYARA SOUK CHIA SEEDS 1KG",
+      "price": "₵159.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121698.png",
+      "url": "https://melcom.com/catalog/product/view/id/60864/s/bayara-souk-chia-seeds-1kg/category/3112/"
+    },
+    {
+      "title": "GULLON BIZCOCHOS BISCUITS 200G",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97328-removebg-preview_1_.png",
+      "url": "https://melcom.com/gullon-bizcochos-biscuits-200g.html"
+    },
+    {
+      "title": "GULLON DIGESTIVE 33% REDUCED FAT 400G",
+      "price": "₵43.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97320-removebg-preview_1_.png",
+      "url": "https://melcom.com/gullon-digestive-33-reduced-fat-400g.html"
+    },
+    {
+      "title": "SOFTCARE A+ SANITARY PAD 16PCS",
+      "price": "₵16.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92265a.jpg",
+      "url": "https://melcom.com/softcare-a-sanitary-pad-16pcs.html"
+    },
+    {
+      "title": "BELPAK  PERFUMED T-ROLL (LAVENDER) 10 ROLLS",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148279a.jpg",
+      "url": "https://melcom.com/belpak-perfumed-t-roll-lavender-10-rolls.html"
+    },
+    {
+      "title": "EVERPACK TRASH BAG HOUSEHOLD 20L",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/6/n638a.jpg",
+      "url": "https://melcom.com/everpack-trash-bag-household-20l.html"
+    },
+    {
+      "title": "AKO BLACK PEPPER SAUCE (SHITO) 420G",
+      "price": "₵61.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/k/ako_420g.jpg",
+      "url": "https://melcom.com/ako-black-pepper-sauce-shito-420g.html"
+    },
+    {
+      "title": "LIDO DISHWASHING LIQUID SOAP 540ML",
+      "price": "₵15.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148978.png",
+      "url": "https://melcom.com/lido-dishwashing-liquid-soap-540ml.html"
+    },
+    {
+      "title": "LIDO WASHING POWDER 800G",
+      "price": "₵27.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148976.png",
+      "url": "https://melcom.com/lido-washing-powder-800g.html"
+    },
+    {
+      "title": "BEL-AQUA MINERAL WATER JAR 4L",
+      "price": "₵15.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146646_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/60506/s/bel-aqua-mineral-water-jar-4l/category/3112/"
+    },
+    {
+      "title": "BELPAK PREMIUM KITCHEN TOWEL (NON-PERFORATED)",
+      "price": "₵46.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145813a.jpg",
+      "url": "https://melcom.com/belpak-premium-kitchen-towel-non-perforated.html"
+    },
+    {
+      "title": "BELPAK MEGA MULTIPURPOSE TOWEL",
+      "price": "₵42.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145811a.jpg",
+      "url": "https://melcom.com/belpak-mega-multipurpose-towel.html"
+    },
+    {
+      "title": "BELPAK ECO T-ROLL 10 ROLLS",
+      "price": "₵35.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145808a.jpg",
+      "url": "https://melcom.com/belpak-eco-t-roll-10-rolls.html"
+    }
+  ]
+}

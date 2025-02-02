@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 106,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:02:03.894Z",
+  "products": [
+    {
+      "title": "SENAC SPARKLING COCKTAIL BLUE 750ML",
+      "price": "₵53.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/4/24990_1_1.jpg",
+      "url": "https://melcom.com/senac-sparkling-cocktail-blue-750ml.html"
+    },
+    {
+      "title": "SENAC RED NON-ALCOHOLIC WINE 1L",
+      "price": "₵45.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74425_1_1.jpg",
+      "url": "https://melcom.com/senac-red-non-alcoholic-wine-1l.html"
+    },
+    {
+      "title": "QUAKER OATS TIN 500G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/6/x659_1_1.jpg",
+      "url": "https://melcom.com/quaker-oats-tin-500g.html"
+    },
+    {
+      "title": "PURE HEAVEN TROPICAL JUICE 1L",
+      "price": "₵42.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/0/n040_1_1.jpg",
+      "url": "https://melcom.com/pure-heaven-tropical-juice-tetra-pak-1l.html"
+    },
+    {
+      "title": "EVP DISPOSABLE 2 LAYER PLATES 50 PCS",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_2_1_6.jpg",
+      "url": "https://melcom.com/evp-disposable-2-layer-plates-50-pcs.html"
+    },
+    {
+      "title": "FLORAL TOILET ROLL 24 ROLLS",
+      "price": "₵105.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/5/55686_2_1.jpg",
+      "url": "https://melcom.com/floral-toilet-roll-24-rolls.html"
+    },
+    {
+      "title": "FLORA TISSUE 3 PLY 4 ROLLS",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/4/44862_2_1.jpg",
+      "url": "https://melcom.com/floral-tissue-3-ply-4-rolls.html"
+    },
+    {
+      "title": "EVERPACK LUNCH NAPKINS PLAIN 100 SHEETS",
+      "price": "₵10.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/1/d136a.jpg",
+      "url": "https://melcom.com/lunch-napkis-plain-100-sheets.html"
+    },
+    {
+      "title": "FESTIVAL SPARKLING WINE RED COCKTAIL 750ML",
+      "price": "₵50.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/7/67248_1_2.jpg",
+      "url": "https://melcom.com/festival-sparkling-wine-red-cocktail-750ml.html"
+    },
+    {
+      "title": "EVERPACK DISPOSABLE CUPS 50 PCS 350ML",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/e/v/everpack_1.png",
+      "url": "https://melcom.com/everpack-disposable-cups-50-pcs-350ml.html"
+    },
+    {
+      "title": "SHINE FAMILY DISPOPLATES LARGE 50PCS",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75053a_1.jpg",
+      "url": "https://melcom.com/shine-family-dispoplates-large-50pcs.html"
+    },
+    {
+      "title": "PARIDOX ALATA SAMINA GEL LEMON 450ML",
+      "price": "₵42.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/8/38044_1.jpg",
+      "url": "https://melcom.com/paridox-alata-samina-gel-lemon-450ml.html"
+    },
+    {
+      "title": "TETLEY ORIGINAL TEA 125G",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74112_1a.jpg",
+      "url": "https://melcom.com/tetley-original-tea-125g.html"
+    },
+    {
+      "title": "FERRERO ROCHER 200G",
+      "price": "₵142.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/4/54915_1a_1.jpg",
+      "url": "https://melcom.com/ferrero-rocher-200g.html"
+    },
+    {
+      "title": "JOHNNIE WALKER RED LABEL WHISKY 40% 750ML",
+      "price": "₵269.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75289_3a_1.jpg",
+      "url": "https://melcom.com/johnnie-walker-red-label-whisky-750ml.html"
+    },
+    {
+      "title": "BACARDI RUM GOLD 40% 1L",
+      "price": "₵359.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/7/07287_1a.jpg",
+      "url": "https://melcom.com/bacardi-rum-gold-1l.html"
+    },
+    {
+      "title": "MALIBU CARRIBBEAN WHITE RUM 1L",
+      "price": "₵184.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/8/a897_1a.jpg",
+      "url": "https://melcom.com/malibu-carribbean-white-rum-1l.html"
+    },
+    {
+      "title": "TAKAI COCOA & COFFEE LIQUEUR 27% 750ML",
+      "price": "₵154.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/8/a807_1a_1.jpg",
+      "url": "https://melcom.com/takai-cocoa-coffee-liqueur-750ml.html"
+    },
+    {
+      "title": "NIVEA RICH NOURISHING BODY CREAM 400ML",
+      "price": "₵96.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66443_1a.jpg",
+      "url": "https://melcom.com/nivea-rich-nourishing-body-cream-400ml.html"
+    },
+    {
+      "title": "NIVEA EXPRESS HYDRATION BODY LOTION 400ML",
+      "price": "₵141.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/16844_1a.jpg",
+      "url": "https://melcom.com/nivea-express-hydration-body-lotion-400ml.html"
+    },
+    {
+      "title": "NIVEA SMOOTH SENSATION BODY LOTION 400ML",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/16829_1a.jpg",
+      "url": "https://melcom.com/nivea-smooth-sensation-body-lotion-400ml.html"
+    },
+    {
+      "title": "NIVEA MEN BODY LOTION MAXIMUM HYDRATION 400ML",
+      "price": "₵141.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66441_1a_1.jpg",
+      "url": "https://melcom.com/nivea-men-body-lotion-maximum-hydration-400ml.html"
+    },
+    {
+      "title": "VASELINE MEN COOLING BODY LOTION 400ML",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/4/04199_1a.jpg",
+      "url": "https://melcom.com/vaseline-men-cooling-body-lotion-400ml.html"
+    },
+    {
+      "title": "WILD TURKEY BOURBON WHISKY 40.5% 700ML",
+      "price": "₵264.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/4/04107_1_1.jpg",
+      "url": "https://melcom.com/wild-turkey-bourbon-whisky-700ml.html"
+    },
+    {
+      "title": "SIR EDWARD'S WHISKEY IN BOX 40% 700ML",
+      "price": "₵199.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/11254_1.jpg",
+      "url": "https://melcom.com/sir-edward-s-whiskey-in-box-700ml.html"
+    },
+    {
+      "title": "EVERPACK PAPER NAPKIN / KITCHEN TOWEL MEDIUM SIZE 2 ROLLS",
+      "price": "₵18.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/6/n636_1_1.jpg",
+      "url": "https://melcom.com/everpack-paper-napkin-kitchen-towel-medium-size-2-rolls.html"
+    },
+    {
+      "title": "EVERPACK PAPER NAPKIN / KITCHEN TOWEL LARGE SIZE 2 ROLLS",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/5/n572_1_1.jpg",
+      "url": "https://melcom.com/everpack-paper-napkin-kitchen-towel-large-size-2-rolls.html"
+    },
+    {
+      "title": "BOUNTY PAPER TOWEL 2PLY SHEETS",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/3/03616_1_1.jpg",
+      "url": "https://melcom.com/bounty-paper-towel-2ply-sheets.html"
+    },
+    {
+      "title": "EVERPACK EVERGREEN TOILET ROLL 4ROLLS",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/4/54532_1_1.jpg",
+      "url": "https://melcom.com/everpack-evergreen-toilet-roll-4rolls.html"
+    },
+    {
+      "title": "EVERPACK TOILET ROLL FLUFFY PACK (24 ROLLS)",
+      "price": "₵109.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/0/40489_1_1.jpg",
+      "url": "https://melcom.com/everpack-toilet-roll-fluffy-pack-24-rolls.html"
+    },
+    {
+      "title": "EVERPACK EVERGREEN TOILET ROLL (10 ROLLS)",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/4/54534_1_1.jpg",
+      "url": "https://melcom.com/everpack-evergreen-toilet-roll-10-rolls.html"
+    },
+    {
+      "title": "KINDER BUENO CHOCOLATE 43G",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/9/39192a.jpg",
+      "url": "https://melcom.com/kinder-bueno-chocolate-43g.html"
+    }
+  ]
+}

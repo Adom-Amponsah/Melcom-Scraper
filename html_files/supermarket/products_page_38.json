@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 38,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:56:17.879Z",
+  "products": [
+    {
+      "title": "ROMAR AIR FRESHNER SPA 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143775.png",
+      "url": "https://melcom.com/romar-air-freshner-spa-300ml.html"
+    },
+    {
+      "title": "ROMAR AIR FRESHNER ROSES 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143774.png",
+      "url": "https://melcom.com/romar-air-freshner-roses-300ml.html"
+    },
+    {
+      "title": "ROMAR AIR FRESHNER PINE 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143753.png",
+      "url": "https://melcom.com/romar-air-freshner-pine-300ml.html"
+    },
+    {
+      "title": "FOUR SPECIAL CHOCOLATE SWEET RED WINE 10% 750ML",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/142207a.jpg",
+      "url": "https://melcom.com/four-special-chocolate-sweet-red-wine-10-750ml.html"
+    },
+    {
+      "title": "LOVE PANTY LINERS NORMAL 30-PIECES",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139319a.jpg",
+      "url": "https://melcom.com/love-panty-liners-normal-30-pieces.html"
+    },
+    {
+      "title": "BUMBLE BABY POCKET WIPES HONEYSUCKLE 15-PIECES",
+      "price": "₵4.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138799a.jpg",
+      "url": "https://melcom.com/bumble-baby-pocket-wipes-honeysuckle-15-pieces.html"
+    },
+    {
+      "title": "HEINZ TOMATO KETCHUP 1.25KG",
+      "price": "₵123.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138028.png",
+      "url": "https://melcom.com/catalog/product/view/id/61529/s/heinz-tomato-ketchup-1-25kg/category/3112/"
+    },
+    {
+      "title": "FIREBALL CINNAMON WHISKY 33% 1L",
+      "price": "₵340.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/f/f/ff.jpg",
+      "url": "https://melcom.com/fireball-cinnamon-whisky-33-1l.html"
+    },
+    {
+      "title": "BUMBLE BABY WET WIPES HONEYSUCKLE 72PCS",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/b/u/bumble_2.png",
+      "url": "https://melcom.com/bumble-baby-wet-wipes-honeysuckle-72pcs.html"
+    },
+    {
+      "title": "BUMBLE BABY WET WIPES MEDITERRANEAN 120PCS",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137495.png",
+      "url": "https://melcom.com/bumble-baby-wet-wipes-mediterranean-120pcs.html"
+    },
+    {
+      "title": "BUMBLE BABY WET WIPES ROSE DREAM 100PCS",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/b/u/bumble-wet-wipes-100-pcs-rose_1.png",
+      "url": "https://melcom.com/bumble-baby-wet-wipes-rose-dream-100pcs.html"
+    },
+    {
+      "title": "BUMBLE BABY WET WIPES BABY SCENTED 100PCS",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137491.png",
+      "url": "https://melcom.com/bumble-baby-wet-wipes-baby-scented-100pcs.html"
+    },
+    {
+      "title": "BUMBLE DIAPERS JUMBO N1 NEWBORN 86PCS",
+      "price": "₵279.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137482.png",
+      "url": "https://melcom.com/bumble-diapers-jumbo-n1-newborn-86pcs.html"
+    },
+    {
+      "title": "FOUR SPECIAL ROSE WINE 10% 750ML",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137129a.jpg",
+      "url": "https://melcom.com/four-special-rose-wine-10-750ml.html"
+    },
+    {
+      "title": "BELOXXI CREAM CRACKERS 90G",
+      "price": "₵8.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133051.png",
+      "url": "https://melcom.com/beloxxi-cream-crackers-90g.html"
+    },
+    {
+      "title": "ROMAR REFILL AUTOM AIR FRESH LOVE DCL 250ML",
+      "price": "₵47.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/131082.png",
+      "url": "https://melcom.com/romar-refill-autom-air-fresh-love-dcl-250ml.html"
+    },
+    {
+      "title": "ROMAR REFILL AUTOM. AIR FRESHNER  JASMINE 250ML",
+      "price": "₵43.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/131075.png",
+      "url": "https://melcom.com/romar-refill-autom-air-freshner-jasmine-250ml.html"
+    },
+    {
+      "title": "CARMEN SITA FISH STEAK 1KG",
+      "price": "₵85.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126679.png",
+      "url": "https://melcom.com/carmen-sita-fish-steak-1kg.html"
+    },
+    {
+      "title": "AIRPRO AIR FRESHENER GEL PINA COLADA 128G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126208.png",
+      "url": "https://melcom.com/airpro-air-freshener-gel-pina-colada-128g.html"
+    },
+    {
+      "title": "ROMAR AIR FRESHNER FLORAL 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125297.png",
+      "url": "https://melcom.com/romar-air-freshner-floral-300ml.html"
+    },
+    {
+      "title": "AIRPRO AEROSOL LEMON 300ML",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125277_1_.png",
+      "url": "https://melcom.com/airpro-aerosol-lemon-300ml.html"
+    },
+    {
+      "title": "SAIRO GOLD HAND WASH 500ML",
+      "price": "₵30.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/a/sairo.png",
+      "url": "https://melcom.com/sairo-gold-hand-wash-500ml.html"
+    },
+    {
+      "title": "ROMAR FABRIC SOFTENER CONCENTRATE BABY POWDER 2L",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125265.png",
+      "url": "https://melcom.com/romar-fabric-softener-concentrate-baby-powder-2l.html"
+    },
+    {
+      "title": "ROMAR FABRIC SOFTENER CONCENTRATE ARGAN 2L",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125263.png",
+      "url": "https://melcom.com/romar-fabric-softener-concentrate-argan-2l.html"
+    },
+    {
+      "title": "ROMAR FABRIC SOFTENER CONCENTRATE FLORA 2L",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125262.png",
+      "url": "https://melcom.com/romar-fabric-softener-concentrate-flora-2l.html"
+    },
+    {
+      "title": "ROMAR FABRIC SOFTENER CONCENTRATE BLUE SKY 2L",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125261.png",
+      "url": "https://melcom.com/romar-fabric-softener-concentrate-blue-sky-2l.html"
+    },
+    {
+      "title": "ROMAR AIR REFRESHENER SPRAY OCEANIC 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125246.png",
+      "url": "https://melcom.com/romar-air-refreshener-spray-oceanic-300ml.html"
+    },
+    {
+      "title": "ROMAR AIR REFRESHENER SPRAY LEMON 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125244.png",
+      "url": "https://melcom.com/romar-air-refreshener-spray-lemon-300ml.html"
+    },
+    {
+      "title": "ROMAR AIR REFRESHENER SPRAY JASMINE 300ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125243.png",
+      "url": "https://melcom.com/romar-air-refreshener-spray-jasmine-300ml.html"
+    },
+    {
+      "title": "DESTELLO LIQUID DISHWASH LEMON 750ML",
+      "price": "₵36.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125239.png",
+      "url": "https://melcom.com/destello-liquid-dishwash-lemon-750ml.html"
+    },
+    {
+      "title": "AQUALIS LUXURY BATH SOAP APRICOT 300G",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106991.png",
+      "url": "https://melcom.com/aqualis-luxury-bath-soap-apricot-300g.html"
+    },
+    {
+      "title": "HYSON DIETATHIN TEA 15S 225G",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103822_1_.png",
+      "url": "https://melcom.com/hyson-dietathin-tea-15s-225g.html"
+    }
+  ]
+}

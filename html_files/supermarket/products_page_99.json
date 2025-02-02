@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 99,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:01:27.579Z",
+  "products": [
+    {
+      "title": "TAMPICO CITRUS PUNCH 1L",
+      "price": "₵14.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/5/65526_1_1.jpg",
+      "url": "https://melcom.com/tampico-citrus-punch-1l.html"
+    },
+    {
+      "title": "PURE HEAVEN CAN SPARKLING RED GRAPE JUICE 330ML",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/1/41086_1_1.jpg",
+      "url": "https://melcom.com/pure-heaven-can-sparkling-red-grape-juice-330ml.html"
+    },
+    {
+      "title": "SUPER TEA (25BAGS) 50G",
+      "price": "₵9.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/17694_2_1.jpg",
+      "url": "https://melcom.com/supertea-green-tea-25-tea-bags-50g.html"
+    },
+    {
+      "title": "CERES APPLE 200ML",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69794_1_1.jpg",
+      "url": "https://melcom.com/ceres-apple-200ml.html"
+    },
+    {
+      "title": "CERES WHISPER OF SUMMER 200ML",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69793_1_1.jpg",
+      "url": "https://melcom.com/ceres-whisper-of-summer-200ml.html"
+    },
+    {
+      "title": "COKE PET 450ML",
+      "price": "₵7.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/8/n800_1_1.jpg",
+      "url": "https://melcom.com/coke-pet-450ml.html"
+    },
+    {
+      "title": "POMO TOMATO PASTE TIN 22KG",
+      "price": "₵73.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/9/09915a_1.jpg",
+      "url": "https://melcom.com/pomo-tomato-paste-tin-22kg.html"
+    },
+    {
+      "title": "MAGIC MOMENT VODKA ORANGE 37.5% 1L",
+      "price": "₵112.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/3/73554_1_1.jpg",
+      "url": "https://melcom.com/magic-moment-vodka-orange-1l.html"
+    },
+    {
+      "title": "PARIDOX SHEABUTTER LOTION BLEMISH CONTROL 250ML",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74009_1_1.jpg",
+      "url": "https://melcom.com/paridox-sheabutter-lotion-blemish-control-250ml.html"
+    },
+    {
+      "title": "MAGGI AROME 250ML",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/6/x679_1_1.jpg",
+      "url": "https://melcom.com/maggi-arome-250ml.html"
+    },
+    {
+      "title": "DR MIGHTY WC POWER BALLS GREEN LEMON 4 IN 1",
+      "price": "₵28.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/7/77584_1_1.jpg",
+      "url": "https://melcom.com/dr-mighty-wc-power-balls-green-lemon-4-in-1.html"
+    },
+    {
+      "title": "DR MIGHTY WC POWER BALLS LAVENDER 4 IN 1",
+      "price": "₵28.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/7/77579_1_1.jpg",
+      "url": "https://melcom.com/dr-mighty-wc-power-balls-lavender-4-in-1.html"
+    },
+    {
+      "title": "FAXE CAN BEER 10% 500ML",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/6/d677_1_1.jpg",
+      "url": "https://melcom.com/faxe-can-beer-10-500ml.html"
+    },
+    {
+      "title": "LESIEUR KETCHUP SQUEEZE 485G",
+      "price": "₵60.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/2/02401_1_1.jpg",
+      "url": "https://melcom.com/lesieur-ketchup-squeeze-485g.html"
+    },
+    {
+      "title": "MAJICK PERFUMED 6 PACK TOILET BLOCKS 378G",
+      "price": "₵104.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/1/31533_1_1.jpg",
+      "url": "https://melcom.com/majick-perfumed-6-pack-toilet-blocks-378g.html"
+    },
+    {
+      "title": "EXETER CORNED BEEF 198G",
+      "price": "₵46.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/0/00360.jpg",
+      "url": "https://melcom.com/exeter-corned-beef-198g-00360.html"
+    },
+    {
+      "title": "CAREX HAND WASH HERBAL PROTECT 250ML",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/_/5_4.jpg",
+      "url": "https://melcom.com/carex-hand-wash-herbal-protect-250-ml-54999.html"
+    },
+    {
+      "title": "UNOLI MAYONNAISE 500G",
+      "price": "₵46.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76902_1_1.jpg",
+      "url": "https://melcom.com/unoli-mayonnaise-500g.html"
+    },
+    {
+      "title": "DIMES CATERING APPLE JUICE 1L",
+      "price": "₵55.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/2/22566_1_1.jpg",
+      "url": "https://melcom.com/dimes-catering-apple-juice-1l.html"
+    },
+    {
+      "title": "ORIGINAL CHOICE DELUXE VODKA 42.8% 750ML",
+      "price": "₵68.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/6/06487_1_1.jpg",
+      "url": "https://melcom.com/original-choice-deluxe-vodka-750ml.html"
+    },
+    {
+      "title": "SURE WOMEN INVISIBLE BLACK + WHITE  250ML",
+      "price": "₵54.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/3/73050_1_1.jpg",
+      "url": "https://melcom.com/sure-women-invisible-black-white-250ml.html"
+    },
+    {
+      "title": "KASAPREKO DRY GIN 42% 750ML",
+      "price": "₵38.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/m/e/melcom_london_dry_gin.jpg",
+      "url": "https://melcom.com/kasapreko-dry-gin-750ml.html"
+    },
+    {
+      "title": "KASAPREKO ALOMO BITTERS  40% 750ML",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/9/a975_1_1.jpg",
+      "url": "https://melcom.com/kasapreko-alomo-bitters-750ml.html"
+    },
+    {
+      "title": "KASAPREKO LIME CORDIAL 750ML",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/6/06968_1_1.jpg",
+      "url": "https://melcom.com/kasapreko-lime-cordial-750ml.html"
+    },
+    {
+      "title": "SURE WOMEN APA INVISIBLE PURE SPRAY 250ML",
+      "price": "₵54.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/1/41236_1_1.jpg",
+      "url": "https://melcom.com/sure-women-apa-invisible-pure-spray-250ml.html"
+    },
+    {
+      "title": "RITTER SPORT WORLD EXTRA FINE MILK CHOCOLATE 100G",
+      "price": "₵46.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/2/42928aa.jpg",
+      "url": "https://melcom.com/ritter-sport-world-extra-fine-milk-chocolate-100g.html"
+    },
+    {
+      "title": "RITTER SPORT HAZELNUTS CHOCOLATE 100G",
+      "price": "₵46.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/2/42925aa.jpg",
+      "url": "https://melcom.com/ritter-sport-hazelnuts-chocolate-100g.html"
+    },
+    {
+      "title": "MONIBAS PEPPER SAUCE  (SHITO) 275G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/8/18734_1_1.jpg",
+      "url": "https://melcom.com/monibas-pepper-sauce-shito-275g.html"
+    },
+    {
+      "title": "MONIBAS PEPPER SAUCE  (SHITO) 400G",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/8/18771_1_1.jpg",
+      "url": "https://melcom.com/monibas-pepper-sauce-shito-400g.html"
+    },
+    {
+      "title": "ALPENLIEBE ORIGINAL CANDY 3G",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/6/56685a.jpg",
+      "url": "https://melcom.com/alpenliebe-original-candy-3g.html"
+    },
+    {
+      "title": "BARON DE SENAC ROSE WINE 11% 750ML",
+      "price": "₵85.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/4/d476_1_1.jpg",
+      "url": "https://melcom.com/baron-de-senac-rose-wine-750ml.html"
+    },
+    {
+      "title": "BARON DE FRANC MEDIUM SWEET RED WINE 12% 750ML",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/8/68488_1_1.jpg",
+      "url": "https://melcom.com/baron-de-franc-medium-sweet-red-wine-750ml.html"
+    }
+  ]
+}

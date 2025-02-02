@@ -1,0 +1,44 @@
+{
+  "category": "SPORTS & FITNESS",
+  "page": 6,
+  "productsCount": 6,
+  "scrapedAt": "2025-02-01T16:09:01.300Z",
+  "products": [
+    {
+      "title": "TABLE TENNIS BALL (1-PACK) 6PCS",
+      "price": "₵29.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/9/89286_1.jpg",
+      "url": "https://melcom.com/table-tennis-ball-6pcs.html"
+    },
+    {
+      "title": "MOTORIZED TREADMILL YK-ET1801B",
+      "price": "₵18,999.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/9/89440_1.jpg",
+      "url": "https://melcom.com/motorized-treadmill-yk-et1801b.html"
+    },
+    {
+      "title": "BUTTOCKS TONER 7 IN 1 LS-120",
+      "price": "₵335.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/4/04391_1.jpg",
+      "url": "https://melcom.com/buttocks-toner-7-in-1-ls-120.html"
+    },
+    {
+      "title": "SOCCER TABLE 11 PLAYERS KBL-0924",
+      "price": "₵8,499.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/5/85043_2.jpg",
+      "url": "https://melcom.com/soccer-table-11-players-kbl-0924.html"
+    },
+    {
+      "title": "RAKU STEPPER FITNESS EQUIPMENT LS-106",
+      "price": "₵49.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/4/04389_2.jpg",
+      "url": "https://melcom.com/raku-stepper-fitness-equipment-ls-106.html"
+    },
+    {
+      "title": "KIDS POOL TABLE",
+      "price": "₵1,499.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121027a.jpg",
+      "url": "https://melcom.com/kids-pool-table.html"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 82,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:00:02.153Z",
+  "products": [
+    {
+      "title": "ACTIVE 6 IN 1 MULTI-ACTION MOUTHWASH 500ML",
+      "price": "₵40.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/102267a.jpg",
+      "url": "https://melcom.com/active-6-in-1-multi-action-mouthwash-500ml.html"
+    },
+    {
+      "title": "ACTIVE MOUTHWASH  EXTRA STRENGTH COOL MINT 500ML",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/102266a.jpg",
+      "url": "https://melcom.com/active-mouthwash-extra-strength-cool-mint-500ml.html"
+    },
+    {
+      "title": "ACTIVE MOUTHWASH  ANTICAVITY FRESHMINT 500ML",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/102263a.jpg",
+      "url": "https://melcom.com/active-mouthwash-anticavity-freshmint-500ml.html"
+    },
+    {
+      "title": "ACTIVE MOUTHWASH  EXTRA STRENGTH ORIGINAL 500ML",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/102265a.jpg",
+      "url": "https://melcom.com/active-mouthwash-extra-strength-original-500ml.html"
+    },
+    {
+      "title": "TOM MILK TUTTI-FRUITY FLAVOR CREAMY DAIRY 125G",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118775a.jpg",
+      "url": "https://melcom.com/tom-milk-tutti-fruity-flavor-creamy-dairy.html"
+    },
+    {
+      "title": "SMUCKER'S SWEET ORANGE MARMALADE JAM",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/119997a.jpg",
+      "url": "https://melcom.com/smucker-s-sweet-orange-marmalade-jam.html"
+    },
+    {
+      "title": "POST HONEY BUNCHES OF OATS HONEY CRUNCH",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/3/83362a.jpg",
+      "url": "https://melcom.com/post-honey-bunches-of-oats-honey-crunch.html"
+    },
+    {
+      "title": "MATA WHOLE MUSHROOMS IN BRINE 400G",
+      "price": "₵28.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/0/90469a.jpg",
+      "url": "https://melcom.com/mata-whole-mushrooms-in-brine-400g.html"
+    },
+    {
+      "title": "MCVITIES MILK CHOCO HOBNOBS BISCUIT 300G",
+      "price": "₵81.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72801a.jpg",
+      "url": "https://melcom.com/mcvities-milk-choco-hobnobs-biscuit-300g.html"
+    },
+    {
+      "title": "TITO'S SARDINES IN VEGETABLE OIL 125G",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/1/71811b.jpg",
+      "url": "https://melcom.com/tito-s-sardines-in-vegetable-oil-125g.html"
+    },
+    {
+      "title": "PLATINUM SARDINES IN VEGETABLE OIL",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/3/43168b.jpg",
+      "url": "https://melcom.com/platinum-sardines-in-vegetable-oil.html"
+    },
+    {
+      "title": "PLATINUM MACKEREL IN TOMATO SAUCE 425G",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/16899a.jpg",
+      "url": "https://melcom.com/platinum-mackerel-in-tomato-sauce.html"
+    },
+    {
+      "title": "AUSSIE CONDITIONER MIRACLE MOIST 250ML",
+      "price": "₵124.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08449a.jpg",
+      "url": "https://melcom.com/aussie-conditioner-miracle-moist-250ml.html"
+    },
+    {
+      "title": "BAYARA SESAME SEED",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98078a.jpg",
+      "url": "https://melcom.com/bayara-sesame-seed.html"
+    },
+    {
+      "title": "TOM STRAWBERRY JAM 340G",
+      "price": "₵48.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/113994a.jpg",
+      "url": "https://melcom.com/tom-strawberry-jam-340g.html"
+    },
+    {
+      "title": "BAYARA FENUGREEK",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98073a.jpg",
+      "url": "https://melcom.com/bayara-fenugreek.html"
+    },
+    {
+      "title": "AVEENO MOISTURIZING HAND CREAM 75ML",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53808a.jpg",
+      "url": "https://melcom.com/aveeno-moisturizing-hand-cream-75ml.html"
+    },
+    {
+      "title": "CHIVAS REGAL ULTRA WHISKY 25YRS 40% 700ML",
+      "price": "₵4,699.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99881a.jpg",
+      "url": "https://melcom.com/chivas-regal-ultra-whisky-25yrs-40-700ml.html"
+    },
+    {
+      "title": "MONKEY DRY GIN 47% 500ML",
+      "price": "₵729.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94297a.jpg",
+      "url": "https://melcom.com/monkey-dry-gin-47-500ml.html"
+    },
+    {
+      "title": "COPPER HEAD THE GIBSON EDITION GIN 40% 500ML",
+      "price": "₵859.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/113952a.jpg",
+      "url": "https://melcom.com/copper-head-the-gibson-edition-gin-40-500ml.html"
+    },
+    {
+      "title": "GLENMORANGIE QUINTA RUBAN WHISKY 12YRS 46% 700ML",
+      "price": "₵1,019.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/3/83287a.jpg",
+      "url": "https://melcom.com/glenmorangie-quinta-ruban-whisky-12yrs-46-700ml.html"
+    },
+    {
+      "title": "COPPER HEAD LONDON DRY GIN 40% 500ML",
+      "price": "₵859.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/113953a.jpg",
+      "url": "https://melcom.com/copper-head-london-dry-gin-40-500ml.html"
+    },
+    {
+      "title": "MUMM BRUT CHAMPAGNE 12% 750ML",
+      "price": "₵1,099.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/7/67661a.jpg",
+      "url": "https://melcom.com/mum-brut-champagne-750ml.html"
+    },
+    {
+      "title": "DON JULIO ANEJO TEQUILA 38% 750ML",
+      "price": "₵1,849.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/13620a.jpg",
+      "url": "https://melcom.com/don-julio-anejo-tequila-750ml.html"
+    },
+    {
+      "title": "MUMM DEMI - SEC CHAMPAGNE 12% 750ML",
+      "price": "₵849.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99281a.jpg",
+      "url": "https://melcom.com/mum-demi-sec-champagne-750ml.html"
+    },
+    {
+      "title": "HENDRICK'S GIN 41.4% 700ML",
+      "price": "₵769.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108224a.jpg",
+      "url": "https://melcom.com/hendrick-s-gin-700ml.html"
+    },
+    {
+      "title": "CINDY MACKEREL IN TOMATO SAUCE 425G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/9/79122a_2.jpg",
+      "url": "https://melcom.com/cindy-mackerel-in-tomato-sauce-425g.html"
+    },
+    {
+      "title": "PEPSODENT TOOTHPASTE CHARCOAL WHITE 130G",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/102276b.jpg",
+      "url": "https://melcom.com/pepsodent-toothpaste-charcoal-white.html"
+    },
+    {
+      "title": "CINDY VIETNAM RICE 1KG",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/8/48803a.jpg",
+      "url": "https://melcom.com/cindy-vietnam-rice-1kg.html"
+    },
+    {
+      "title": "HAPPYFLAKES ORIGINAL TASTE CORN FLAKES 500G",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107728a.jpg",
+      "url": "https://melcom.com/happyflakes-original-taste-corn-flakes-500g.html"
+    },
+    {
+      "title": "BANETTI SHELLS PASTA",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/5/85497a.jpg",
+      "url": "https://melcom.com/banetti-shells-pasta.html"
+    },
+    {
+      "title": "ABIDO KABSEH SPICES POUCH 50G",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108357a.jpg",
+      "url": "https://melcom.com/abido-kabseh-spices-pouch-50g.html"
+    }
+  ]
+}

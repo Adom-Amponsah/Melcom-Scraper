@@ -1,0 +1,20 @@
+{
+  "category": "TOYS & ENTERTAINMENT",
+  "page": 8,
+  "productsCount": 2,
+  "scrapedAt": "2025-02-01T16:12:17.837Z",
+  "products": [
+    {
+      "title": "EVERPACK COLORED DISPOSABLE 2LAYER CUPS 500CC(50PCS)",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66683a.jpg",
+      "url": "https://melcom.com/everpack-colored-disposable-2layer-cups-500cc-50pcs.html"
+    },
+    {
+      "title": "EVERPACK DISPOSABLE CUPS 400CC(50PCS)",
+      "price": "₵20.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/4/64615a.jpg",
+      "url": "https://melcom.com/everpack-disposable-cups-400cc-50pcs.html"
+    }
+  ]
+}

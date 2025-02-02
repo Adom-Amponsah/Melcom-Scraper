@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 30,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:55:36.903Z",
+  "products": [
+    {
+      "title": "MENTOS FULL FRESH STRAWBERRY GUM 31.5G",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105563a.jpg",
+      "url": "https://melcom.com/mentos-full-fresh-strawberry-gum-31-5g.html"
+    },
+    {
+      "title": "MENTOS FULL FRESH MINT CHEWING GUM 1-PIECE 31.5G",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_b_3.jpg",
+      "url": "https://melcom.com/mentos-full-fresh-mint-chewing-gum-31-5g.html"
+    },
+    {
+      "title": "MENTOS ICE SPEARMINT GUM 12.9G",
+      "price": "₵9.59",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_b_1_1.jpg",
+      "url": "https://melcom.com/mentos-ice-spearmint-gum-12-9g.html"
+    },
+    {
+      "title": "MENTOS ICE ORANGE MINT GUM 12.9G",
+      "price": "₵8.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/4/n484a_1.jpg",
+      "url": "https://melcom.com/mentos-ice-orange-mint-gum-12-9g.html"
+    },
+    {
+      "title": "BEST MOTHER EVAPORATED MILK 400G",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/160105a.jpg",
+      "url": "https://melcom.com/best-mother-evaporated-milk-400g.html"
+    },
+    {
+      "title": "JAGERMEISTER HERB LIQUEUR 35% 40ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/j/a/jag1.jpg",
+      "url": "https://melcom.com/jagermeister-herb-liqueur-35-40ml.html"
+    },
+    {
+      "title": "TEICHENNE CRÈMA DE MANGO CON TEQUILA LICOR 17% 700ML",
+      "price": "₵182.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157256a.jpg",
+      "url": "https://melcom.com/teichenne-crema-de-mango-con-tequila-licor-17-700ml.html"
+    },
+    {
+      "title": "KOKO DAIRY FREE UNSWEETENED DRINK 1L",
+      "price": "₵60.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97471a.jpg",
+      "url": "https://melcom.com/koko-dairy-free-unsweetened-drink-1l.html"
+    },
+    {
+      "title": "KOKO DAIRY FREE ORIGINAL DRINK 1L",
+      "price": "₵59.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97465a.jpg",
+      "url": "https://melcom.com/koko-dairy-free-original-drink-1l.html"
+    },
+    {
+      "title": "EASY DRINK MOJITO RTD COCKTAIL DRINK 13.9% 500ML",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153243a.jpg",
+      "url": "https://melcom.com/easy-drink-mojito-rtd-cocktail-drink-13-9-500ml.html"
+    },
+    {
+      "title": "TEICHENNE CREMA DE FRESA CON TEQUILA LICOR 17% 700ML",
+      "price": "₵182.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/167260a.jpg",
+      "url": "https://melcom.com/teichenne-crema-de-fresa-con-tequila-licor-17-700ml.html"
+    },
+    {
+      "title": "FREE AFRIKA MARULA CREAMY LIQUOR 16% 900ML",
+      "price": "₵149.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153254a.jpg",
+      "url": "https://melcom.com/free-afrika-marula-creamy-liquor-900ml.html"
+    },
+    {
+      "title": "FREE AFRIKA VANILLA LIQUOR 16% 900ML",
+      "price": "₵149.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153253a.jpg",
+      "url": "https://melcom.com/free-afrika-vanilla-liquor-900ml.html"
+    },
+    {
+      "title": "MEANNAN WHITE SUGAR 1KG",
+      "price": "₵35.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140567a.jpg",
+      "url": "https://melcom.com/meannan-white-sugar-1kg.html"
+    },
+    {
+      "title": "BOUM BOUM CINNAMON COCKTAIL 1L",
+      "price": "₵115.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145589a.jpg",
+      "url": "https://melcom.com/boum-boum-cinnamon-cocktail-1l.html"
+    },
+    {
+      "title": "BIGOO GRAPES DRINK 350ML",
+      "price": "₵2.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151038a.jpg",
+      "url": "https://melcom.com/bigoo-grapes-drink-350ml.html"
+    },
+    {
+      "title": "BIGOO COLA DRINK 350ML",
+      "price": "₵2.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151026a.jpg",
+      "url": "https://melcom.com/bigoo-cola-drink-350ml.html"
+    },
+    {
+      "title": "5 STAR KAESAR COCKTAIL DRINK 350ML",
+      "price": "₵2.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/7/77586a.jpg",
+      "url": "https://melcom.com/5-star-kaesar-cocktail-drink-350ml.html"
+    },
+    {
+      "title": "SCHWEPPES CITRUS PET DRINK  1L",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/163742a.jpg",
+      "url": "https://melcom.com/schweppes-citrus-pet-drink-1l.html"
+    },
+    {
+      "title": "COLGATE TP CHARCOAL GENTLE CLEAN 210G",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/c/o/colgate_1_1_1.png",
+      "url": "https://melcom.com/colgate-tp-charcoal-gentle-clean-210g.html"
+    },
+    {
+      "title": "SUNNY GOLD BROWN SUGAR BOTTLE 400G",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147473.png",
+      "url": "https://melcom.com/sunny-gold-brown-sugar-bottle-400g.html"
+    },
+    {
+      "title": "HUBBA BUBBA MEGA LONG FANCYFRUIT GUM TAPE 180CM",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140097.png",
+      "url": "https://melcom.com/catalog/product/view/id/63863/s/hubba-bubba-mega-long-fancyfruit-gum-tape-180cm/category/3112/"
+    },
+    {
+      "title": "HELLMANN'S REAL MAYONNAISE 750ML",
+      "price": "₵119.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139494a.jpg",
+      "url": "https://melcom.com/hellmanns-real-mayonnaise-750ml.html"
+    },
+    {
+      "title": "FORTUNE SPREAD FOR BREAD 450G",
+      "price": "₵21.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155763a.jpg",
+      "url": "https://melcom.com/fortune-spread-for-bread-450g.html"
+    },
+    {
+      "title": "FAIRAFRIC PINEAPPLE (ANANAS) FRUIT BALLS 100G",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158542a.jpg",
+      "url": "https://melcom.com/fairafric-pineapple-ananas-fruit-balls-100g.html"
+    },
+    {
+      "title": "FAIRAFRIC MANGO DIPPED IN DARK CHOCOLATE 100G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158544a.jpg",
+      "url": "https://melcom.com/fairafric-mango-dipped-in-dark-chocolate-100g.html"
+    },
+    {
+      "title": "FAIRAFRIC PINEAPPLE DIPPED IN DARK CHOCOLATE 100G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158545a.jpg",
+      "url": "https://melcom.com/fairafric-pineapple-dipped-in-dark-chocolate-100g.html"
+    },
+    {
+      "title": "TORKU MILKYFEST FRUIT CANDY 1KG",
+      "price": "₵86.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_6_1.jpg",
+      "url": "https://melcom.com/torku-milkyfest-fruit-candy-1kg.html"
+    },
+    {
+      "title": "HAYHAY COCOA COATED BISCUIT 30G",
+      "price": "₵6.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138593a.jpg",
+      "url": "https://melcom.com/hayhay-cocoa-coated-biscuit-30g.html"
+    },
+    {
+      "title": "PARLE MULTI VITA MARIE BISCUITS 60G",
+      "price": "₵2.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/160124a.jpg",
+      "url": "https://melcom.com/parle-multi-vita-marie-biscuits-60g.html"
+    },
+    {
+      "title": "MUNCHEE DIGESTIVE BISCUITS 65G",
+      "price": "₵3.59",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159763a.jpg",
+      "url": "https://melcom.com/munchee-digestive-biscuits-65g.html"
+    },
+    {
+      "title": "MUNCHEE MSC STRAWBERRY MILK BISCUIT 65G",
+      "price": "₵3.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159742a.jpg",
+      "url": "https://melcom.com/munchee-msc-strawberry-milk-biscuit-65g.html"
+    }
+  ]
+}

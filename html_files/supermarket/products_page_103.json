@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 103,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:01:48.264Z",
+  "products": [
+    {
+      "title": "HEINZ CORNED BEEF 340G",
+      "price": "₵51.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/3/n349a.jpg",
+      "url": "https://melcom.com/heinz-corned-beef-340g.html"
+    },
+    {
+      "title": "BAKER'S BASKET SUGAR BREAD MEDIUM 450GM",
+      "price": "₵12.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0039_1_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-sugar-bread-medium-450gm.html"
+    },
+    {
+      "title": "BAKER'S BASKET BUTTER BREAD MEDIUM 450GM",
+      "price": "₵12.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0016_1_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-butter-bread-medium-450gm.html"
+    },
+    {
+      "title": "BAKER'S BASKET BURGER BUNS PACK OF 6",
+      "price": "₵15.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0008_3_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-burger-buns-pack-of-6.html"
+    },
+    {
+      "title": "BAKER'S BASKET BANANA CAKE LOAF 350G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0049_3_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-banana-cake-loaf-350g.html"
+    },
+    {
+      "title": "BAKER'S BASKET INDIAN PAV 300GM",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0013_3_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-indian-pav-300gm.html"
+    },
+    {
+      "title": "BAKER'S BASKET MARBLE CAKE MINI 50GM",
+      "price": "₵3.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0065_1_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-marble-cake-mini-50gm.html"
+    },
+    {
+      "title": "BAKER'S BASKET PINEAPPLE COOKIES 300GM",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0054_1_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-pineapple-cookies-300gm.html"
+    },
+    {
+      "title": "BAKER'S BASKET BANANA COOKIES 300GM",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/0/h0053_1_1.jpg",
+      "url": "https://melcom.com/baker-s-basket-banana-cookies-300gm.html"
+    },
+    {
+      "title": "PARLE MONACO 63.3G",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53403_1_2.jpg",
+      "url": "https://melcom.com/parle-monaco-63-3g.html"
+    },
+    {
+      "title": "PARLE HIDE & SEEK FAB STRAWBERRY BISCUIT 112G",
+      "price": "₵12.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53333_1_1.jpg",
+      "url": "https://melcom.com/parle-hide-seek-fab-strawberry-biscuit-112g.html"
+    },
+    {
+      "title": "DAAWAT BIRYANI BASMATI RICE 1KG",
+      "price": "₵73.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/7/37164_1_1.jpg",
+      "url": "https://melcom.com/daawat-biryani-basmati-rice-1kg.html"
+    },
+    {
+      "title": "DAAWAT SUPER BASMATI RICE 1KG",
+      "price": "₵66.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/7/37162_1_1.jpg",
+      "url": "https://melcom.com/daawat-super-basmati-rice-1kg.html"
+    },
+    {
+      "title": "DAAWAT TRADITIONAL BASMATI RICE 1KG",
+      "price": "₵72.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/7/37160_1_1.jpg",
+      "url": "https://melcom.com/daawat-traditional-basmati-rice-1kg.html"
+    },
+    {
+      "title": "DAAWAT DEVAAYA BASMATI RICE 1KG",
+      "price": "₵53.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14028_1_1.jpg",
+      "url": "https://melcom.com/daawat-devaaya-basmati-rice-1kg.html"
+    },
+    {
+      "title": "PARLE HIDE & SEEK FAB CAFFE MOCHA BISCUIT 75G",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53331_1_1.jpg",
+      "url": "https://melcom.com/parle-hide-seek-fab-caffe-mocha-biscuit-75g.html"
+    },
+    {
+      "title": "PARLE HIDE & SEEK FAB CHOCOLATE BISCUIT 112G",
+      "price": "₵12.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53308_1_2.jpg",
+      "url": "https://melcom.com/parle-hide-seek-fab-chocolate-biscuit-112g.html"
+    },
+    {
+      "title": "PRINCESS COCOA BUTTER LOTION 400ML",
+      "price": "₵26.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/8/18372_1_1.jpg",
+      "url": "https://melcom.com/princess-cocoa-butter-lotion-400ml.html"
+    },
+    {
+      "title": "PRIMA MULTIPURPOSE CLEANER 4.5L",
+      "price": "₵59.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/8/x815_1_1.jpg",
+      "url": "https://melcom.com/prima-multipurpose-cleaner-4-5l.html"
+    },
+    {
+      "title": "PRIMA MULTIPURPOSE CLEANER 2.5L",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/5/d527_1_1.jpg",
+      "url": "https://melcom.com/prima-multipurpose-cleaner-2-5l.html"
+    },
+    {
+      "title": "PRIMA LIQUID SOAP LEMON 4.5L",
+      "price": "₵58.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/8/x808a_1.jpg",
+      "url": "https://melcom.com/prima-liquid-soap-lemon-2-5l-x808.html"
+    },
+    {
+      "title": "PRIMA LIQUID SOAP ORANGE 2.5L",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/5/d503_1_1.jpg",
+      "url": "https://melcom.com/prima-liquid-soap-orange-2-5l.html"
+    },
+    {
+      "title": "POMO TOMATO  PASTE PILLOW PACK 400G",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/9/49190_1_1.jpg",
+      "url": "https://melcom.com/pomo-tomato-paste-pillow-pack-400g.html"
+    },
+    {
+      "title": "POMO TOMATO PASTE PILLOW PACK 210G",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/9/49192_1_1.jpg",
+      "url": "https://melcom.com/pomo-tomato-paste-pillow-pack-210g.html"
+    },
+    {
+      "title": "PEAK EVAPORATED MILK 170G",
+      "price": "₵15.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/5/x582_1_1.jpg",
+      "url": "https://melcom.com/peak-evaporated-milk-170g.html"
+    },
+    {
+      "title": "PASCUAL LOW FAT YOGHURT STRAWBERRY 750ML",
+      "price": "₵36.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69654.png",
+      "url": "https://melcom.com/pascual-low-fat-yoghurt-strawberry-750ml.html"
+    },
+    {
+      "title": "PARIDOX FRESH ALATA SAMINA SOAP NONI 500G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/7/77653_1_1.jpg",
+      "url": "https://melcom.com/paridox-fresh-alata-samina-soap-noni-500g.html"
+    },
+    {
+      "title": "PARIDOX FRESH ALATA SAMINA SOAP LEMON 500G",
+      "price": "₵43.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/6/46602_1_1_1.jpg",
+      "url": "https://melcom.com/paridox-fresh-alata-samina-soap-lemon-500g.html"
+    },
+    {
+      "title": "PARIDOX ALATA SAMINA BLACK SOAP GEL ALOE VERA 450ML",
+      "price": "₵42.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/8/38043_1_1.jpg",
+      "url": "https://melcom.com/paridox-alata-samina-black-soap-gel-aloe-vera-450ml.html"
+    },
+    {
+      "title": "PARIDOX ALATA SAMINA BLACK SOAP GEL MORINGA 450ML",
+      "price": "₵42.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/1/71756_2_1.jpg",
+      "url": "https://melcom.com/paridox-alata-samina-black-soap-gel-moringa-450ml.html"
+    },
+    {
+      "title": "PARIDOX ALATA SAMINA BLACK SOAP GEL HONEY 450ML",
+      "price": "₵42.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/1/71755a.jpg",
+      "url": "https://melcom.com/paridox-alata-samina-black-soap-gel-honey-450ml.html"
+    },
+    {
+      "title": "PARIDOX ALATA SAMINA BLACK SOAP GEL NONI 450ML",
+      "price": "₵42.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/1/71757_1_1.jpg",
+      "url": "https://melcom.com/paridox-alata-samina-black-soap-gel-noni-450ml.html"
+    }
+  ]
+}

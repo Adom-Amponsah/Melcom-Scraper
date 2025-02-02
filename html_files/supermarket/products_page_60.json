@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 60,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:58:09.609Z",
+  "products": [
+    {
+      "title": "OLD ADMIRAL BRANDY 30% 180ML",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/117284a_1.jpg",
+      "url": "https://melcom.com/old-admiral-brandy-30-180ml.html"
+    },
+    {
+      "title": "MCCAIN COUNTRY CROP VEGETABLE MIX 600G",
+      "price": "₵67.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/116972.png",
+      "url": "https://melcom.com/mccain-country-crop-vegetable-mix-600g.html"
+    },
+    {
+      "title": "PRINGLES BBQ 40G",
+      "price": "₵21.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/2/p2.jpg",
+      "url": "https://melcom.com/pringles-bbq-40g.html"
+    },
+    {
+      "title": "PRINGLES ORIGINAL 40G",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/3/p3.jpg",
+      "url": "https://melcom.com/pringles-original-40g.html"
+    },
+    {
+      "title": "HERMAN HAZELNUT CHOCO SPREAD 220G",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/127667a.jpg",
+      "url": "https://melcom.com/herman-hazelnut-choco-spread-220g.html"
+    },
+    {
+      "title": "FANTASIA CHIPS WOKKELS 50G",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/123124a.jpg",
+      "url": "https://melcom.com/fantasia-chips-wokkels-50g.html"
+    },
+    {
+      "title": "FANTASIA BUGLES CHEESE CHIPS 66G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/108810a.jpg",
+      "url": "https://melcom.com/fantasia-bugles-cheese-chips-66g.html"
+    },
+    {
+      "title": "MENTOS FULL FRESH WINTERGREEN GUM 31.5G",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/5/65461b_1.jpg",
+      "url": "https://melcom.com/mentos-full-fresh-wintergreen-gum-31-5g.html"
+    },
+    {
+      "title": "PLATINUM SUNFLOWER OIL (TU.)  4.5L",
+      "price": "₵224.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125196a.jpg",
+      "url": "https://melcom.com/platinum-sunflower-oil-tu-4-5l.html"
+    },
+    {
+      "title": "GRANORO CONCHIGLIONI 49102 500G",
+      "price": "₵38.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126951.png",
+      "url": "https://melcom.com/granoro-conchiglioni-49102-500g.html"
+    },
+    {
+      "title": "GRANORO POLPA IN PEZZI DEDICATO 20703 400G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126967.png",
+      "url": "https://melcom.com/granoro-polpa-in-pezzi-dedicato-20703-400g.html"
+    },
+    {
+      "title": "GRANORO GNOCCHI PA.GLUTEN FREE 71471 500G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126962.png",
+      "url": "https://melcom.com/granoro-gnocchi-pa-gluten-free-71471-500g.html"
+    },
+    {
+      "title": "GRANORO POLPA DI POMODORO BIO 8840 400G",
+      "price": "₵41.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126964.png",
+      "url": "https://melcom.com/granoro-polpa-di-pomodoro-bio-8840-400g.html"
+    },
+    {
+      "title": "GRANORO MACCHERONCINI DEDICATO 20191 500G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126972.png",
+      "url": "https://melcom.com/granoro-maccheroncini-dedicato-20191-500g.html"
+    },
+    {
+      "title": "GRANORO CAVATELLI DEDICATO 20087 500G",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126956.png",
+      "url": "https://melcom.com/granoro-cavatelli-dedicato-20087-500g.html"
+    },
+    {
+      "title": "FANTASIA BUGLES BBQ CHIPS 20G",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/117987a.jpg",
+      "url": "https://melcom.com/fantasia-bugles-bbq-chips-20g.html"
+    },
+    {
+      "title": "GIRNAR BOMBAY CHAI 100BAGS",
+      "price": "₵71.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104216.png",
+      "url": "https://melcom.com/girnar-bombay-chai-100bags.html"
+    },
+    {
+      "title": "PEARS (1KG)",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/124452a.jpg",
+      "url": "https://melcom.com/pears-1kg.html"
+    },
+    {
+      "title": "BAYARA SOUK CHICKPEAS TYSON 5KG",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121689.png",
+      "url": "https://melcom.com/catalog/product/view/id/49453/s/bayara-souk-chickpeas-tyson-5kg/category/3112/"
+    },
+    {
+      "title": "APPLE GRANNY SMITH -KG",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126802_1.png",
+      "url": "https://melcom.com/apple-granny-smith-kg.html"
+    },
+    {
+      "title": "BAYARA SOUK ROASTED CORN 2KG",
+      "price": "₵249.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121708.png",
+      "url": "https://melcom.com/catalog/product/view/id/49424/s/bayara-souk-roasted-corn-2kg/category/3112/"
+    },
+    {
+      "title": "APPLES PINK LADY - KG",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/131795.png",
+      "url": "https://melcom.com/apples-pink-lady-kg.html"
+    },
+    {
+      "title": "BLING CINNAMON ANTIBACTERIAL HANDWASH 5L",
+      "price": "₵72.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/131419.jpg",
+      "url": "https://melcom.com/bling-cinnamon-antibacterial-handwash-5l.html"
+    },
+    {
+      "title": "BLING TOILET BOWL CLEANER PINE 750ML",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118311_1.jpg",
+      "url": "https://melcom.com/bling-toilet-bowl-cleaner-pine-750ml.html"
+    },
+    {
+      "title": "BLING HANDWASH AQUA 500ML",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118320.jpg",
+      "url": "https://melcom.com/bling-handwash-aqua-500ml.html"
+    },
+    {
+      "title": "BETIS GLASS OLIVE OIL 750ML",
+      "price": "₵289.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126891a.jpg",
+      "url": "https://melcom.com/betis-glass-olive-oil-750ml.html"
+    },
+    {
+      "title": "APPLE CRIPPS RED - (1KG)",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132169a.jpg",
+      "url": "https://melcom.com/apple-cripps-red-1kg.html"
+    },
+    {
+      "title": "ONE MORE PURE CRAFT VODKA CHOCOLATE 750ML",
+      "price": "₵109.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/128346a.jpg",
+      "url": "https://melcom.com/one-more-pure-craft-vodka-chocolate-750ml.html"
+    },
+    {
+      "title": "MCVITIES DIGESTIVE ORIGINAL 400G",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/8/d889a.jpg",
+      "url": "https://melcom.com/mcvities-digestive-original-400g.html"
+    },
+    {
+      "title": "IRISH POTATOES  KG",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/124484a.jpg",
+      "url": "https://melcom.com/irish-potatoes-kg.html"
+    },
+    {
+      "title": "BAYARA CHIA SEEDS 400G",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107933a.jpg",
+      "url": "https://melcom.com/bayara-chia-seeds-400g.html"
+    },
+    {
+      "title": "RITTER SPORT DARK ALMOND AND ORANGE CHOCOLATES 100G",
+      "price": "₵46.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/_/1_38_1.jpg",
+      "url": "https://melcom.com/ritter-sport-dark-almond-and-orange-chocolates-100g.html"
+    }
+  ]
+}

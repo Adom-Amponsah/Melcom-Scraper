@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 12,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:54:10.197Z",
+  "products": [
+    {
+      "title": "DON JULIO TEQUILA 1942  40% 750ML",
+      "price": "₵3,699.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147185.png",
+      "url": "https://melcom.com/don-julio-tequila-1942-40-750ml.html"
+    },
+    {
+      "title": "CAMPARI BITTERS 700ML",
+      "price": "₵229.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147342.png",
+      "url": "https://melcom.com/campari-bitters-700ml.html"
+    },
+    {
+      "title": "MCBERRY MILKY BITES 30G",
+      "price": "₵1.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147404.png",
+      "url": "https://melcom.com/mcberry-milky-bites-30g.html"
+    },
+    {
+      "title": "H&H RICH TEA CLASSIC 36G",
+      "price": "₵1.39",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/_/h_h_1.png",
+      "url": "https://melcom.com/h-h-rich-tea-classic-36g.html"
+    },
+    {
+      "title": "STARBUCKS FRAPPUCCINO VANILLA PET 250ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147870_1.png",
+      "url": "https://melcom.com/starbucks-frappuccino-vanilla-pet-250ml.html"
+    },
+    {
+      "title": "MAXIM HAIR RELAXER REGULAR 385G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125301.png",
+      "url": "https://melcom.com/maxim-hair-relaxer-regular-385g.html"
+    },
+    {
+      "title": "SHINE 10 PACK SINGLE WRAPPED TOILET PAPER",
+      "price": "₵50.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125303.png",
+      "url": "https://melcom.com/shine-10-pack-single-wrapped-toilet-paper.html"
+    },
+    {
+      "title": "MAXIM PERFUMED DISINFECTANT 1L",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125304.png",
+      "url": "https://melcom.com/maxim-perfumed-disinfectant-1l.html"
+    },
+    {
+      "title": "AIRPRO HANGING BOTTLE AIR FRESHNER DAVIDOFF COOL 10ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/a/dav_2.png",
+      "url": "https://melcom.com/airpro-hanging-bottle-air-freshner-davidoff-cool-10ml.html"
+    },
+    {
+      "title": "AIRPRO HANGING BOTTLE AIR FRESHNER SAUVIGNON 10ML",
+      "price": "₵37.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126207.png",
+      "url": "https://melcom.com/airpro-hanging-bottle-air-freshner-sauvage-10ml.html"
+    },
+    {
+      "title": "SANKOFA PLANTAIN CHIPS LIGHTLY SALTED 140G",
+      "price": "₵32.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149044.png",
+      "url": "https://melcom.com/sankofa-plantain-chips-lightly-salted-140g.html"
+    },
+    {
+      "title": "PRIME RED TROPICAL PUNCH HYDRATION DRINK 500ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149141.png",
+      "url": "https://melcom.com/prime-red-tropical-punch-hydration-drink-500ml.html"
+    },
+    {
+      "title": "ELEPHANT BAKED PRETZELS HONEY MUSTARD ONION 70G",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149146.png",
+      "url": "https://melcom.com/elephant-baked-pretzels-honey-mustard-onion-70g.html"
+    },
+    {
+      "title": "SKKY RASPBERRY VODKA 1L",
+      "price": "₵184.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149387.png",
+      "url": "https://melcom.com/skky-raspberry-vodka-1l.html"
+    },
+    {
+      "title": "ADRIANA SHRIMP 16/20 TAIL ON 400G",
+      "price": "₵319.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/1/91740_vbh1pce.png",
+      "url": "https://melcom.com/adriana-shrimp-16-20-tail-on-400g.html"
+    },
+    {
+      "title": "SIBLOU SHRIMPS PEELED MEDIUM 250G",
+      "price": "₵300.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14573.png",
+      "url": "https://melcom.com/siblou-shrimps-peeled-medium-250g.html"
+    },
+    {
+      "title": "EMBORG CHICKEN FRANKS HOT & SPICY 340G",
+      "price": "₵68.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14577_2mmlhie.png",
+      "url": "https://melcom.com/emborg-chicken-franks-hot-spicy-340g.html"
+    },
+    {
+      "title": "ORANGE LOCAL GP-PACK",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133242.png",
+      "url": "https://melcom.com/orange-local-gp-pack.html"
+    },
+    {
+      "title": "CAPSICUM POINTED RED IMPORT KG",
+      "price": "₵299.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136423.png",
+      "url": "https://melcom.com/capsicum-pointed-red-import-kg.html"
+    },
+    {
+      "title": "PINEAPPLE MGF 1PC",
+      "price": "₵8.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137060.png",
+      "url": "https://melcom.com/pineapple-mgf-1pc.html"
+    },
+    {
+      "title": "MANGO LOCAL 1KG",
+      "price": "₵41.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137104_8mxd85d.png",
+      "url": "https://melcom.com/mango-local-1kg.html"
+    },
+    {
+      "title": "COCONUT DRY-VF 1PC",
+      "price": "₵8.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/142790.png",
+      "url": "https://melcom.com/coconut-dry-vf-1pc.html"
+    },
+    {
+      "title": "YELLOW MELON KG -APL",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153407.png",
+      "url": "https://melcom.com/yellow-melon-kg-apl.html"
+    },
+    {
+      "title": "ARDO CUT BEANS 1KG",
+      "price": "₵63.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/r/arp_1.png",
+      "url": "https://melcom.com/ardo-cut-beans-1kg.html"
+    },
+    {
+      "title": "ARDO BROCCOLI 400G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72254.png",
+      "url": "https://melcom.com/ardo-broccoli-400g.html"
+    },
+    {
+      "title": "ARDO STRAWBERRIES 1KG",
+      "price": "₵167.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87494.png",
+      "url": "https://melcom.com/ardo-strawberries-1kg.html"
+    },
+    {
+      "title": "ZWAN 8 CHICKEN HOTDOGS IN BOTTLE  320G",
+      "price": "₵81.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/4/84807_fnqkunz.png",
+      "url": "https://melcom.com/zwan-8-chicken-hotdogs-in-bottle-320g.html"
+    },
+    {
+      "title": "ARDO MIXED VEGETABLES 400G",
+      "price": "₵39.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/9/29803.png",
+      "url": "https://melcom.com/ardo-mixed-vegetables-400g.html"
+    },
+    {
+      "title": "ARDO MEXICO MIX VEGETABLES 1KG",
+      "price": "₵73.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104895_1.png",
+      "url": "https://melcom.com/ardo-mexico-mix-vegetables-1kg.html"
+    },
+    {
+      "title": "ONION WHITE (IMPORT) - KG",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/124486.png",
+      "url": "https://melcom.com/onion-white-import-kg.html"
+    },
+    {
+      "title": "BAYARA SOUK DATES KHUDRI PITTED 1KG",
+      "price": "₵264.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146509.png",
+      "url": "https://melcom.com/bayara-souk-dates-khudri-pitted-1kg.html"
+    },
+    {
+      "title": "BAYARA SOUK DATES MAJDOUL 5KG",
+      "price": "₵479.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146505_1.png",
+      "url": "https://melcom.com/bayara-souk-dates-majdoul-5kg.html"
+    }
+  ]
+}

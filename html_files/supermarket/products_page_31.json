@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 31,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:55:41.898Z",
+  "products": [
+    {
+      "title": "MUNCHEE MILK SHORT CAKE BISCUITS 65G",
+      "price": "₵3.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159709a.jpg",
+      "url": "https://melcom.com/munchee-milk-short-cake-biscuits-65g.html"
+    },
+    {
+      "title": "MUNCHEE MILK CRUNCH BISCUITS 47G",
+      "price": "₵2.59",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159767a.jpg",
+      "url": "https://melcom.com/munchee-milk-crunch-biscuits-47g.html"
+    },
+    {
+      "title": "MUNCHEE GINGER BISCUITS 52G",
+      "price": "₵3.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159745a.jpg",
+      "url": "https://melcom.com/munchee-ginger-biscuits-52g.html"
+    },
+    {
+      "title": "MUNCHEE MILK CRUNCH BISCUITS 26G",
+      "price": "₵1.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159769a.jpg",
+      "url": "https://melcom.com/munchee-milk-crunch-biscuits-26g.html"
+    },
+    {
+      "title": "LION D'OR BRANDY 40% 1L",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106954a.jpg",
+      "url": "https://melcom.com/lion-d-or-brandy-40-1l.html"
+    },
+    {
+      "title": "ENAPA TOMATO KETCHUP 340G",
+      "price": "₵14.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/115716a.jpg",
+      "url": "https://melcom.com/enapa-tomato-ketchup-340g.html"
+    },
+    {
+      "title": "FORTUNE SPREAD FOR BREAD 900G",
+      "price": "₵41.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155674a.jpg",
+      "url": "https://melcom.com/fortune-spread-for-bread-900g.html"
+    },
+    {
+      "title": "OMAMA ROYAL 100% MILK CHOCOLATE 100G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/9/89923a.jpg",
+      "url": "https://melcom.com/omama-royal-100-milk-chocolate-100g.html"
+    },
+    {
+      "title": "OMAMA ROYAL 100% MILK CHOCOLATE 50G",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/9/89924a.jpg",
+      "url": "https://melcom.com/omama-royal-100-milk-chocolate-50g.html"
+    },
+    {
+      "title": "OVOS KISSES DARK CHOCOLATE 100G",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/110348a.jpg",
+      "url": "https://melcom.com/ovos-kisses-dark-chocolate-100g.html"
+    },
+    {
+      "title": "OVOS KISSES MILK CHOCOLATE 100G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/110346a.jpg",
+      "url": "https://melcom.com/ovos-kisses-milk-chocolate-100g.html"
+    },
+    {
+      "title": "THE MACALLAN DOUBLE CASK WHISKY 15 YO 700ML",
+      "price": "₵3,199.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/154499.png",
+      "url": "https://melcom.com/the-macallan-double-cask-whisky-15-yo-700ml.html"
+    },
+    {
+      "title": "MON BIJOU FABRIC SOFTNER PERFUME 5L",
+      "price": "₵129.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153230-removebg-preview.png",
+      "url": "https://melcom.com/mon-bijou-fabric-softner-perfume-5l.html"
+    },
+    {
+      "title": "WALKERS GRAB BAG SMOKY BACON 45G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152602.png",
+      "url": "https://melcom.com/walkers-grab-bag-smoky-bacon-45g.html"
+    },
+    {
+      "title": "JALISCIENSE TEQUILA ORO 700ML",
+      "price": "₵299.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149889.png",
+      "url": "https://melcom.com/jalisciense-tequila-oro-700ml.html"
+    },
+    {
+      "title": "MYDIBEL CLASSIC FRIES A  9/9 1KG",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145894.png",
+      "url": "https://melcom.com/mydibel-classic-fries-a-9-9-1kg.html"
+    },
+    {
+      "title": "AIRPRO AIR FRESHENER ESSENTIALS ARTIC OCEAN 9ML",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144124.png",
+      "url": "https://melcom.com/catalog/product/view/id/63457/s/airpro-air-freshener-essentials-artic-ocean-9ml/category/3112/"
+    },
+    {
+      "title": "CASA DE CAMPO BLOSSOM HONEY 250G",
+      "price": "₵63.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/141689.png",
+      "url": "https://melcom.com/casa-de-campo-blossom-honey-250g.html"
+    },
+    {
+      "title": "PFANNER ICE TEA PEACH  2L",
+      "price": "₵58.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139404-removebg-preview.png",
+      "url": "https://melcom.com/pfanner-ice-tea-peach-2l.html"
+    },
+    {
+      "title": "VOLYS - SLICED CHICKEN HABANERO 150G",
+      "price": "₵129.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138383_myl2d4c.png",
+      "url": "https://melcom.com/volys-sliced-chicken-habanero-150g.html"
+    },
+    {
+      "title": "VOLYS - SLICED CHICKEN BREAST 150G",
+      "price": "₵129.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138382_ru6nbjw.png",
+      "url": "https://melcom.com/volys-sliced-chicken-breast-150g.html"
+    },
+    {
+      "title": "KEY SOAP MULTIPURPOSE BAR SOAP 800G",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/k/s/ks_1.jpg",
+      "url": "https://melcom.com/key-soap-multipurpose-bar-soap-800g.html"
+    },
+    {
+      "title": "VOLCAN MITIERRA TEQILA ANEJO CRISTALINO 700ML",
+      "price": "₵989.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/130074.jpg",
+      "url": "https://melcom.com/volcan-mitierra-teqila-anejo-cristalino-700ml.html"
+    },
+    {
+      "title": "MYDIBEL FRENCH FRIES SHOESTRING  7/7 1KG",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/129207_1.png",
+      "url": "https://melcom.com/mydibel-french-fries-shoestring-7-7-1kg.html"
+    },
+    {
+      "title": "MYDIBEL PREMIUM CRUNCH EXTRA CRISPY FRIES 7/7 2.5KG",
+      "price": "₵179.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76013.png",
+      "url": "https://melcom.com/mydibel-premium-crunch-extra-crispy-fries-7-7-2-5kg.html"
+    },
+    {
+      "title": "HARIBO HAPPY COLA BOTTLES 140G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/a/haribo_3.png",
+      "url": "https://melcom.com/haribo-happy-cola-bottles-140g.html"
+    },
+    {
+      "title": "BELPAK PERFUMED  T-ROLL (LEMON) 10 ROLLS",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153442a.jpg",
+      "url": "https://melcom.com/belpak-perfumed-t-roll-lemon-10-rolls.html"
+    },
+    {
+      "title": "MUNCHEE MILK SHORT CAKE STRAWBERRY BISCUIT 52G",
+      "price": "₵2.89",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159743a.jpg",
+      "url": "https://melcom.com/munchee-milk-short-cake-strawberry-biscuit-52g.html"
+    },
+    {
+      "title": "MUNCHEE MILK SHORT CAKE CHOCO BISCUIT 65G",
+      "price": "₵3.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159739a.jpg",
+      "url": "https://melcom.com/munchee-milk-short-cake-choco-biscuit-65g.html"
+    },
+    {
+      "title": "HAYHAY COCOA COATED BISCUIT WITH CARAMEL CREAM 30G",
+      "price": "₵6.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_1a.jpg",
+      "url": "https://melcom.com/hayhay-cocoa-coated-biscuit-with-caramel-cream-30g.html"
+    },
+    {
+      "title": "CERES NECTAR ORANGE BLISS JUICE 200ML",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_7a_1.jpg",
+      "url": "https://melcom.com/ceres-nectar-orange-bliss-juice-200ml.html"
+    },
+    {
+      "title": "CERES NECTAR MANGO ORANGE JUICE 200ML",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_6a_1.jpg",
+      "url": "https://melcom.com/ceres-nectar-mango-orange-juice-200ml.html"
+    }
+  ]
+}

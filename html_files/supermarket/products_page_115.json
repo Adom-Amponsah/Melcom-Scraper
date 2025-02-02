@@ -1,0 +1,50 @@
+{
+  "category": "SUPERMARKET",
+  "page": 115,
+  "productsCount": 7,
+  "scrapedAt": "2025-02-01T16:02:51.991Z",
+  "products": [
+    {
+      "title": "MEANNAN GROUNDED PEPPER 80G",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/6/06507_1.jpg",
+      "url": "https://melcom.com/meannan-grounded-pepper-80g.html"
+    },
+    {
+      "title": "MEANNAN GROUNDED GARLIC 120G",
+      "price": "₵17.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/3/03893_1.jpg",
+      "url": "https://melcom.com/meannan-grounded-garlic-120g.html"
+    },
+    {
+      "title": "WALKERS ASSORTED SHORTBREAD 160G",
+      "price": "₵134.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/2/82550_1.jpg",
+      "url": "https://melcom.com/walkers-assorted-shortbread-160g.html"
+    },
+    {
+      "title": "BAKERS TENNIS BISCUITS 200G",
+      "price": "₵41.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/2/02250_1.jpg",
+      "url": "https://melcom.com/bakers-tennis-biscuits-200g.html"
+    },
+    {
+      "title": "AXE DEODORANT ROLL-ON BLACK 50ML",
+      "price": "₵46.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/2/82790_1.jpg",
+      "url": "https://melcom.com/axe-deodorant-roll-on-black-50ml.html"
+    },
+    {
+      "title": "DOVE ROLL-ON ORIGINAL 50ML",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/8/x833_1.jpg",
+      "url": "https://melcom.com/dove-roll-on-original-50ml.html"
+    },
+    {
+      "title": "ANNAPURNA IODISED SALT 900G",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/9/29334_1.jpg",
+      "url": "https://melcom.com/annapurna-iodised-salt-900g.html"
+    }
+  ]
+}

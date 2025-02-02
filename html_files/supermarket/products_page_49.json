@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 49,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:57:16.065Z",
+  "products": [
+    {
+      "title": "HAPPY WHOLE WHEAT 900G",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144042a.jpg",
+      "url": "https://melcom.com/happy-whole-wheat-900g.html"
+    },
+    {
+      "title": "HAPPY FIG JAM 454G",
+      "price": "₵38.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144039a.jpg",
+      "url": "https://melcom.com/happy-fig-jam-454g.html"
+    },
+    {
+      "title": "READY GREEN CANNED MIX VEGETABLES 400G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144026a.jpg",
+      "url": "https://melcom.com/ready-green-canned-mix-vegetables-400g.html"
+    },
+    {
+      "title": "HAPPY GREEN OLIVE BAG 650G",
+      "price": "₵46.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144009a.jpg",
+      "url": "https://melcom.com/happy-green-olive-bag-650g.html"
+    },
+    {
+      "title": "HAPPY BLACK OLIVE BAG 650G",
+      "price": "₵46.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144008a.jpg",
+      "url": "https://melcom.com/happy-black-olive-bag-650g.html"
+    },
+    {
+      "title": "HAPPY CANNED SARDINE IN CHILLI VEGETABLE OIL 125G",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143900a.jpg",
+      "url": "https://melcom.com/happy-canned-sardine-in-chilli-vegetable-oil-125g.html"
+    },
+    {
+      "title": "HAPPY CANNED SARDINE IN VEGETABLE OIL 125G",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143895a.jpg",
+      "url": "https://melcom.com/happy-canned-sardine-in-vegetable-oil-125g.html"
+    },
+    {
+      "title": "HAPPY PULSES LARGE LIMA BEANS 900G",
+      "price": "₵82.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143871a.jpg",
+      "url": "https://melcom.com/happy-pulses-large-lima-beans-900g.html"
+    },
+    {
+      "title": "HAPPY CHOCO SHELLS 375G",
+      "price": "₵66.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143860a.jpg",
+      "url": "https://melcom.com/happy-choco-shells-375g.html"
+    },
+    {
+      "title": "HAPPY PULSES BROWN COARSE WHEAT 900G",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143855a.jpg",
+      "url": "https://melcom.com/happy-pulses-brown-coarse-wheat-900g.html"
+    },
+    {
+      "title": "HAPPY BLACKBERRY JAM 454G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143743a.jpg",
+      "url": "https://melcom.com/happy-blackberry-jam-454g.html"
+    },
+    {
+      "title": "HAPPY APRICOT JAM 454G",
+      "price": "₵33.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143741a.jpg",
+      "url": "https://melcom.com/happy-apricot-jam-454g.html"
+    },
+    {
+      "title": "HAPPY BLACKBERRY JAM 800G",
+      "price": "₵48.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143740a.jpg",
+      "url": "https://melcom.com/happy-blackberry-jam-800g.html"
+    },
+    {
+      "title": "GURU TROPICAL FRUIT COCKTAIL 850G",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143732a.jpg",
+      "url": "https://melcom.com/guru-tropical-fruit-cocktail-850g.html"
+    },
+    {
+      "title": "GURU PINEAPPLE CHUNKS 565G",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143731a.jpg",
+      "url": "https://melcom.com/guru-pineapple-chunks-565g.html"
+    },
+    {
+      "title": "HAPPY SOYBEAN OIL 2.75L",
+      "price": "₵142.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143729a.jpg",
+      "url": "https://melcom.com/happy-soybean-oil-2-75l.html"
+    },
+    {
+      "title": "MIN DAYAA ORANGE BLOSSOM HONEY 425G",
+      "price": "₵192.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143635.png",
+      "url": "https://melcom.com/min-dayaa-orange-blossom-honey-425g.html"
+    },
+    {
+      "title": "HAPPY TOILET ROLL 9 ROLLS",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143556a.jpg",
+      "url": "https://melcom.com/happy-toilet-roll-9-rolls.html"
+    },
+    {
+      "title": "HAPPY TOILET ROLL 4 ROLLS",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143554a.jpg",
+      "url": "https://melcom.com/happy-toilet-roll-4-rolls.html"
+    },
+    {
+      "title": "HAPPY CORNFLAKES 500G",
+      "price": "₵72.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143507a.jpg",
+      "url": "https://melcom.com/happy-cornflakes-500g.html"
+    },
+    {
+      "title": "MASTER SALT VINEGAR 70G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143460.png",
+      "url": "https://melcom.com/catalog/product/view/id/54990/s/master-salt-vinegar-70g/category/3112/"
+    },
+    {
+      "title": "HAPPY TOWELS INTERFOLD ROLL 120-TISSUES",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143448a.jpg",
+      "url": "https://melcom.com/happy-towels-interfold-roll-120-tissues.html"
+    },
+    {
+      "title": "HAPPY FACIAL TISSUE TRANSPARENT BAG 260SHEETS",
+      "price": "₵80.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143444a.jpg",
+      "url": "https://melcom.com/happy-facial-tissue-transparent-bag-260sheets.html"
+    },
+    {
+      "title": "HAPPY FACIAL TISSUE BOX 160SHEETS",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143440a.jpg",
+      "url": "https://melcom.com/happy-facial-tissue-box-160sheets.html"
+    },
+    {
+      "title": "HAPPY FACIAL TISSUE BOX 80SHEETS",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143438a.jpg",
+      "url": "https://melcom.com/happy-facial-tissue-box-80sheets.html"
+    },
+    {
+      "title": "HAPPY PREMIUM MEAT TUNA IN VEGETABLE OIL 185G",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14342a.jpg",
+      "url": "https://melcom.com/happy-premium-meat-tuna-in-vegetable-oil-185g.html"
+    },
+    {
+      "title": "GURU WHOLE MUSHROOM IN A JAR 280G",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143420.png",
+      "url": "https://melcom.com/catalog/product/view/id/54977/s/guru-whole-mushroom-in-a-jar-280g/category/3112/"
+    },
+    {
+      "title": "HAPPY TOILET ROLL 18 ROLLS",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143382a.jpg",
+      "url": "https://melcom.com/happy-toilet-roll-18-rolls.html"
+    },
+    {
+      "title": "GURU PREMIUM BASMATI RICE 1KG",
+      "price": "₵67.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143380a.jpg",
+      "url": "https://melcom.com/guru-premium-basmati-rice-1kg.html"
+    },
+    {
+      "title": "HAPPY TOMATO PASTE 1350G",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143354a.jpg",
+      "url": "https://melcom.com/happy-tomato-paste-1350g.html"
+    },
+    {
+      "title": "CASTANIA SUPER EXTRA TIN 450G",
+      "price": "₵164.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143234.png",
+      "url": "https://melcom.com/catalog/product/view/id/54951/s/castania-super-extra-tin-450g/category/3112/"
+    },
+    {
+      "title": "COBRA ACTIVE TILE CLEANER- RELAX 750ML",
+      "price": "₵51.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/142734.png",
+      "url": "https://melcom.com/cobra-active-tile-cleaner-relax-750ml.html"
+    }
+  ]
+}

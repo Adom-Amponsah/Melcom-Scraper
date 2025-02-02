@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 21,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:54:53.138Z",
+  "products": [
+    {
+      "title": "MARIE BRIZZARD SOUR APPLE LIQUOR 750ML",
+      "price": "₵221.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149875.png",
+      "url": "https://melcom.com/marie-brizzard-sour-apple-liquor-750ml.html"
+    },
+    {
+      "title": "SKKY INFUSION CITRUS VODKA 1L",
+      "price": "₵184.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149877_1_.png",
+      "url": "https://melcom.com/skky-infusion-citrus-vodka-1l.html"
+    },
+    {
+      "title": "MORNFLAKE SALTED CARAMEL CRISP 500G",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/150724.png",
+      "url": "https://melcom.com/mornflake-salted-caramel-crisp-500g.html"
+    },
+    {
+      "title": "HEAD & SHOULDERS CHARCOAL DETOX SHAMPOO 400ML",
+      "price": "₵124.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/150794.png",
+      "url": "https://melcom.com/head-shoulders-charcoal-detox-shampoo-400ml.html"
+    },
+    {
+      "title": "HEAD & SHOULDERS SUB ZERO SHAMPOO 400ML",
+      "price": "₵119.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/150795.png",
+      "url": "https://melcom.com/head-shoulders-sub-zero-shampoo-400ml.html"
+    },
+    {
+      "title": "HEAD & SHOULDERS TOTAL CARE SHAMPOO 400ML",
+      "price": "₵114.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/150796.png",
+      "url": "https://melcom.com/head-shoulders-total-care-shampoo-400ml.html"
+    },
+    {
+      "title": "KELLOGGS RICE KRISPIES 430G",
+      "price": "₵109.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158890.png",
+      "url": "https://melcom.com/kelloggs-rice-krispies-430g.html"
+    },
+    {
+      "title": "LONDON BISCUITS BUTTER COOKIES IN TIN 454G",
+      "price": "₵129.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158906.png",
+      "url": "https://melcom.com/london-biscuits-butter-cookies-in-tin-454g.html"
+    },
+    {
+      "title": "DADDIES BROWN SAUCE 400G",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158978.png",
+      "url": "https://melcom.com/daddies-brown-sauce-400g.html"
+    },
+    {
+      "title": "DREAMIES MIX CAT TREAT WITH SALMON AND TUNA 60G",
+      "price": "₵42.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158986.png",
+      "url": "https://melcom.com/dreamies-mix-cat-treat-with-salmon-and-tuna-60g.html"
+    },
+    {
+      "title": "WRIGLEY EXTRA REFRESHER TROPICAL SUGARFREE CHEWING GUM",
+      "price": "₵8.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158987.png",
+      "url": "https://melcom.com/wrigley-extra-refresher-tropical-sugarfree-chewing-gum.html"
+    },
+    {
+      "title": "ABIDO SPICES OREGANO 20G",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159542.png",
+      "url": "https://melcom.com/abido-spices-oregano-20g.html"
+    },
+    {
+      "title": "COMFORT FABRIC CONDITIONER 30W APPLE BLOSSOM 900ML",
+      "price": "₵78.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159540.png",
+      "url": "https://melcom.com/comfort-fabric-conditioner-30w-apple-blossom-900ml.html"
+    },
+    {
+      "title": "LUX SHOWER GEL POPPY 600ML",
+      "price": "₵70.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159526.png",
+      "url": "https://melcom.com/lux-shower-gel-poppy-600ml.html"
+    },
+    {
+      "title": "LUX SHOWER GEL ORCHID 600ML",
+      "price": "₵70.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159522.png",
+      "url": "https://melcom.com/lux-shower-gel-orchid-600ml.html"
+    },
+    {
+      "title": "LUX SHOWER GEL CHARMING PEONY 600ML",
+      "price": "₵70.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159512.png",
+      "url": "https://melcom.com/lux-shower-gel-charming-peony-600ml.html"
+    },
+    {
+      "title": "LENOR FABRIC COND.30W RUBY JASMINE 858ML",
+      "price": "₵72.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159418.png",
+      "url": "https://melcom.com/lenor-fabric-cond-30w-ruby-jasmine-858ml.html"
+    },
+    {
+      "title": "DELI CHTOURA WILD CUCUMBER BUCKET 10KG",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151305_1.png",
+      "url": "https://melcom.com/deli-chtoura-wild-cucumber-bucket-10kg.html"
+    },
+    {
+      "title": "GILLETTE ARTIC ICE GEL STICK 70ML",
+      "price": "₵104.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/150844.png",
+      "url": "https://melcom.com/gillette-artic-ice-gel-stick-70ml.html"
+    },
+    {
+      "title": "BIGOO COCONUT DRINK 350ML",
+      "price": "₵2.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151040.png",
+      "url": "https://melcom.com/bigoo-coconut-drink-350ml.html"
+    },
+    {
+      "title": "REXONA ROLL ON SA WOMEN SHOWER FRESH 50ML",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151216.png",
+      "url": "https://melcom.com/rexona-roll-on-sa-women-shower-fresh-50ml.html"
+    },
+    {
+      "title": "GALAXY CONCEPT SPRAY - BARACA 200ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151547.png",
+      "url": "https://melcom.com/galaxy-concept-spray-baraca-200ml.html"
+    },
+    {
+      "title": "GALAXY CONCEPT SPRAY HEROES 200ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151555.png",
+      "url": "https://melcom.com/galaxy-concept-spray-heroes-200ml.html"
+    },
+    {
+      "title": "GALAXY CONCEPT SPRAY TERE 200ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151577.png",
+      "url": "https://melcom.com/galaxy-concept-spray-tere-200ml.html"
+    },
+    {
+      "title": "WINDOLENE 4 ACT SYSTEM 750ML",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151764.png",
+      "url": "https://melcom.com/windolene-4-act-system-750ml.html"
+    },
+    {
+      "title": "IMPERIAL LEATHER ACTIVE LOTION UTOPIA 200ML",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152061.png",
+      "url": "https://melcom.com/imperial-leather-active-lotion-utopia-200ml.html"
+    },
+    {
+      "title": "MCBERRY LOVAN VANILLA CAKE 23G",
+      "price": "₵1.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152259.png",
+      "url": "https://melcom.com/mcberry-lovan-vanilla-cake-23g.html"
+    },
+    {
+      "title": "MCBERRY PURE DELIGHT BITE MILK CREAM WAFER 21G",
+      "price": "₵1.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152261.png",
+      "url": "https://melcom.com/mcberry-pure-delight-bite-milk-cream-wafer-21g.html"
+    },
+    {
+      "title": "PERK CHOCO SHORTCAKE 50G",
+      "price": "₵2.39",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152269.png",
+      "url": "https://melcom.com/perk-choco-shortcake-50g.html"
+    },
+    {
+      "title": "NUTRISNAX MORNING BREAKFAST CEREAL & OATS 24G",
+      "price": "₵1.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152273.png",
+      "url": "https://melcom.com/nutrisnax-morning-breakfast-cereal-oats-24g.html"
+    },
+    {
+      "title": "MIMI KISS ROSE WINE 750ML",
+      "price": "₵133.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157739.png",
+      "url": "https://melcom.com/mimi-kiss-rose-wine-750ml.html"
+    },
+    {
+      "title": "MIMI KISS WHITE WINE 750ML",
+      "price": "₵133.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157741_1.png",
+      "url": "https://melcom.com/mimi-kiss-white-wine-750ml.html"
+    }
+  ]
+}

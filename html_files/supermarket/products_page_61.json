@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 61,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:58:14.395Z",
+  "products": [
+    {
+      "title": "LINDT SWISS CLASSIC MILK CHOCOLATE 100G",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74922a.jpg",
+      "url": "https://melcom.com/lindt-swiss-classic-milk-chocolate-100g.html"
+    },
+    {
+      "title": "LINDT SWISS CLASSIC MILK WITH WHOLE ALMOND 100G",
+      "price": "₵61.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74925a.jpeg",
+      "url": "https://melcom.com/lindt-swiss-classic-milk-with-whole-almond-100g.html"
+    },
+    {
+      "title": "LINDT SWISS CLASSIC DARK HAZELNUT 100G",
+      "price": "₵63.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74926a.jpg",
+      "url": "https://melcom.com/lindt-swiss-classic-dark-hazelnut-100g.html"
+    },
+    {
+      "title": "LINDT SWISS CLASSIC WHITE CHOCOLATE 100G",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/4/74923a.jpg",
+      "url": "https://melcom.com/lindt-swiss-classic-white-chocolate-100g.html"
+    },
+    {
+      "title": "GRANORO ORECCHIETTE DEDICATO 20091 500G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126965.jpg",
+      "url": "https://melcom.com/granoro-orecchiette-dedicato-20091-500g.html"
+    },
+    {
+      "title": "GRANORO CREMA PEPERONCINO 8020 180G",
+      "price": "₵82.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126958a.jpg",
+      "url": "https://melcom.com/granoro-crema-peperoncino-8020-180g.html"
+    },
+    {
+      "title": "PURINA FRISKIES LAMB, TURKEY, VEGETABLES 400G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/113314a.jpg",
+      "url": "https://melcom.com/purina-friskies-lamb-turkey-vegetables-400g.html"
+    },
+    {
+      "title": "OLD EL PASO TRADITIONAL REFRIED BEANS 453G 16OZ",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107851a.jpg",
+      "url": "https://melcom.com/old-el-paso-traditional-refried-beans-453g-16oz.html"
+    },
+    {
+      "title": "MOKATE MILK SHAKE CHOCOLATE 500G",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/127545a.jpg",
+      "url": "https://melcom.com/mokate-milk-shake-chocolate-500g.html"
+    },
+    {
+      "title": "FANTASIA CHIPS ORIGINAL 40G",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/123131a.jpg",
+      "url": "https://melcom.com/fantasia-chips-original-40g.html"
+    },
+    {
+      "title": "HUNTER'S POTATO CHIPS WHITE TRUFFLE & PORCINI 25G",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/127663a.jpg",
+      "url": "https://melcom.com/hunter-s-potato-chips-white-truffle-porcini-25g.html"
+    },
+    {
+      "title": "OKF LEMON GINGER DRINK 500ML",
+      "price": "₵30.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125404a.jpg",
+      "url": "https://melcom.com/okf-lemon-ginger-drink-500ml.html"
+    },
+    {
+      "title": "OKF SMOOTHIE(MIX BERRY) 500ML",
+      "price": "₵30.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125405.png",
+      "url": "https://melcom.com/okf-smoothie-mix-berry-500ml.html"
+    },
+    {
+      "title": "OKF SMOOTHIE TROPICAL 500ML",
+      "price": "₵30.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125406a.jpg",
+      "url": "https://melcom.com/okf-smoothie-tropical-500ml.html"
+    },
+    {
+      "title": "OKF BEAUTY COLLAGEN ZERO SUGAR 500ML",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125386a.jpg",
+      "url": "https://melcom.com/okf-beauty-collagen-zero-sugar-500ml.html"
+    },
+    {
+      "title": "HUNTER'S POTATO CHIPS SEA SALT 40G",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99131a.jpg",
+      "url": "https://melcom.com/hunter-s-potato-chips-sea-salt-40g.html"
+    },
+    {
+      "title": "SMUCKERS SALTED CARAMEL TOPPING 11.5OZ",
+      "price": "₵75.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/129150a.jpg",
+      "url": "https://melcom.com/smuckers-salted-caramel-topping-11-5oz.html"
+    },
+    {
+      "title": "SMUCKERS CONCORD GRAPE JAM 340G",
+      "price": "₵42.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/129167a.jpg",
+      "url": "https://melcom.com/smuckers-concord-grape-jam-340g.html"
+    },
+    {
+      "title": "SMUCKER HOT CARAMEL TOPPING 12.00Z",
+      "price": "₵48.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/4/44815a.jpg",
+      "url": "https://melcom.com/smucker-hot-caramel-topping-12-00z.html"
+    },
+    {
+      "title": "BAYARA SOUK ALMOND SLICED 1KG",
+      "price": "₵349.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/129106.png",
+      "url": "https://melcom.com/bayara-souk-almond-sliced-1kg.html"
+    },
+    {
+      "title": "BETTY CROCKER PIE CRUST MIX 311G (11OZ)",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/128847a.jpg",
+      "url": "https://melcom.com/betty-crocker-pie-crust-mix-311g-11oz.html"
+    },
+    {
+      "title": "OKF ALOE ORGANIC  1.5LTR",
+      "price": "₵74.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125409a.jpg",
+      "url": "https://melcom.com/okf-aloe-organic-1-5ltr.html"
+    },
+    {
+      "title": "STRAWBERRIES  250G (IMPORT)",
+      "price": "₵159.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126012.jpg",
+      "url": "https://melcom.com/strawberries-250g-import.html"
+    },
+    {
+      "title": "POPIZZ SPARKLING WHITE GRAPE 750ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125871a.jpg",
+      "url": "https://melcom.com/popizz-sparkling-white-grape-750ml.html"
+    },
+    {
+      "title": "POPIZZ SPARKLING DRINK APPLE 750ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125869a.jpg",
+      "url": "https://melcom.com/popizz-sparkling-drink-apple-750ml.html"
+    },
+    {
+      "title": "BETIS TIN OLIVE OIL 3.785L",
+      "price": "₵1,299.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126889a.jpg",
+      "url": "https://melcom.com/betis-tin-olive-oil-3-785l.html"
+    },
+    {
+      "title": "BETIS GLASS EXTRA VIRGIN OLIVE OIL 750ML",
+      "price": "₵329.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126892a.jpg",
+      "url": "https://melcom.com/betis-glass-extra-virgin-olive-oil-750ml.html"
+    },
+    {
+      "title": "BRIDOR BUTTER CROISSANT 60G",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126406.png",
+      "url": "https://melcom.com/bridor-butter-croissant-60g.html"
+    },
+    {
+      "title": "POPIZZ SPARKLING DRINK PINK 750ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125870a.jpg",
+      "url": "https://melcom.com/popizz-sparkling-drink-pink-750ml.html"
+    },
+    {
+      "title": "BRIDOR PAIN AUX CHOCO 70G",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126143.png",
+      "url": "https://melcom.com/bridor-pain-aux-choco-70g.html"
+    },
+    {
+      "title": "BETIS GLASS OLIVE OIL 500ML",
+      "price": "₵189.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126893a.jpg",
+      "url": "https://melcom.com/betis-glass-olive-oil-500ml.html"
+    },
+    {
+      "title": "BETIS GLASS EXTRA VIRGIN OLIVE OIL 500ML",
+      "price": "₵199.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126894a.jpg",
+      "url": "https://melcom.com/betis-glass-extra-virgin-olive-oil-500ml.html"
+    }
+  ]
+}

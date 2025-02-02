@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 100,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:01:32.874Z",
+  "products": [
+    {
+      "title": "DEVA SOFTENER LAVENDER 2L",
+      "price": "₵78.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14827_1_1.jpg",
+      "url": "https://melcom.com/deva-softener-lavender-2l.html"
+    },
+    {
+      "title": "DIMES MANGO & APPLE PREMIUM JUICE 1L",
+      "price": "₵55.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76893_2_1.jpg",
+      "url": "https://melcom.com/dimes-mango-apple-premium-juice-1l.html"
+    },
+    {
+      "title": "DIMES FRUIT MIX PREMIUM JUICE 1L",
+      "price": "₵55.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/2/22569_2_1.jpg",
+      "url": "https://melcom.com/dimes-fruit-mix-premium-juice-1l.html"
+    },
+    {
+      "title": "DIMES APPLE PREMIUM JUICE 1L",
+      "price": "₵55.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/0/00289_1_1.jpg",
+      "url": "https://melcom.com/dimes-apple-premium-juice-1l.html"
+    },
+    {
+      "title": "DEVA WC GEL LIME FRESH 750ML",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72670_1_1.jpg",
+      "url": "https://melcom.com/deva-wc-gel-lime-fresh-750ml.html"
+    },
+    {
+      "title": "DEVA WC GEL FLORAL 750ML",
+      "price": "₵22.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72671_1_1.jpg",
+      "url": "https://melcom.com/deva-wc-gel-floral-750ml.html"
+    },
+    {
+      "title": "DETTOL ANTISEPTIC LIQUID 500ML",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/8/x890_1_1.jpg",
+      "url": "https://melcom.com/dettol-antiseptic-liquid-500ml.html"
+    },
+    {
+      "title": "DETTOL ANTISEPTIC LIQUID 250ML",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/x/8/x889a.jpg",
+      "url": "https://melcom.com/dettol-antiseptic-liquid-250ml.html"
+    },
+    {
+      "title": "SIO DISHWASHING LIQUID PRIMO APPLE 750ML",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/1/81338a.jpg",
+      "url": "https://melcom.com/sio-dishwashing-liquid-primo-apple-750ml.html"
+    },
+    {
+      "title": "CADBURY HOT CHOCOLATE DRINK 10PCS X 12 30G",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/2/22065_1.jpg",
+      "url": "https://melcom.com/cadbury-hot-chocolate-drink-10pcs-x-12-30g.html"
+    },
+    {
+      "title": "CADBURY HOT CHOCO DRINK 3IN1 (15PCS X 30G) 450G",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/9/69470_1_1.jpg",
+      "url": "https://melcom.com/cadbury-hot-choco-drink-3in1-15pcs-x-30g-450g.html"
+    },
+    {
+      "title": "NAN OPTIPRO 1 400G",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/placeholder/default/default-img_1.png",
+      "url": "https://melcom.com/nan-optipro-1-400g.html"
+    },
+    {
+      "title": "GILLETTE BLUE 3 SHAVING STICKS 3 BLADES (3 PCS)",
+      "price": "₵60.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/3/63989a_1.jpg",
+      "url": "https://melcom.com/gillette-blue-3-shaving-sticks-3-blades-3-63989.html"
+    },
+    {
+      "title": "BARILLA SPAGHETTI 500G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36056_1.jpg",
+      "url": "https://melcom.com/barilla-spaghetti-500g.html"
+    },
+    {
+      "title": "BARILLA SPAGHETTI N.5 500G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36055_2_1.jpg",
+      "url": "https://melcom.com/barilla-spaghaettini-500g.html"
+    },
+    {
+      "title": "EVERPACK MULTI-PURPOSE TOWELS (100SHEETS)",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/8/48773_1_1.jpg",
+      "url": "https://melcom.com/everpack-multi-purpose-towels-100sheets.html"
+    },
+    {
+      "title": "EVERPACK TOILET ROLL FLUFFY 4 ROLLS",
+      "price": "₵19.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/5/n570_2_1.jpg",
+      "url": "https://melcom.com/everpack-toilet-roll-fluffy-4-rolls.html"
+    },
+    {
+      "title": "HEAVEN INSECTICIDES SPRAY 300ML",
+      "price": "₵37.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/e/heaven_insecticide_spray_300ml.jpg",
+      "url": "https://melcom.com/heaven-insecticides-spray-300ml.html"
+    },
+    {
+      "title": "HEAVEN INSECTICIDE SPRAY 400ML",
+      "price": "₵50.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72785_1_1.jpg",
+      "url": "https://melcom.com/heaven-insecticide-spray-400ml.html"
+    },
+    {
+      "title": "TOP CHOCO CHOCOLATE SPREAD 500G",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76084_1_1.jpg",
+      "url": "https://melcom.com/top-choco-chocolate-spread-500g.html"
+    },
+    {
+      "title": "PASCUAL YOGHURT NF STRAWBERRIES (125GX4)",
+      "price": "₵67.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08495_3_1.jpg",
+      "url": "https://melcom.com/pascual-yoghurt-nf-strawberries-125gx4.html"
+    },
+    {
+      "title": "LESIEUR MAYONNAISE WITH FRESH EGGS 235G",
+      "price": "₵38.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/3/73976_1.jpg",
+      "url": "https://melcom.com/lesieur-mayonnaise-with-fresh-eggs-235g.html"
+    },
+    {
+      "title": "JACOB CREAM CRACKER 300G",
+      "price": "₵52.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/5/65457_1_1.jpg",
+      "url": "https://melcom.com/jacob-cream-cracker-300g.html"
+    },
+    {
+      "title": "GULLON SUGAR FREE DIGESTIVE BISCUIT 400G",
+      "price": "₵56.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/1/71621_2_1.jpg",
+      "url": "https://melcom.com/gullon-sugar-free-digestive-biscuit-400g.html"
+    },
+    {
+      "title": "GULLON SUGAR FREE VANILLA WAFER 210G",
+      "price": "₵61.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/9/79702_1_1.jpg",
+      "url": "https://melcom.com/gullon-sugar-free-vanilla-wafer-210g.html"
+    },
+    {
+      "title": "BIC METAL BAR TWIN BLADES  (5 PCS)",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/2/6/26463a.jpg",
+      "url": "https://melcom.com/bic-metal-bar-twin-blades-5-pcs.html"
+    },
+    {
+      "title": "CAPEL WHITE GRAPE NON ALCOHOLIC SPARKLING WINE 750ML",
+      "price": "₵63.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08480_1_1.jpg",
+      "url": "https://melcom.com/capel-white-grape-non-alcoholic-sparkling-wine-750ml.html"
+    },
+    {
+      "title": "CAPEL STRAWBERRY NON ALCOHOLIC SPARKLING WINE 750ML",
+      "price": "₵63.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08482_1_1.jpg",
+      "url": "https://melcom.com/capel-strawberry-non-alcoholic-sparkling-wine-750ml.html"
+    },
+    {
+      "title": "BARILLA FUSSILI PASTA 500G",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36052_1_1.jpg",
+      "url": "https://melcom.com/barilla-fussili-pasta-500g.html"
+    },
+    {
+      "title": "BARILLA PENNE RIGATE PASTA 500G",
+      "price": "₵58.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36051_1_1_1.jpg",
+      "url": "https://melcom.com/barilla-penne-rigate-pasta-500g.html"
+    },
+    {
+      "title": "NIVEA FEMALE ROLL-ON DRY 50ML",
+      "price": "₵41.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/16842_1_1.jpg",
+      "url": "https://melcom.com/nivea-female-roll-on-dry-50ml.html"
+    },
+    {
+      "title": "GOODYS SPICY SHITO HOT BEEF 845G",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/8/08736a.jpg",
+      "url": "https://melcom.com/goodys-spicy-shito-hot-beef-845g.html"
+    }
+  ]
+}

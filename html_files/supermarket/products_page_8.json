@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 8,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:53:52.891Z",
+  "products": [
+    {
+      "title": "ENAPA MACKREL IN TOMATO SAUCE EASY OPEN 200G",
+      "price": "₵15.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/e/n/enapa_2.png",
+      "url": "https://melcom.com/enapa-mackrel-in-tomato-sauce-easy-open-200g.html"
+    },
+    {
+      "title": "OMO HANDWASH POWDER 1KG",
+      "price": "₵71.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/168193.png",
+      "url": "https://melcom.com/omo-handwash-powder-1kg.html"
+    },
+    {
+      "title": "AIRPRO AIR FRESHNER DUAL SCENT LEMON/STRAWBERRY 30ML",
+      "price": "₵35.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/l/dl2.png",
+      "url": "https://melcom.com/airpro-air-freshner-dual-scent-lemon-strawberry-30ml.html"
+    },
+    {
+      "title": "CALVELEY MILL WHITE MILD CHEDDAR CHEESE 200G",
+      "price": "₵104.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/169730.png",
+      "url": "https://melcom.com/calveley-mill-white-mild-cheddar-cheese-200g.html"
+    },
+    {
+      "title": "TOMINTOUL CIGAR MALT OLOROSE SHERRY CASK 700ML",
+      "price": "₵1,699.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/168881.png",
+      "url": "https://melcom.com/tomintoul-cigar-malt-olorose-sherry-cask-700ml.html"
+    },
+    {
+      "title": "PAPILLION FLUSHABLE WIPE CHAMOMILE 48PCS",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/a/papi_2.png",
+      "url": "https://melcom.com/papillion-flushable-wipe-chamomile-48pcs.html"
+    },
+    {
+      "title": "TRIDENT BUBBLEGUM 12X14 STICKS",
+      "price": "₵20.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151906.png",
+      "url": "https://melcom.com/trident-bubblegum-12x14-sticks.html"
+    },
+    {
+      "title": "CLOVER SUPER M CHOCOLATE FLAVORED MED FAT MILK 1L",
+      "price": "₵58.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/112355.png",
+      "url": "https://melcom.com/clover-super-m-chocolate-flavored-med-fat-milk-1l.html"
+    },
+    {
+      "title": "TOUR DE CAPET WINE 750ML",
+      "price": "₵879.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/111331.png",
+      "url": "https://melcom.com/tour-de-capet-wine-750ml.html"
+    },
+    {
+      "title": "GLADE AIR REFRESHNER SUPER BLOOM 300ML",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/1/51754.png",
+      "url": "https://melcom.com/glade-air-refreshner-super-bloom-300ml.html"
+    },
+    {
+      "title": "PEDIGREE POUCH MIXED SELECTION IN GRAVY 100G",
+      "price": "₵136.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/170192.png",
+      "url": "https://melcom.com/pedigree-pouch-mixed-selection-in-gravy-100g.html"
+    },
+    {
+      "title": "VIMTO STILL 500ML",
+      "price": "₵28.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/1/71726.png",
+      "url": "https://melcom.com/vimto-still-500ml.html"
+    },
+    {
+      "title": "BARR BUBBLEGUM CAN DRINK NO SUGAR 330ML",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/8/68212.png",
+      "url": "https://melcom.com/barr-bubblegum-can-drink-no-sugar-330ml.html"
+    },
+    {
+      "title": "RUBICON SPARKLING PASSION CAN DRINK 330ML",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/8/68202.png",
+      "url": "https://melcom.com/rubicon-sparkling-passion-can-drink-330ml.html"
+    },
+    {
+      "title": "LIPTON ICE TEA LEMON 330ML",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66974.png",
+      "url": "https://melcom.com/catalog/product/view/id/75846/s/lipton-ice-tea-lemon-330ml/category/3112/"
+    },
+    {
+      "title": "BUTCHERS CLASSIC MULTIPACK CHICKEN TURKEY 4 X 100G",
+      "price": "₵57.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/b/c/bcat_1.jpg",
+      "url": "https://melcom.com/butchers-classic-multipack-chicken-turkey-4-x-100g.html"
+    },
+    {
+      "title": "KIDSMANIA EMOJIPOP ASSORTED 12CT",
+      "price": "₵35.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/e/m/emojia.jpg",
+      "url": "https://melcom.com/kidsmania-emojipop-assorted-12ct.html"
+    },
+    {
+      "title": "PRIME ICE POP HYDRATION DRINK 500ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/r/primee_1.png",
+      "url": "https://melcom.com/prime-ice-pop-hydration-drink-500ml.html"
+    },
+    {
+      "title": "JOLLY RANCHER CHEWS ORIGINAL 58G",
+      "price": "₵41.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/j/o/jolly_1.png",
+      "url": "https://melcom.com/jolly-rancher-chews-original-58g.html"
+    },
+    {
+      "title": "PRINGLES EMMENTAL 175G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/e/m/emment.jpg",
+      "url": "https://melcom.com/pringles-emmental-175g.html"
+    },
+    {
+      "title": "LYONS VISCOUNT BISCUIT 98G",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/l/y/lyons_1.jpg",
+      "url": "https://melcom.com/lyons-viscount-biscuit-98g.html"
+    },
+    {
+      "title": "BINE MULITIPURPOSE LIQUID SOAP 250ML",
+      "price": "₵4.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/1/01853.jpg",
+      "url": "https://melcom.com/bine-mulitipurpose-liquid-soap-250ml.html"
+    },
+    {
+      "title": "BADIA CINNAMON STIICKS 35.4G",
+      "price": "₵46.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/b/a/badia_1.jpeg",
+      "url": "https://melcom.com/badia-cinnamon-stiicks-35-4g.html"
+    },
+    {
+      "title": "HERMAN PEANUT BUTTER CREAMY 340G",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/n/pnut_1.png",
+      "url": "https://melcom.com/herman-peanut-butter-creamy-340g.html"
+    },
+    {
+      "title": "DIMES NECTAR PEACH JUICE 1L",
+      "price": "₵55.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/i/dimes_1.png",
+      "url": "https://melcom.com/dimes-nectar-peach-juice-1l.html"
+    },
+    {
+      "title": "NEDERBURG WINEMASTERS CHARDONNAY WINE 750ML",
+      "price": "₵172.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/e/ned_char_1.png",
+      "url": "https://melcom.com/nederburg-winemasters-chardonnay-wine-750ml.html"
+    },
+    {
+      "title": "GEISHA ALOE VERA HONEY SOAP 250G",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/g/e/geisha_al1.png",
+      "url": "https://melcom.com/geisha-aloe-vera-honey-soap-250g.html"
+    },
+    {
+      "title": "EASY DISHWASHING LIQUID LEMON 500ML",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138987.png",
+      "url": "https://melcom.com/easy-dishwashing-liquid-lemon-500ml.html"
+    },
+    {
+      "title": "NESTLE KIT KAT CHUNKY 128G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139053.png",
+      "url": "https://melcom.com/nestle-kit-kat-chunky-128g.html"
+    },
+    {
+      "title": "RED BULL WATERMELON ENERGY DRINK 250ML",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139088.png",
+      "url": "https://melcom.com/red-bull-watermelon-energy-drink-250ml.html"
+    },
+    {
+      "title": "PURINA DOG CHOW COMPLETE ADULT BEEF FLAVOR 21.8KG",
+      "price": "₵1,149.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139208.png",
+      "url": "https://melcom.com/purina-dog-chow-complete-adult-beef-flavor-21-8kg.html"
+    },
+    {
+      "title": "FERRERO FINE COUSCOUS 500G",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139657.png",
+      "url": "https://melcom.com/ferrero-fine-couscous-500g.html"
+    }
+  ]
+}

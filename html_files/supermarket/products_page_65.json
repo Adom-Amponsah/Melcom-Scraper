@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 65,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:58:34.878Z",
+  "products": [
+    {
+      "title": "SEARA SEASONED FROZEN TURKEY 3.5KGS",
+      "price": "₵399.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106989a.jpg",
+      "url": "https://melcom.com/seara-frozen-turkey-3-5kgs.html"
+    },
+    {
+      "title": "MRS BECTORS GOLDEN BYTES CASHEW COOKIES 90G",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/g/o/golden_1.png",
+      "url": "https://melcom.com/mrs-bectors-golden-bytes-cashew-cookies-90g.html"
+    },
+    {
+      "title": "MCCAIN BRUSSEL SPROUTS 750G",
+      "price": "₵74.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/116981.png",
+      "url": "https://melcom.com/mccain-brussel-sprouts-750g.html"
+    },
+    {
+      "title": "GREY GOOSE VODKA 40% 1L",
+      "price": "₵849.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/g/r/grey_goose.jpg",
+      "url": "https://melcom.com/grey-goose-vodka-40-1l.html"
+    },
+    {
+      "title": "FOX-S CHOCOLATEY MILK CHOCOLATE ROUNDS 130G",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/9945.png",
+      "url": "https://melcom.com/catalog/product/view/id/46731/s/fox-s-chocolatey-milk-chocolate-rounds-130g/category/3112/"
+    },
+    {
+      "title": "COLGATE MOUTHWASH PLAX COOL MINT 250ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/c/o/colgate_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/46726/s/colgate-mouthwash-plax-cool-mint-250ml/category/3112/"
+    },
+    {
+      "title": "BAYARA FLAXSEEDS 400G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107935.png",
+      "url": "https://melcom.com/bayara-flaxseeds-400g.html"
+    },
+    {
+      "title": "BAYARA WHITE QUINOA 400G",
+      "price": "₵64.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107934a.jpg",
+      "url": "https://melcom.com/bayara-white-quinoa-400g.html"
+    },
+    {
+      "title": "FARAGELLO GOLD GRAPE NECTAR GLASS BOTTLE 250ML",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/_/1_3.jpg",
+      "url": "https://melcom.com/faragello-gold-grape-nectar-glass-bottle-250ml.html"
+    },
+    {
+      "title": "FARAGELLO GOLD APPLE NECTAR GLASS BOTTLE 1L",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118289a.jpg",
+      "url": "https://melcom.com/faragello-gold-apple-nectar-glass-bottle-1l.html"
+    },
+    {
+      "title": "FARAGELLO GOLD APPLE NECTAR GLASS BOTTLE 250ML",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118282a.jpg",
+      "url": "https://melcom.com/faragello-gold-apple-nectar-glass-bottle-250ml.html"
+    },
+    {
+      "title": "FARAGELLO GOLD GRAPE NECTAR GLASS BOTTLE 1L",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118279-removebg-preview.png",
+      "url": "https://melcom.com/faragello-gold-grape-nectar-glass-bottle-1l.html"
+    },
+    {
+      "title": "EASY MOUZOO GRAPE NECTAR GLASS BOTTLE 250ML",
+      "price": "₵13.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118277a.jpg",
+      "url": "https://melcom.com/easy-mouzoo-grape-nectar-glass-bottle-250ml.html"
+    },
+    {
+      "title": "CHALLENGE INSECTICIDE SPRAY 400ML",
+      "price": "₵41.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97340a.jpg",
+      "url": "https://melcom.com/challenge-insecticide-spray-400ml.html"
+    },
+    {
+      "title": "AXE DEODORANT ANARCHY FOR HER 150ML",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/1/41180a.jpg",
+      "url": "https://melcom.com/axe-deodorant-anarchy-for-her-150ml.html"
+    },
+    {
+      "title": "DOMESTOS ORIGINAL BLEACH  750ML",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/2/02224a.jpg",
+      "url": "https://melcom.com/domestos-original-bleach-750ml.html"
+    },
+    {
+      "title": "ROMA INSECTICIDE SPRAY 300ML",
+      "price": "₵45.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94668a.jpg",
+      "url": "https://melcom.com/roma-insecticide-spray-300ml.html"
+    },
+    {
+      "title": "NIVEA BODY LOTION NATURAL FAIRNESS 250ML",
+      "price": "₵63.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/0/90540a.jpg",
+      "url": "https://melcom.com/nivea-body-lotion-natural-fairness-250ml.html"
+    },
+    {
+      "title": "ORO AIR FRESHNER AUTOMATIC SPA 335ML",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/3/53788a_1.jpg",
+      "url": "https://melcom.com/oro-air-freshner-automatic-spa-335ml.html"
+    },
+    {
+      "title": "EVERPACK ALUMINIUM FOIL 25FT",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/2/32103a_1.jpg",
+      "url": "https://melcom.com/everpack-aluminium-foil-25ft.html"
+    },
+    {
+      "title": "EVERPACK CLING FILM 100SQ FT",
+      "price": "₵18.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/2/32104a.jpg",
+      "url": "https://melcom.com/everpack-cling-film-100sq-ft.html"
+    },
+    {
+      "title": "CLOSEUP TOOTHPASTE COMPLETE FRESH PROTECTION 140G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126957a.jpg",
+      "url": "https://melcom.com/closeup-toothpaste-complete-fresh-protection-140g.html"
+    },
+    {
+      "title": "PANTENE SHAMPOO REPAIR & PROTECT 400ML",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/119320a.jpg",
+      "url": "https://melcom.com/pantene-shampoo-repair-protect-400ml.html"
+    },
+    {
+      "title": "DJANGO BROTHERS SMOKY COLA 200ML",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/102434a.jpg",
+      "url": "https://melcom.com/django-brothers-smoky-cola-200ml.html"
+    },
+    {
+      "title": "FIESTA WHITE GRAPE NON ALCOHOLIC WINE 750ML",
+      "price": "₵51.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93635a.jpg",
+      "url": "https://melcom.com/fiesta-white-grape-non-alcoholic-wine-750ml.html"
+    },
+    {
+      "title": "SENAC SPARKLING COCKTAIL GREEN 375ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87623a.jpg",
+      "url": "https://melcom.com/senac-sparkling-cocktail-green-375ml.html"
+    },
+    {
+      "title": "BAYARA SOUK CASHEW CHEESE JUMBO 2KG",
+      "price": "₵499.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121703_jxsu8fv.png",
+      "url": "https://melcom.com/bayara-souk-cashew-cheese-jumbo-2kg.html"
+    },
+    {
+      "title": "MRS BECTORS GOLDEN BYTES BUTTER COOKIES 90G",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/g/o/golden_butter-cookies_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/46455/s/mrs-bectors-golden-bytes-butter-cookies-90g/category/3112/"
+    },
+    {
+      "title": "BAYARA SOUK CHICKPEAS LARGE MEXICO 5KG",
+      "price": "₵119.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121688.png",
+      "url": "https://melcom.com/bayara-souk-chickpeas-large-mexico-5kg.html"
+    },
+    {
+      "title": "BAYARA SOUK BLACK EYE BEANS 5KG",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121679.png",
+      "url": "https://melcom.com/catalog/product/view/id/46407/s/bayara-souk-black-eye-beans-5kg/category/3112/"
+    },
+    {
+      "title": "PURDEY'S NATURAL ENERGY REFOCUS DARK FRUIT 330ML",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/118309a.jpg",
+      "url": "https://melcom.com/purdey-s-natural-energy-refocus-dark-fruit-330ml.html"
+    },
+    {
+      "title": "SIONSE HAND WASH ANTIBACTERIAL 400ML",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/114283a.jpg",
+      "url": "https://melcom.com/sionse-hand-wash-antibacterial-400ml.html"
+    }
+  ]
+}

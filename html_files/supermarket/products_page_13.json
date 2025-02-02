@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 13,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:54:14.399Z",
+  "products": [
+    {
+      "title": "ZULEKHA METHI 300G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/158256.png",
+      "url": "https://melcom.com/zulekha-methi-300g.html"
+    },
+    {
+      "title": "QUORN 8 SAUSAGES 336G",
+      "price": "₵104.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136245_yzqg1gb.png",
+      "url": "https://melcom.com/quorn-8-sausages-336g.html"
+    },
+    {
+      "title": "BOSTANA FROZEN STRAWBERRY VEGETABLES 400G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/161346_1.png",
+      "url": "https://melcom.com/bostana-frozen-strawberry-vegetables-400g.html"
+    },
+    {
+      "title": "EMBORG BROCCOLI MIX 750G",
+      "price": "₵136.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/14551.png",
+      "url": "https://melcom.com/emborg-broccoli-mix-750g.html"
+    },
+    {
+      "title": "JALAPENO GREEN IMPORT PACK",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132081.png",
+      "url": "https://melcom.com/jalapeno-green-import-pack.html"
+    },
+    {
+      "title": "RIDGED GUARD(TORI)-SA",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132486.png",
+      "url": "https://melcom.com/ridged-guard-tori-sa.html"
+    },
+    {
+      "title": "ROUND AUBERGINE-SA 300G",
+      "price": "₵6.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132492_1.png",
+      "url": "https://melcom.com/round-aubergine-sa-300g.html"
+    },
+    {
+      "title": "CABBAGE LARGE VF PC",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132764.png",
+      "url": "https://melcom.com/cabbage-large-vf-pc.html"
+    },
+    {
+      "title": "CRIPPS RED APPLE FRESH PACK",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132827_1.png",
+      "url": "https://melcom.com/cripps-red-apple-fresh-pack.html"
+    },
+    {
+      "title": "SPRING ONION GP PC",
+      "price": "₵7.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/133416.png",
+      "url": "https://melcom.com/spring-onion-gp-pc.html"
+    },
+    {
+      "title": "IRISH POTATO 2KG - PACK",
+      "price": "₵69.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/135031_1.png",
+      "url": "https://melcom.com/irish-potato-2kg-pack.html"
+    },
+    {
+      "title": "PAPAYA PC MGF",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136125.png",
+      "url": "https://melcom.com/papaya-pc-mgf.html"
+    },
+    {
+      "title": "GREEN BELL PEPPER PACK",
+      "price": "₵21.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136275.png",
+      "url": "https://melcom.com/green-bell-pepper-pack.html"
+    },
+    {
+      "title": "BEETROOT PACK",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136282_1.png",
+      "url": "https://melcom.com/beetroot-pack.html"
+    },
+    {
+      "title": "SPINACH  PACK VF",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136287_2.png",
+      "url": "https://melcom.com/spinach-pack-vf.html"
+    },
+    {
+      "title": "MINT LEAF PACK",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136289_1.png",
+      "url": "https://melcom.com/mint-leaf-pack.html"
+    },
+    {
+      "title": "PARSLEY PACK VF",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136290.png",
+      "url": "https://melcom.com/parsley-pack-vf.html"
+    },
+    {
+      "title": "BASIL PACK VF",
+      "price": "₵10.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/b/a/bas.png",
+      "url": "https://melcom.com/basil-pack-vf.html"
+    },
+    {
+      "title": "RED CHILLY PACK VF",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136300.png",
+      "url": "https://melcom.com/red-chilly-pack-vf.html"
+    },
+    {
+      "title": "LIME PACK VF",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136301.png",
+      "url": "https://melcom.com/lime-pack-vf.html"
+    },
+    {
+      "title": "CHOPPED SPRING ONIONS PACK",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136313_1.png",
+      "url": "https://melcom.com/chopped-spring-onions-pack.html"
+    },
+    {
+      "title": "BEETROOT- APL PACK",
+      "price": "₵27.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139998.png",
+      "url": "https://melcom.com/beetroot-apl-pack.html"
+    },
+    {
+      "title": "CUCUMBER LEBANESE- APL PACK",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140000.png",
+      "url": "https://melcom.com/cucumber-lebanese-apl-pack.html"
+    },
+    {
+      "title": "LOCAL CUCUMBER- APL PACK",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140010.png",
+      "url": "https://melcom.com/local-cucumber-apl-pack.html"
+    },
+    {
+      "title": "SHALLOT - APL PACK",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140011.png",
+      "url": "https://melcom.com/shallot-apl-pack.html"
+    },
+    {
+      "title": "SPINACH- APL PACK",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140012.png",
+      "url": "https://melcom.com/spinach-apl-pack.html"
+    },
+    {
+      "title": "SWEET POTATO RED- APL 1KG",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140014.png",
+      "url": "https://melcom.com/sweet-potato-red-apl-1kg.html"
+    },
+    {
+      "title": "GINGER- APL PACK",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/g/g/gg1.jpg",
+      "url": "https://melcom.com/ginger-apl-pack.html"
+    },
+    {
+      "title": "ONION RED- APL PACK",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140019.png",
+      "url": "https://melcom.com/onion-red-apl-pack.html"
+    },
+    {
+      "title": "EGG PLANT- APL PACK",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140026.png",
+      "url": "https://melcom.com/egg-plant-apl-pack.html"
+    },
+    {
+      "title": "PASSION FRUIT- APL 1KG",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140035.png",
+      "url": "https://melcom.com/passion-fruit-apl-1kg.html"
+    },
+    {
+      "title": "GRAPE RED GLOBE SMALL PACK",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/142774.png",
+      "url": "https://melcom.com/grape-red-globe-small-pack.html"
+    }
+  ]
+}

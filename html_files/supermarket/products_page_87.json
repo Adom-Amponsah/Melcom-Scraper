@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 87,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:00:27.559Z",
+  "products": [
+    {
+      "title": "MORNING FRESH DISHWASH LIQUID ZESTY LEMON 1000ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/109290a.jpg",
+      "url": "https://melcom.com/morning-fresh-dishwash-liquid-zesty-lemon-1000ml.html"
+    },
+    {
+      "title": "MORNING FRESH DISHWASH ORIGINAL FRESH 1000ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/109289a.jpg",
+      "url": "https://melcom.com/morning-fresh-dishwash-original-fresh-1000ml.html"
+    },
+    {
+      "title": "CUSSONS BABY SOAP MILD & GENTLE 60G",
+      "price": "₵5.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/8/n857a_1.jpg",
+      "url": "https://melcom.com/cussons-baby-soap-mild-gentle-60g.html"
+    },
+    {
+      "title": "BLING HANDWASH LIQUID SOAP VANILLA 5L",
+      "price": "₵66.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103902a.jpg",
+      "url": "https://melcom.com/bling-handwash-liquid-soap-vanilla-5l.html"
+    },
+    {
+      "title": "BORGES ESSENCES WITH GARLIC OLIVE OIL 250ML",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104157a.jpg",
+      "url": "https://melcom.com/borges-essences-with-garlic-olive-oil-250ml.html"
+    },
+    {
+      "title": "HEINZ TOMATO KETCHUP 513G",
+      "price": "₵63.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/6/d634a.jpg",
+      "url": "https://melcom.com/heinz-tomato-ketchup-513g.html"
+    },
+    {
+      "title": "CHARCOAL FLOURIDE TOOTHPASTE 125ML",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/100093.jpg",
+      "url": "https://melcom.com/charcoal-flouride-toothpaste-125ml.html"
+    },
+    {
+      "title": "KERRYGOLD FULL CREAM MILK POWDER POUCH 400G",
+      "price": "₵83.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/o/pouch.jpg",
+      "url": "https://melcom.com/kerrygold-full-cream-milk-powder-pouch-400g.html"
+    },
+    {
+      "title": "HUNTER'S POTATO CHIPS SEA SALT & CRUSHED BLACK PEPPER 125G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99129a.jpg",
+      "url": "https://melcom.com/hunter-s-potato-chips-sea-salt-crushed-black-pepper-125g.html"
+    },
+    {
+      "title": "HUNTER'S POTATO CHIPS GRILLS HOT & SWEET 125G",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99215a.jpg",
+      "url": "https://melcom.com/hunter-s-potato-chips-grills-hot-sweet-125g.html"
+    },
+    {
+      "title": "HUNTER'S POTATO CHIPS GRILLS SALT 125G",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99212a.jpg",
+      "url": "https://melcom.com/hunter-s-potato-chips-grills-salt-125g.html"
+    },
+    {
+      "title": "HUNTER'S QUINOA CHIPS SALT & VINEGAR 75G",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99174a.jpg",
+      "url": "https://melcom.com/hunter-s-quinoa-chips-salt-vinegar-75g.html"
+    },
+    {
+      "title": "HUNTER'S POTATO CHIPS BLACK TRUFFLE 125G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99130a.jpg",
+      "url": "https://melcom.com/hunter-s-potato-chips-black-truffle-125g.html"
+    },
+    {
+      "title": "GRANORO SPAGHETTI MEZZE PENNE RIGATE N.106 500G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105766a.jpg",
+      "url": "https://melcom.com/granoro-spaghetti-mezze-penne-rigate-n-106-500g.html"
+    },
+    {
+      "title": "BAYARA CUMIN POWDER 200G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98071a.jpg",
+      "url": "https://melcom.com/bayara-cumin-powder-200g.html"
+    },
+    {
+      "title": "BLING TOILET BOWL CLEANER GEL 5L",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103895a.jpg",
+      "url": "https://melcom.com/bling-toilet-bowl-cleaner-gel-5l.html"
+    },
+    {
+      "title": "GRANORO COCCIOLETTE PASTA NO 53. 500G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/7/07669a.jpg",
+      "url": "https://melcom.com/granoro-cocciolette-pasta-no-53-500g.html"
+    },
+    {
+      "title": "BLING TOILET BOWL CLEANER GEL 750ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106654a.jpg",
+      "url": "https://melcom.com/bling-toilet-bowl-cleaner-gel-750ml.html"
+    },
+    {
+      "title": "BAYARA BLACK PEPPER POWDER",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98060a.jpg",
+      "url": "https://melcom.com/bayara-black-pepper-powder.html"
+    },
+    {
+      "title": "BLING HANDWASH LIQUID SOAP VANILLA  500ML",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/v/a/vanilla_500ml.jpg",
+      "url": "https://melcom.com/bling-handwash-liquid-soap-vanilla-500ml.html"
+    },
+    {
+      "title": "FORTUNE CHAKKI FRESH ATTA WHOLE WHEAT FLOUR 5KG",
+      "price": "₵134.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/3/83236a.jpg",
+      "url": "https://melcom.com/fortune-chakki-fresh-atta-whole-wheat-flour-5kg.html"
+    },
+    {
+      "title": "OKF STANDARD ALOE  PEACH  DRINK  1.5L",
+      "price": "₵50.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/0/70758a_1.jpg",
+      "url": "https://melcom.com/okf-standard-aloe-peach-drink-1-5l.html"
+    },
+    {
+      "title": "BAYARA RED KIDNEY BEANS 400G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98109a.jpg",
+      "url": "https://melcom.com/bayara-red-kidney-beans.html"
+    },
+    {
+      "title": "BLING DISINFECTANT GARDENIA 500ML",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106650a.jpg",
+      "url": "https://melcom.com/bling-gardenia-disinfectant-500ml.html"
+    },
+    {
+      "title": "BLING ANTISEPTIC PLUS 250ML",
+      "price": "₵11.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/107160a.jpg",
+      "url": "https://melcom.com/bling-antiseptic-plus-250ml.html"
+    },
+    {
+      "title": "BLING PERFUMED DISINFECTANT 1L",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104692a.jpg",
+      "url": "https://melcom.com/bling-perfumed-disinfectant-1l.html"
+    },
+    {
+      "title": "FRUTAIL MANGO NECTAR JUICE 1L",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/100898a.jpg",
+      "url": "https://melcom.com/frutail-mango-nectar-juice-1l.html"
+    },
+    {
+      "title": "PAPILION ALOE VERA WET TOWELS 100 SHEETS WTH CAP",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/6/46783a.jpg",
+      "url": "https://melcom.com/papilion-aloe-vera-wet-towels-100-sheets-wth-cap.html"
+    },
+    {
+      "title": "ORO ANTISEPTIC ORIGINAL 570ML",
+      "price": "₵15.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105045a.jpg",
+      "url": "https://melcom.com/oro-antiseptic-original-570ml.html"
+    },
+    {
+      "title": "PLATINUM SUNFLOWER OIL 5L",
+      "price": "₵249.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105879a.jpg",
+      "url": "https://melcom.com/platinum-sunflower-oil-5l.html"
+    },
+    {
+      "title": "MARAM ANTISEPTIC ORIGINAL 5L",
+      "price": "₵163.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105044a.jpg",
+      "url": "https://melcom.com/maram-antiseptic-original-5l.html"
+    },
+    {
+      "title": "ORO ANTISEPTIC ORIGINAL 285ML",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/105046a.jpg",
+      "url": "https://melcom.com/oro-antiseptic-original-285ml.html"
+    }
+  ]
+}

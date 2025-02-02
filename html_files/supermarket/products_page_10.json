@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 10,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:54:01.503Z",
+  "products": [
+    {
+      "title": "BAYARA CHILI LONG 100G",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140792.png",
+      "url": "https://melcom.com/bayara-chili-long-100g.html"
+    },
+    {
+      "title": "MATTINA GOLD COFFEE 50G",
+      "price": "₵56.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143612.png",
+      "url": "https://melcom.com/mattina-gold-coffee-50g.html"
+    },
+    {
+      "title": "HARPIC BLOCK POWER FLORAL ESCAPE 35G",
+      "price": "₵45.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146404_1.png",
+      "url": "https://melcom.com/harpic-block-power-floral-escape-35g.html"
+    },
+    {
+      "title": "BAYARA CHILI ROUND 100G",
+      "price": "₵32.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146431_1.png",
+      "url": "https://melcom.com/bayara-chili-round-100g.html"
+    },
+    {
+      "title": "MASTER KETCHUP POTATO CHIPS 70G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143517.png",
+      "url": "https://melcom.com/master-ketchup-potato-chips-70g.html"
+    },
+    {
+      "title": "AIRPRO AIR FRESHENER ESSENTIALS FRUTTI DEL 9ML",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144187_2.png",
+      "url": "https://melcom.com/airpro-air-freshener-essentials-frutti-del-9ml.html"
+    },
+    {
+      "title": "AIRPRO AIR FRESHENER ESSENTIALS FRESH LEMON 9ML",
+      "price": "₵25.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144266.png",
+      "url": "https://melcom.com/airpro-air-freshener-essentials-fresh-lemon-9ml.html"
+    },
+    {
+      "title": "SIR LIQUID DISHWASHING MACHINE CLEANER 250ML",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146245_1.png",
+      "url": "https://melcom.com/sir-liquid-dishwashing-machine-cleaner-250ml.html"
+    },
+    {
+      "title": "SIR DISHWASHER RINSE AID 500ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146246_2.png",
+      "url": "https://melcom.com/sir-dishwasher-rinse-aid-500ml.html"
+    },
+    {
+      "title": "SIR BIO LIQUID DISHWASHER GEL DETERGENT 1000ML",
+      "price": "₵140.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146247_1.png",
+      "url": "https://melcom.com/sir-bio-liquid-dishwasher-gel-detergent-1000ml.html"
+    },
+    {
+      "title": "BAYARA SOUK SUNFLOWER SEEDS KERNELS 1KG",
+      "price": "₵109.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146494.png",
+      "url": "https://melcom.com/bayara-souk-sunflower-seeds-kernels-1kg.html"
+    },
+    {
+      "title": "BAYARA SOUK INDIAN MIXTURE 2KG",
+      "price": "₵224.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146488.png",
+      "url": "https://melcom.com/bayara-souk-indian-mixture-2kg.html"
+    },
+    {
+      "title": "BAYARA SOUK BOMBAY MIX 2KG",
+      "price": "₵224.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146477.png",
+      "url": "https://melcom.com/bayara-souk-bombay-mix-2kg.html"
+    },
+    {
+      "title": "BAYARA BURGHOL ROUGH 400G",
+      "price": "₵24.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146466_1.png",
+      "url": "https://melcom.com/bayara-burghol-rough-400g.html"
+    },
+    {
+      "title": "BAYARA BLACK PEPPER POWDER 100ML(45G)",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146435.png",
+      "url": "https://melcom.com/bayara-black-pepper-powder-100ml-45g.html"
+    },
+    {
+      "title": "BAYARA BAY LEAVES 15G",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146433_1.png",
+      "url": "https://melcom.com/bayara-bay-leaves-15g.html"
+    },
+    {
+      "title": "BAYARA ANISEEDS 200G",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146432_1.png",
+      "url": "https://melcom.com/bayara-aniseeds-200g.html"
+    },
+    {
+      "title": "SHEBA FINE FLAKES SALMON 85G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147850.png",
+      "url": "https://melcom.com/sheba-fine-flakes-salmon-85g.html"
+    },
+    {
+      "title": "ICELAND 8PK CRISPY CHICKEN BREAST 680G",
+      "price": "₵119.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/174030.png",
+      "url": "https://melcom.com/iceland-8pk-crispy-chicken-breast-680g.html"
+    },
+    {
+      "title": "ICELAND CHEESE & TOMATO PASTA 400G",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/174017.png",
+      "url": "https://melcom.com/catalog/product/view/id/74645/s/iceland-cheese-tomato-pasta-400g/category/3112/"
+    },
+    {
+      "title": "ICELAND STUFFED CRUST GARLIC & CHEESE 410G",
+      "price": "₵114.99",
+      "image": "https://melcom.com/media/catalog/product/placeholder/default/default-img_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/74644/s/iceland-stuffed-crust-garlic-cheese-410g/category/3112/"
+    },
+    {
+      "title": "ICELAND 6PK GARLIC & CHEESE SLICES  200G",
+      "price": "₵57.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/173968.png",
+      "url": "https://melcom.com/iceland-6pk-garlic-cheese-slices-200g.html"
+    },
+    {
+      "title": "ICELAND WHOLE RAW KING PRAWNS 225G",
+      "price": "₵79.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/173850.png",
+      "url": "https://melcom.com/iceland-whole-raw-king-prawns-225g.html"
+    },
+    {
+      "title": "KALYON EXTRA DISHWASHING LIQUID LEMON 735ML",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/170296.png",
+      "url": "https://melcom.com/catalog/product/view/id/74466/s/kalyon-extra-dishwashing-liquid-lemon-735ml/category/3112/"
+    },
+    {
+      "title": "KALYON ALL PURPOSE CLEANER WHITE FLOWERS 1L",
+      "price": "₵24.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/170272.png",
+      "url": "https://melcom.com/catalog/product/view/id/74461/s/kalyon-all-purpose-cleaner-white-flowers-1l/category/3112/"
+    },
+    {
+      "title": "AMMERLANDER EMMENTAL LOAF 45%FDM 3KG",
+      "price": "₵269.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/7/170034.png",
+      "url": "https://melcom.com/ammerlander-emmental-loaf-45-fdm-3kg.html"
+    },
+    {
+      "title": "SEARA FROZEN TURKEY 3.5KG",
+      "price": "₵399.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/p/a/pavo_1.jpg",
+      "url": "https://melcom.com/seara-frozen-turkey-3-5kg.html"
+    },
+    {
+      "title": "CAMPA APPLE JUICE 750ML",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/166702.png",
+      "url": "https://melcom.com/campa-apple-juice-750ml.html"
+    },
+    {
+      "title": "HARPIC BLOCK POWER POWER PLUS 35G",
+      "price": "₵38.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146407.png",
+      "url": "https://melcom.com/harpic-block-power-power-plus-35g.html"
+    },
+    {
+      "title": "5 STAR STRAWBERRY KIDS JUICE 200ML",
+      "price": "₵2.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146302_1.png",
+      "url": "https://melcom.com/5-star-strawberry-kids-juice-200ml.html"
+    },
+    {
+      "title": "IMPERIAL LEATHER SOAP JAPANESE SPA 150G",
+      "price": "₵19.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146142_1.png",
+      "url": "https://melcom.com/imperial-leather-soap-japanese-spa-150g.html"
+    },
+    {
+      "title": "ONE YOGO PARFAIT MIX CASHEW GRANULA 200G",
+      "price": "₵45.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138231.png",
+      "url": "https://melcom.com/catalog/product/view/id/74009/s/one-yogo-parfait-mix-cashew-granula-200g/category/3112/"
+    }
+  ]
+}

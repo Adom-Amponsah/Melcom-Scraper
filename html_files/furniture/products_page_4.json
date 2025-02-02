@@ -1,0 +1,38 @@
+{
+  "category": "FURNITURE",
+  "page": 4,
+  "productsCount": 5,
+  "scrapedAt": "2025-02-01T15:53:04.133Z",
+  "products": [
+    {
+      "title": "BANQUET CHAIR",
+      "price": "₵729.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/8/h801_1.jpg",
+      "url": "https://melcom.com/banquet-chair.html"
+    },
+    {
+      "title": "FOLDABLE MASSAGE TABLE WITH WOODEN LEGS BROWN",
+      "price": "₵1,999.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93067a.jpg",
+      "url": "https://melcom.com/foldable-massage-table-wooden-legs-brown-gm201-123.html"
+    },
+    {
+      "title": "SOFA SET NABUK SILVIA FABRIC 7 SEATER (3+2+1+1)",
+      "price": "₵37,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/1/81695_1.jpg",
+      "url": "https://melcom.com/sofa-set-nabuk-silvia-fabric-7-seater.html"
+    },
+    {
+      "title": "6-SEATER DINING SET TEMPERED GLASS TOP PARSON (1+6)",
+      "price": "₵12,490.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/2/52280_2.jpg",
+      "url": "https://melcom.com/dining-set-parson-1-table-6-chairs.html"
+    },
+    {
+      "title": "TV CABINET MEDIA UNIT",
+      "price": "₵1,290.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75129a.jpg",
+      "url": "https://melcom.com/tv-cabinet-media-unit.html"
+    }
+  ]
+}

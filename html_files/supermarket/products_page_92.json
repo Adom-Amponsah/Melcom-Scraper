@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 92,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T16:00:52.755Z",
+  "products": [
+    {
+      "title": "BINE DISINFECTANT 1L",
+      "price": "₵30.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/15885a.jpg",
+      "url": "https://melcom.com/bine-disinfectant-1l.html"
+    },
+    {
+      "title": "ARIEL WASHING POWDER 400G",
+      "price": "₵56.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/8/n879a.jpg",
+      "url": "https://melcom.com/ariel-washing-powder-400g.html"
+    },
+    {
+      "title": "BINE MULTI PURPOSE SOAP 5L  4",
+      "price": "₵71.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/4/64517a.jpg",
+      "url": "https://melcom.com/bine-multi-purpose-soap-5l.html"
+    },
+    {
+      "title": "PANACHE DE L'AMI FRITZ  BEER 1% ALC 250ML",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92228a.jpg",
+      "url": "https://melcom.com/panache-de-l-ami-fritz-beer-1-alc-250ml.html"
+    },
+    {
+      "title": "NIVEA  BODY LOTION EVEN & RADIANT 400ML",
+      "price": "₵94.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103979a.jpg",
+      "url": "https://melcom.com/nivea-body-lotion-even-radiant-400ml.html"
+    },
+    {
+      "title": "NIVEA MALE ROLL-ON DRY IMPACT PLUS 50ML",
+      "price": "₵43.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/16839a_1.jpg",
+      "url": "https://melcom.com/nivea-male-roll-on-dry-impact-plus-50ml.html"
+    },
+    {
+      "title": "NIVEA Q10 + VITAMIN C FIRMING LOTION 400ML",
+      "price": "₵95.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94851a.jpg",
+      "url": "https://melcom.com/nivea-q10-vitamin-c-firming-lotion-400ml.html"
+    },
+    {
+      "title": "JOHNNIE WALKER BLUE LABEL 40% 750ML",
+      "price": "₵3,799.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/9/59218a.jpg",
+      "url": "https://melcom.com/johnnie-walker-blue-label-750ml.html"
+    },
+    {
+      "title": "TANQUERAY  NO. TEN GIN 47.3% 700ML",
+      "price": "₵459.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/6/d650a.jpg",
+      "url": "https://melcom.com/tanqueray-no-ten-gin-700ml.html"
+    },
+    {
+      "title": "ORIJIN HERBAL BITTERS 30% 200ML",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/6/36385b.jpg",
+      "url": "https://melcom.com/origin-herbal-bitters-200ml.html"
+    },
+    {
+      "title": "BLACK AND WHITE WHISKY 40% 750ML",
+      "price": "₵209.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/0/90559a.jpg",
+      "url": "https://melcom.com/black-and-white-whisky-750ml.html"
+    },
+    {
+      "title": "STAR BEER 330ML",
+      "price": "₵8.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/3/n321a.jpg",
+      "url": "https://melcom.com/star-beer-330ml.html"
+    },
+    {
+      "title": "ORIJIN SPIRIT MIXED DRINK 300ML",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/1/61348a.jpg",
+      "url": "https://melcom.com/orijin-spirit-mixed-drink-300ml.html"
+    },
+    {
+      "title": "ORIJIN BEER CAN DRINK 330ML",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/7/77065a.jpg",
+      "url": "https://melcom.com/orijin-beer-can-drink-330ml.html"
+    },
+    {
+      "title": "COLGATE NATURAL EXTRACT TOOTHPASTE LEMON OIL & ALOE 75ML",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87945a.jpg",
+      "url": "https://melcom.com/colgate-natural-extract-toothpaste-lemon-oil-aloe-75ml.html"
+    },
+    {
+      "title": "COLGATE NATURAL EXTRACT TOOTHPASTE CHARCOAL & MINT 75ML",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87942a.jpg",
+      "url": "https://melcom.com/colgate-natural-extract-toothpaste-charcoal-mint-75ml.html"
+    },
+    {
+      "title": "HAHNE CLASSIC CORNFLAKES 375G",
+      "price": "₵52.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/5/95624b.jpg",
+      "url": "https://melcom.com/hahne-classic-cornflakes-375g.html"
+    },
+    {
+      "title": "BAUDUCCO CHOCOLATE FLAVORED COOKIE WTH STRAWBERRY CREAM FILLING 125G",
+      "price": "₵7.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93412a.jpg",
+      "url": "https://melcom.com/bauducco-chocolate-flavored-cookie-wth-strawberry-cream-filling-125g.html"
+    },
+    {
+      "title": "DOPPIO CHOCOLATE BISCUIT 38G",
+      "price": "₵5.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/4/d423a_1.jpg",
+      "url": "https://melcom.com/doppio-chocolate-biscuit-38g.html"
+    },
+    {
+      "title": "BAUDUCCO COOKIE WTH VANILLA FLAVORED FILLING 125G",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93414a.jpg",
+      "url": "https://melcom.com/bauducco-cookie-wth-vanilla-flavored-filling-125g.html"
+    },
+    {
+      "title": "KITCO NICE HOT & SPICY POTATO CHIPS 170G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94939a.jpg",
+      "url": "https://melcom.com/kitco-nice-hot-spicy-potato-chips-170g.html"
+    },
+    {
+      "title": "KITCO NICE SALT&VINEGAR 170G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94941.jpg",
+      "url": "https://melcom.com/kitco-nice-salt-vinegar-170g.html"
+    },
+    {
+      "title": "KITCO NICE PAPRIKA POTATO CHIPS 170G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94940a.jpg",
+      "url": "https://melcom.com/kitco-nice-paprika-potato-chips-170g.html"
+    },
+    {
+      "title": "KITCO NICE LIGHTLY SALTED POTATO CHIPS 170G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94923a.jpg",
+      "url": "https://melcom.com/kitco-nice-lightly-salted-potato-chips-170g.html"
+    },
+    {
+      "title": "DOPPIO CHOCOLATE BISCUIT CHOCOLATE 19G",
+      "price": "₵2.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99166.jpg",
+      "url": "https://melcom.com/doppio-chocolate-biscuit-chocolate-19g.html"
+    },
+    {
+      "title": "KITCO NICE FRENCH CHEESE POTATO CHIPS  170G",
+      "price": "₵49.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/4/94942.jpg",
+      "url": "https://melcom.com/kitco-nice-french-cheese-potato-chips-170g.html"
+    },
+    {
+      "title": "DORI GOTA COLA-COLA HARD CANDY 150G",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/4/64843a.jpg",
+      "url": "https://melcom.com/dori-gota-cola-cola-hard-candy-150g.html"
+    },
+    {
+      "title": "DOPPIO CHOCOLATE BISCUIT CHERRY 38G",
+      "price": "₵5.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99170a.jpg",
+      "url": "https://melcom.com/doppio-chocolate-biscuit-cherry-38g.html"
+    },
+    {
+      "title": "DOPPIO CHOCOLATE BISCUIT CARAMEL 38G",
+      "price": "₵5.79",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99168a.jpg",
+      "url": "https://melcom.com/doppio-chocolate-biscuit-caramel-38g.html"
+    },
+    {
+      "title": "DOPPIO CHOCOLATE BISCUIT CHERRY 19G",
+      "price": "₵2.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/99167a.jpg",
+      "url": "https://melcom.com/doppio-chocolate-biscuit-cherry-19g.html"
+    },
+    {
+      "title": "HAHNE FROSTED FLAKES CORNFLAKES  375G",
+      "price": "₵66.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/5/95626a.jpg",
+      "url": "https://melcom.com/hahne-frosted-flakes-cornflakes-375g.html"
+    },
+    {
+      "title": "BAYARA RED MASOOR WHOLE 400G",
+      "price": "₵29.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/8/98114a.jpg",
+      "url": "https://melcom.com/bayara-red-masoor-whole-400g.html"
+    }
+  ]
+}

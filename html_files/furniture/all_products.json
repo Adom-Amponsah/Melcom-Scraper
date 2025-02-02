@@ -1,0 +1,615 @@
+{
+  "category": "FURNITURE",
+  "expectedCount": 105,
+  "actualCount": 101,
+  "totalPages": 4,
+  "scrapedAt": "2025-02-01T15:53:08.204Z",
+  "products": [
+    {
+      "title": "LOTUS WARDROBE 4 DOOR WHITE/PINK AND WHITE 42060/19",
+      "price": "₵1,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145518.jpg",
+      "url": "https://melcom.com/lotus-wardrobe-4-door-white-pink-and-white-42060-19.html"
+    },
+    {
+      "title": "WARDROBE 6 DOORS 4 DRAWERS GUARUJA WALNUT/VANI 64720/108",
+      "price": "₵5,340.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/4/64720140_wardrobe_6d_guaruja_-_almondoff_white_3_.jpg",
+      "url": "https://melcom.com/wardrobe-6-doors-4-drawers-guaruja-walnut-vani-64720-108.html"
+    },
+    {
+      "title": "COFFEE TABLE SET 2PCS 80X80/60X60",
+      "price": "₵3,490.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/163223_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/67780/category/3112/"
+    },
+    {
+      "title": "COFFEE TABLE SET 2PCS 80X80/60X60",
+      "price": "₵3,490.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/163222_1_.png",
+      "url": "https://melcom.com/coffee-table-set-2pcs-80x80-60x60.html"
+    },
+    {
+      "title": "COFFEE TABLE SET BLACK SET/2  BR-CT058",
+      "price": "₵7,749.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159966_3_1_.png",
+      "url": "https://melcom.com/coffee-table-set-black-set-2-br-ct058.html"
+    },
+    {
+      "title": "LEISURE CHAIR WITH STOOL & 4LEGGED BLACK BASE JFR21065",
+      "price": "₵4,290.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159438_1_.png",
+      "url": "https://melcom.com/leisure-chair-with-stool-4legged-black-base-jfr21065.html"
+    },
+    {
+      "title": "LEISURE CHAIR WITH STOOL & 4LEGGED BLACK BASE JFR19039C",
+      "price": "₵5,590.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159436_2_.png",
+      "url": "https://melcom.com/leisure-chair-with-stool-4legged-black-base-jfr19039c.html"
+    },
+    {
+      "title": "LEISURE CHAIR WITH STOOL & 4LEGGED CHROME BASE FR19119KD",
+      "price": "₵3,647.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159434_3_.png",
+      "url": "https://melcom.com/leisure-chair-with-stool-4legged-chrome-base-fr19119kd.html"
+    },
+    {
+      "title": "ELECTRIC BED WITH MATTRESS+2PILLOW 180X200 BB-B421",
+      "price": "₵25,390.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157335_2_.png",
+      "url": "https://melcom.com/electric-bed-with-mattress-2pillow-180x200-bb-b421.html"
+    },
+    {
+      "title": "TV STAND WALNUT WITH OFF WHITE 50\" ROYAL",
+      "price": "₵1,549.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/_/a_65.png",
+      "url": "https://melcom.com/tv-stand-walnut-with-off-white-50-royal.html"
+    },
+    {
+      "title": "DINING SET 1+4 LY-N1074",
+      "price": "₵2,790.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/151436.png",
+      "url": "https://melcom.com/catalog/product/view/id/67725/s/dining-set-1-4-ly-n1074/category/3112/"
+    },
+    {
+      "title": "BAR CHAIR VELVET WITH ROUND SILVER BASE YB-1141",
+      "price": "₵1,090.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148664_1_.png",
+      "url": "https://melcom.com/bar-chair-velvet-with-round-silver-base-yb-1141.html"
+    },
+    {
+      "title": "TUB CHAIR WITH METAL LEGS FABRIC 307",
+      "price": "₵1,599.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/161753a.jpg",
+      "url": "https://melcom.com/tub-chair-with-metal-legs-fabric-307.html"
+    },
+    {
+      "title": "BED KING NAVY BLUE (1800X2000MM) FEIG",
+      "price": "₵7,490.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/i/m/img_9596_c.jpg",
+      "url": "https://melcom.com/bed-king-navy-blue-1800x2000mm-feig.html"
+    },
+    {
+      "title": "DINING SET 1+4 D03016",
+      "price": "₵3,420.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153250a.jpg",
+      "url": "https://melcom.com/dining-set-1-4-d03016.html"
+    },
+    {
+      "title": "DINING SET 1+6 LEWIS 7PC SET",
+      "price": "₵5,432.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152451a.jpg",
+      "url": "https://melcom.com/dining-set-1-6-lewis-7pc-set.html"
+    },
+    {
+      "title": "EXECUTIVE OFFICE CHAIR BLACK XH-9242",
+      "price": "₵2,890.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149355a.jpg",
+      "url": "https://melcom.com/executive-office-chair-black-xh-9242.html"
+    },
+    {
+      "title": "EXECUTIVE OFFICE CHAIR BLACK XH-9261",
+      "price": "₵2,890.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149357a.jpg",
+      "url": "https://melcom.com/executive-office-chair-black-xh-9261.html"
+    },
+    {
+      "title": "EXECUTIVE OFFICE CHAIR BLACK XH-9233",
+      "price": "₵2,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149359a.jpg",
+      "url": "https://melcom.com/executive-office-chair-black-xh-9233.html"
+    },
+    {
+      "title": "VISITOR CHAIR W/PL ARMREST BLK 66X55X101CM AF-8578",
+      "price": "₵1,390.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/134636a.jpg",
+      "url": "https://melcom.com/visitor-chair-w-pl-armrest-blk-66x55x101cm-af-8578.html"
+    },
+    {
+      "title": "DINING SET 1+6 TOGO 7PC SET",
+      "price": "₵7,267.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139865a.jpg",
+      "url": "https://melcom.com/dining-set-1-6-togo-7pc-set.html"
+    },
+    {
+      "title": "DINING SET 1+6 NAIROBI 7PC SET",
+      "price": "₵9,339.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139866a.jpg",
+      "url": "https://melcom.com/dining-set-1-6-nairobi-7pc-set.html"
+    },
+    {
+      "title": "ENTERTAINMENT UNIT ELDORADO 60  OAK/OFF WHITE",
+      "price": "₵5,290.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140744.a.jpg",
+      "url": "https://melcom.com/entertainment-unit-eldorado-60-oak-off-white.html"
+    },
+    {
+      "title": "CONFERENCE TABLE RECTANGULAR CSC-MT2411",
+      "price": "₵3,690.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155703.jpg",
+      "url": "https://melcom.com/conference-table-rectangular-csc-mt2411.html"
+    },
+    {
+      "title": "EXECUTIVE OFFICE TABLE L-SHAPE QH5004-1.6",
+      "price": "₵5,190.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155681_1.jpg",
+      "url": "https://melcom.com/executive-office-table-l-shape-qh5004-1-6.html"
+    },
+    {
+      "title": "FILE CABINET 1200X400X2000MM BS5004",
+      "price": "₵6,290.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155688.a.jpg",
+      "url": "https://melcom.com/file-cabinet-1200x400x2000mm-bs5004.html"
+    },
+    {
+      "title": "CONFERENCE TABLE 2800X1200X750MM C-MB2812",
+      "price": "₵10,690.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155701.jpg",
+      "url": "https://melcom.com/conference-table-2800x1200x750mm-c-mb2812.html"
+    },
+    {
+      "title": "COFFEE TABLE 1400X700X450MM C-LT1407",
+      "price": "₵3,090.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155696.jpg",
+      "url": "https://melcom.com/coffee-table-1400x700x450mm-c-lt1407.html"
+    },
+    {
+      "title": "PARTITION TABLE STAR SHAPE ZH-204",
+      "price": "₵11,790.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/155692.jpg",
+      "url": "https://melcom.com/partition-table-2088x2425x1050mm-zh-204.html"
+    },
+    {
+      "title": "BAR STOOL WITH BACK 42X39X80/64CM HX23-088 BEIGE",
+      "price": "₵699.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148309a.jpg",
+      "url": "https://melcom.com/bar-stool-with-back-42x39x80-64cm-hx23-088-beige.html"
+    },
+    {
+      "title": "BAR CHAIR VELVET WITH ROUND SILVER BASE YB-1035",
+      "price": "₵1,649.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/a/_/a_62.png",
+      "url": "https://melcom.com/bar-chair-velvet-with-round-silver-base-yb-1035.html"
+    },
+    {
+      "title": "BAR STOOL BLK STITCHED W/BLK METAL RING JY3138X-M",
+      "price": "₵1,999.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149002b.jpg",
+      "url": "https://melcom.com/bar-stool-blk-stitched-w-blk-metal-ring-jy3138x-m.html"
+    },
+    {
+      "title": "BAR STOOL BLK LEATHERETTE W/SILVER BASE JY3143X-L",
+      "price": "₵1,899.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149007a.jpg",
+      "url": "https://melcom.com/bar-stool-blk-leatherette-w-silver-base-jy3143x-l.html"
+    },
+    {
+      "title": "BAR STOOL WOODEN BACK W/SILVER BASE JY3142X-L",
+      "price": "₵1,899.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/149006a.jpg",
+      "url": "https://melcom.com/bar-stool-wooden-back-w-silver-base-jy3142x-l.html"
+    },
+    {
+      "title": "COFFE TABLE TORINO",
+      "price": "₵5,719.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/144701a.jpg",
+      "url": "https://melcom.com/coffe-table-torino.html"
+    },
+    {
+      "title": "SOFA RECLINER WITH SWIVEL+ROCKER PU GREY 2027",
+      "price": "₵5,430.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148172a_1.jpg",
+      "url": "https://melcom.com/sofa-recliner-with-swivel-rocker-pu-grey-2027.html"
+    },
+    {
+      "title": "SOFA RECLINER WITH SWIVEL+ROCKER FABRIC GREY 2023-G",
+      "price": "₵9,449.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148174a.jpg",
+      "url": "https://melcom.com/sofa-recliner-with-swivel-rocker-fabric-grey-2023-g.html"
+    },
+    {
+      "title": "SOFA RECLINER WITH SWIVEL+ROCKER FABRIC ORANGE",
+      "price": "₵9,449.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148173a.jpg",
+      "url": "https://melcom.com/sofa-recliner-with-swivel-rocker-fabric-orange.html"
+    },
+    {
+      "title": "SOFA RECLINER PU WITH SWIVEL+ROCKER TURQUOISE GREEN",
+      "price": "₵7,190.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/148171a.jpg",
+      "url": "https://melcom.com/sofa-recliner-pu-with-swivel-rocker-green.html"
+    },
+    {
+      "title": "VISITOR CHAIR W/ARMREST PU PADDED BLACK SK-960V",
+      "price": "₵1,890.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/134640b.jpg",
+      "url": "https://melcom.com/visitor-chair-w-armrest-pu-padded-black-sk-960v.html"
+    },
+    {
+      "title": "VISITOR CHAIR WITH ARMREST PU PADDED BLACK AF-107V",
+      "price": "₵1,790.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/134638a.jpg",
+      "url": "https://melcom.com/visitor-chair-with-armrest-pu-padded-black-af-107v.html"
+    },
+    {
+      "title": "COFFEE TABLE METAL CT-602",
+      "price": "₵1,299.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/123303a.jpg",
+      "url": "https://melcom.com/coffee-table-metal-ct-602.html"
+    },
+    {
+      "title": "GODREJ FILING CABINET FIRE RESIST FRFC 1HR 3DOOR LD",
+      "price": "₵21,799.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/f/r/frfc-3_139289_resized.jpg",
+      "url": "https://melcom.com/godrej-filing-cabinet-fire-resist-frfc-1hr-3door-ld.html"
+    },
+    {
+      "title": "DINING CHAIR PU WHITE/GRAY/ORNGE 48X60X86CM DH-H04",
+      "price": "₵899.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/135335b.jpg",
+      "url": "https://melcom.com/dining-chair-pu-white-gray-ornge-48x60x86cm-dh-h04.html"
+    },
+    {
+      "title": "COFFEE TABLE HEXA",
+      "price": "₵2,219.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/120482b.jpg",
+      "url": "https://melcom.com/coffee-table-hexa.html"
+    },
+    {
+      "title": "DINING TABLE ZARA",
+      "price": "₵4,049.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/120487a.jpg",
+      "url": "https://melcom.com/dining-table-zara.html"
+    },
+    {
+      "title": "COFFEE TABLE METAL CT-609M",
+      "price": "₵764.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/123301a.jpg",
+      "url": "https://melcom.com/coffee-table-metal-ct-609m.html"
+    },
+    {
+      "title": "DINING SET 1+6 WOODEN MAHOGANY 3D DOVEN",
+      "price": "₵8,849.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/124700a.jpg",
+      "url": "https://melcom.com/dining-set-1-6-wooden-mahogany-3d-doven.html"
+    },
+    {
+      "title": "DINING SET 1+6 WOODEN STONE+ROSE OAK 3D GRACE",
+      "price": "₵7,087.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/124702a.jpg",
+      "url": "https://melcom.com/dining-set-1-6-wooden-stone-rose-oak-3d-grace.html"
+    },
+    {
+      "title": "WARDROBE WOOD 4 DOOR WITH 2 DRAWER (103 X 45 X 182)CM EX086-JA",
+      "price": "₵2,150.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126702_1.png",
+      "url": "https://melcom.com/wardrobe-wood-4-door-with-2-drawer-103-x-45-x-182-cm-ex086-ja.html"
+    },
+    {
+      "title": "TV STAND EXTENSIBLE WOOD WHITE+DARK GRN BR-TV183G",
+      "price": "₵1,912.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126782a.jpg",
+      "url": "https://melcom.com/tv-stand-extensible-wood-white-dark-grn-br-tv183g.html"
+    },
+    {
+      "title": "PRIVACY SCREEN WOODEN CARVING",
+      "price": "₵1,424.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/127192a.jpg",
+      "url": "https://melcom.com/privacy-screen-wooden-carving.html"
+    },
+    {
+      "title": "BED WOODEN WITH STORAGE LILA",
+      "price": "₵8,993.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/t/others_1_1_1.jpg",
+      "url": "https://melcom.com/bed-wooden-with-storage-lila.html"
+    },
+    {
+      "title": "COFFEE TABLE WOODEN WITH GLASS TOP EUREKA",
+      "price": "₵611.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/128664b.jpg",
+      "url": "https://melcom.com/coffee-table-wooden-with-glass-top-eureka.html"
+    },
+    {
+      "title": "COFFEE TABLE WOODEN MLM-160306",
+      "price": "₵899.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/128996b.jpg",
+      "url": "https://melcom.com/coffee-table-wooden-mlm-160306.html"
+    },
+    {
+      "title": "COFFEE TABLE W/STONE TOP SS 80X80X40CM BIF-2265-80",
+      "price": "₵2,149.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/130559a.jpg",
+      "url": "https://melcom.com/coffee-table-w-stone-top-ss-80x80x40cm-bif-2265-80.html"
+    },
+    {
+      "title": "COFFEE TABLE WITH STONE TOP STAINLESS STEEL BIF-2265-70",
+      "price": "₵1,424.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/130560b.jpg",
+      "url": "https://melcom.com/coffee-table-with-stone-top-stainless-steel-bif-2265-70.html"
+    },
+    {
+      "title": "COFFEE TABLE WITH STONE TOP STAINLESS STEEL BIF-2265-60",
+      "price": "₵1,424.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/130561a.jpg",
+      "url": "https://melcom.com/coffee-table-with-stone-top-stainless-steel-bif-2265-60.html"
+    },
+    {
+      "title": "COFFEE TABLE WITH STONE TOP STAINLESS STEEL BIF-2269-80",
+      "price": "₵1,649.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/130580b.jpg",
+      "url": "https://melcom.com/coffee-table-with-stone-top-stainless-steel-bif-2269-80.html"
+    },
+    {
+      "title": "SIDE TABLE BLACK 40X30",
+      "price": "₵659.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/163245_1_1__1.png",
+      "url": "https://melcom.com/catalog/product/view/id/53485/category/3112/"
+    },
+    {
+      "title": "SIDE TABLE METAL GOLD WITH STRAIGHT LEG",
+      "price": "₵599.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126694a.jpg",
+      "url": "https://melcom.com/side-table-metal-gold-with-straight-leg.html"
+    },
+    {
+      "title": "COFFEE TABLE TRIO",
+      "price": "₵3,097.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/120484a.jpg",
+      "url": "https://melcom.com/coffee-table-trio.html"
+    },
+    {
+      "title": "ROCKING CHAIR GILBERT",
+      "price": "₵3,290.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/134680a.jpg",
+      "url": "https://melcom.com/rocking-chair-gilbert.html"
+    },
+    {
+      "title": "SIDE TABLE 2PIECES HTI/52IHGF/053",
+      "price": "₵1,687.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/120693a.jpg",
+      "url": "https://melcom.com/side-table-2pieces-hti-52ihgf-053.html"
+    },
+    {
+      "title": "ACCENT MAPLE LEAF DESIGN SILVER 8372(NI)",
+      "price": "₵549.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/103392b.jpg",
+      "url": "https://melcom.com/accent-maple-leaf-design-silver-8372-ni.html"
+    },
+    {
+      "title": "END TABLE METAL WITH GLASS TOP BLACK Y-1244E",
+      "price": "₵2,490.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121355a.jpg",
+      "url": "https://melcom.com/end-table-metal-with-glass-top-black-y-1244e.html"
+    },
+    {
+      "title": "COFFEE TABLE DN CFT",
+      "price": "₵849.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75127b.jpg",
+      "url": "https://melcom.com/coffee-table-dn-cft.html"
+    },
+    {
+      "title": "WARDROBE 6DOOR WOOD OFF WHITE/BROWN TITANIUM",
+      "price": "₵9,690.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126276a.jpg",
+      "url": "https://melcom.com/wardrobe-6door-wood-off-white-brown-titanium.html"
+    },
+    {
+      "title": "COFFEE TABLE WITH METAL LEGS 444-NIGHT STONE GENOVA",
+      "price": "₵2,579.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/119093a_1.jpg",
+      "url": "https://melcom.com/coffee-table-with-metal-legs-444-night-stone-genova.html"
+    },
+    {
+      "title": "COFFEE TABLE WITH METAL LEGS 445-DAYLIGHT STON TORINO",
+      "price": "₵2,249.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/119011a.jpg",
+      "url": "https://melcom.com/coffee-table-with-metal-legs-445-daylight-ston-torino.html"
+    },
+    {
+      "title": "OFFICE CHAIR WITH ARMREST PU LEATHER BLACK",
+      "price": "₵1,890.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/123566b.jpg",
+      "url": "https://melcom.com/office-chair-with-armrest-pu-leather-black.html"
+    },
+    {
+      "title": "COFFEE TABLE RUSTIC SAARA",
+      "price": "₵809.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/122648b.jpg",
+      "url": "https://melcom.com/coffee-table-rustic-saara.html"
+    },
+    {
+      "title": "TV STAND HAVANA/OFF WHITE FORM",
+      "price": "₵2,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/122825a.jpg",
+      "url": "https://melcom.com/tv-stand-havana-off-white-form.html"
+    },
+    {
+      "title": "TV STAND BURITI/OFF WHITE FORM",
+      "price": "₵2,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/122824a.jpg",
+      "url": "https://melcom.com/tv-stand-buriti-off-white-form.html"
+    },
+    {
+      "title": "TV STAND 55\" OFF WHITE/LAMINA MEL NOAH",
+      "price": "₵2,049.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/122823a.jpg",
+      "url": "https://melcom.com/tv-stand-55-off-white-lamina-mel-noah.html"
+    },
+    {
+      "title": "TV STAND BURITI/OFF WHITE COLUMBUS",
+      "price": "₵3,390.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/116561a.jpg",
+      "url": "https://melcom.com/tv-stand-buriti-off-white-columbus.html"
+    },
+    {
+      "title": "TV UNIT 65'' OFF WHITE/WALNUT RECIFE",
+      "price": "₵2,890.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/114873a.jpg",
+      "url": "https://melcom.com/tv-unit-65-off-white-walnut-recife.html"
+    },
+    {
+      "title": "SOFA (3+2+1+1) SK 7PIECES SET-GRAMMERCY AF",
+      "price": "₵8,499.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72519a.jpg",
+      "url": "https://melcom.com/sofa-3-2-1-1-sk-7pieces-set-grammercy-af.html"
+    },
+    {
+      "title": "DINING SET 6 SEATER PICTURE PRINT COLETTE-TBP",
+      "price": "₵6,390.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/0/70395a.jpg",
+      "url": "https://melcom.com/dining-set-6-seater-picture-print-colette-tbp.html"
+    },
+    {
+      "title": "DINING SET 6 SEAT GLASS TOP METAL LEGS COLETTE-NYP",
+      "price": "₵6,390.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/0/70393a.jpg",
+      "url": "https://melcom.com/dining-set-6-seat-glass-top-metal-legs-colette-nyp.html"
+    },
+    {
+      "title": "OLGA OTTOMAN",
+      "price": "₵279.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/121296a.jpg",
+      "url": "https://melcom.com/olga-ottoman.html"
+    },
+    {
+      "title": "TV CABINET DN TVC",
+      "price": "₵1,349.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75123a.jpg",
+      "url": "https://melcom.com/tv-cabinet-dn-tvc.html"
+    },
+    {
+      "title": "MELENA 6-SEATER  DINING SET KENTON GLASS TOP",
+      "price": "₵4,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/0/70392a.jpg",
+      "url": "https://melcom.com/melena-6-seater-dining-set-kenton-glass-top.html"
+    },
+    {
+      "title": "KITCHEN CABINET TOP FLAT BOARD",
+      "price": "₵265.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106075a.jpg",
+      "url": "https://melcom.com/kitchen-cabinet-top-flat-amendoa.html"
+    },
+    {
+      "title": "CHAIR PLASTIC M.WHTE/B.RED/I.BLK/W.BRWN CRYSTAL-PP",
+      "price": "₵799.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/1/51mkzxm2vcl._sl1000_.jpg",
+      "url": "https://melcom.com/chair-plastic-m-whte-b-red-i-blk-w-brwn-crystal-pp.html"
+    },
+    {
+      "title": "WARDROBE 5DOOR 3DRAWERS BROWN PERU",
+      "price": "₵4,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/5/65870a.jpg",
+      "url": "https://melcom.com/wardrobe-5door-3drawers-brown-peru.html"
+    },
+    {
+      "title": "SAARA COFFEE TABLE WALNUT AND BLACK COLOR",
+      "price": "₵775.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/8/78497.jpg",
+      "url": "https://melcom.com/saara-coffee-table-walnut-and-black-color.html"
+    },
+    {
+      "title": "7-SEATER SOFA SET (3+2+1+1) WITH 6 RECLINERS LEATHERITE",
+      "price": "₵39,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/7/97260a.jpg",
+      "url": "https://melcom.com/7-seater-sofa-set-3-2-1-1-with-6-recliners-leatherite.html"
+    },
+    {
+      "title": "SOFABED 3SEATER WITH 2 SOFA PILLOWS GREY MLM-501910",
+      "price": "₵5,890.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/106200a.jpg",
+      "url": "https://melcom.com/sofabed-3seater-with-2-sofa-pillows-grey-mlm-501910.html"
+    },
+    {
+      "title": "SHELVES WALL MOUNTED DECOR ZZY011",
+      "price": "₵529.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/110273c.jpg",
+      "url": "https://melcom.com/shelves-wall-mounted-decor-zzy011.html"
+    },
+    {
+      "title": "TV RACK NEW JERI OFF WHITE AND WALNUT",
+      "price": "₵2,090.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/100501.jpg",
+      "url": "https://melcom.com/tv-rack-new-jeri-off-white-and-walnut.html"
+    },
+    {
+      "title": "EXECUTIVE CHAIR WITH WHEELS CHROME LEATHER BLACK XH-9243",
+      "price": "₵2,790.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/2/02658a.jpg",
+      "url": "https://melcom.com/executive-chair-with-wheels-chrome-leather-black-xh-9243.html"
+    },
+    {
+      "title": "L-SHAPE SOFA CUSHIONED COMFI SEATER FABRIC TRIESTE-AF WINE",
+      "price": "₵7,299.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/6/86073a.jpg",
+      "url": "https://melcom.com/l-shape-sofa-cushioned-comfi-seater-fabric-trieste-af-wine.html"
+    },
+    {
+      "title": "ENTERTAINMENT UNIT 3 TIER SHELVES BROWN AND BLACK SATIN DUNA",
+      "price": "₵2,390.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/100858a_2.jpg",
+      "url": "https://melcom.com/entertainment-unit-3-tier-shelves-brown-and-black-satin-duna.html"
+    },
+    {
+      "title": "KITCHEN CABINET WALL-MOUNTED & DETACHABLE CABINET STAND",
+      "price": "₵3,170.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/100869a.jpg",
+      "url": "https://melcom.com/kitchen-cabinet-wall-mounted-detachable-cabinet-stand.html"
+    },
+    {
+      "title": "WOODEN TV CABINET/MEDIA STAND",
+      "price": "₵1,649.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/c/a/cabinet_1-removebg-preview_1.png",
+      "url": "https://melcom.com/wooden-tv-cabinet-media-stand.html"
+    },
+    {
+      "title": "BANQUET CHAIR",
+      "price": "₵729.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/h/8/h801_1.jpg",
+      "url": "https://melcom.com/banquet-chair.html"
+    },
+    {
+      "title": "FOLDABLE MASSAGE TABLE WITH WOODEN LEGS BROWN",
+      "price": "₵1,999.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/3/93067a.jpg",
+      "url": "https://melcom.com/foldable-massage-table-wooden-legs-brown-gm201-123.html"
+    },
+    {
+      "title": "SOFA SET NABUK SILVIA FABRIC 7 SEATER (3+2+1+1)",
+      "price": "₵37,990.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/1/81695_1.jpg",
+      "url": "https://melcom.com/sofa-set-nabuk-silvia-fabric-7-seater.html"
+    },
+    {
+      "title": "6-SEATER DINING SET TEMPERED GLASS TOP PARSON (1+6)",
+      "price": "₵12,490.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/2/52280_2.jpg",
+      "url": "https://melcom.com/dining-set-parson-1-table-6-chairs.html"
+    },
+    {
+      "title": "TV CABINET MEDIA UNIT",
+      "price": "₵1,290.00",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75129a.jpg",
+      "url": "https://melcom.com/tv-cabinet-media-unit.html"
+    }
+  ]
+}

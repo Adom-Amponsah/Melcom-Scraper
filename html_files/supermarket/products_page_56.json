@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 56,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:57:49.903Z",
+  "products": [
+    {
+      "title": "CADBURY TWIRL CHOCOLATE 43G",
+      "price": "₵22.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/_/1_29_1.jpg",
+      "url": "https://melcom.com/cadbury-twirl-chocolate-43g.html"
+    },
+    {
+      "title": "FOX-S FABULOUS CHOCOLATEY BIS SELECTION 365G",
+      "price": "₵199.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/9/9942.png",
+      "url": "https://melcom.com/catalog/product/view/id/52873/s/fox-s-fabulous-chocolatey-bis-selection-365g/category/3112/"
+    },
+    {
+      "title": "JUVER SELECCION  PINEAPPLE 200ML",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92202.jpg",
+      "url": "https://melcom.com/juver-seleccion-pineapple-200ml.html"
+    },
+    {
+      "title": "LA SALUD FABRIC SOFTENER CLASSIC BLUE  2L",
+      "price": "₵75.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/8/88252a.jpg",
+      "url": "https://melcom.com/la-salud-fabric-softener-classic-blue-2l.html"
+    },
+    {
+      "title": "HEAVEN WHITE BIG NAPHTHALENE BALL (CANFA) 300G",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/1/91035a.jpg",
+      "url": "https://melcom.com/heaven-white-big-naphthalene-ball-canfa-300g.html"
+    },
+    {
+      "title": "HEAVEN NAPHTHALENE BALL (CANFA) 150G",
+      "price": "₵13.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72787a.jpg",
+      "url": "https://melcom.com/heaven-naphthalene-ball-canfa-150g.html"
+    },
+    {
+      "title": "DEVA SOFTENER LAVENDER  4L",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72672a.jpg",
+      "url": "https://melcom.com/deva-softener-lavender-4l.html"
+    },
+    {
+      "title": "DEVA SOFTENER  SENSITIVE  4L",
+      "price": "₵140.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/2/72673a.jpg",
+      "url": "https://melcom.com/deva-softener-sensitive-4l.html"
+    },
+    {
+      "title": "DEVA SCOURING POWDER 500ML",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/5/9/59337a.jpg",
+      "url": "https://melcom.com/deva-scouring-powder-500ml.html"
+    },
+    {
+      "title": "SHINE FACIAL TISSUE LARGE (150PIECES)",
+      "price": "₵12.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/9/89866a.jpg",
+      "url": "https://melcom.com/shine-facial-tissue-large-150pieces.html"
+    },
+    {
+      "title": "PANZANI GOLD SPAGHETTI LINGUINE 500G",
+      "price": "₵30.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/0/90840a.jpg",
+      "url": "https://melcom.com/panzani-gold-spaghetti-linguine-500g.html"
+    },
+    {
+      "title": "PANZANI GOLD FARFALLE  MACARONI 500G",
+      "price": "₵66.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/0/90841.jpg",
+      "url": "https://melcom.com/panzani-gold-farfalle-macaroni-500g.html"
+    },
+    {
+      "title": "JUVER SELECCION  PEACH 200ML",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92200.jpg",
+      "url": "https://melcom.com/juver-seleccion-peach-200ml.html"
+    },
+    {
+      "title": "JUVER SELECCION ORANGE NARANJA  200ML",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92201.jpg",
+      "url": "https://melcom.com/juver-seleccion-orange-naranja-200ml.html"
+    },
+    {
+      "title": "JUVER SELECCION  MANGO 200ML",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/9/2/92203.jpg",
+      "url": "https://melcom.com/juver-seleccion-mango-200ml.html"
+    },
+    {
+      "title": "HEAVEN  MULTIPURPOSE MARGARINE 250G",
+      "price": "₵14.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87807a.jpg",
+      "url": "https://melcom.com/heaven-multipurpose-margarine-250g.html"
+    },
+    {
+      "title": "KONKORD IODIZED SALT 1000G",
+      "price": "₵8.89",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/13204a.jpg",
+      "url": "https://melcom.com/konkord-iodized-salt-1000g.html"
+    },
+    {
+      "title": "MEANNAN TOM BROWN 500G",
+      "price": "₵18.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/7/07957a.jpg",
+      "url": "https://melcom.com/meannan-tom-brown-500g.html"
+    },
+    {
+      "title": "HOMEFRESH FOODS BANKU MIX FLOUR 1KG",
+      "price": "₵25.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/9/09004a.jpg",
+      "url": "https://melcom.com/homefresh-foods-banku-mix-flour-1kg.html"
+    },
+    {
+      "title": "DEVA DISHWASHING LIQUID SOAP LEMON 2.5L",
+      "price": "₵76.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/4/9/49251a.jpg",
+      "url": "https://melcom.com/deva-dishwashing-liquid-soap-lemon-2-5l.html"
+    },
+    {
+      "title": "DALGETY MORINGA WITH GREEN TEA 40G",
+      "price": "₵45.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76010a.jpg",
+      "url": "https://melcom.com/dalgety-moringa-with-green-tea-40g.html"
+    },
+    {
+      "title": "DALGETY CINNAMON & PEPPERMINT HERBAL TEA 40G",
+      "price": "₵40.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/6/76007a.jpg",
+      "url": "https://melcom.com/dalgety-cinnamon-peppermint-herbal-tea-40g.html"
+    },
+    {
+      "title": "COWBELL MOCHA 40G",
+      "price": "₵5.19",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/3/8/38707a.jpg",
+      "url": "https://melcom.com/cowbell-mocha-40g.html"
+    },
+    {
+      "title": "PRESIDENT SKIMMED UHT MILK 1L",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138347a.jpg",
+      "url": "https://melcom.com/president-skimmed-uht-milk-1l.html"
+    },
+    {
+      "title": "PRESIDENT SEMI-SKIMMED UHT MILK 1L",
+      "price": "₵42.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138345a.jpg",
+      "url": "https://melcom.com/president-semi-skimmed-uht-milk-1l.html"
+    },
+    {
+      "title": "PRESIDENT  WHOLE CREAM UHT MILK 1L",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138349a.jpg",
+      "url": "https://melcom.com/president-whole-cream-uht-milk-1l.html"
+    },
+    {
+      "title": "SHINE TOILET ROLL ULTRA SOFT 2PLY (12PIECES)",
+      "price": "₵54.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/7/67505a.jpg",
+      "url": "https://melcom.com/shine-toilet-roll-ultra-soft-2ply-12pieces.html"
+    },
+    {
+      "title": "SKITTLES CRAZY SOURS CANDY 125G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/7/5/75580.jpg",
+      "url": "https://melcom.com/skittles-crazy-sours-candy-125g.html"
+    },
+    {
+      "title": "SKITTLES FRUIT POUCH 125G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66564.jpg",
+      "url": "https://melcom.com/skittles-fruit-pouch-125g.html"
+    },
+    {
+      "title": "SKITTLES TROPICAL POUCH 125G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66457.jpg",
+      "url": "https://melcom.com/skittles-tropical-pouch-125g.html"
+    },
+    {
+      "title": "SKITTLES WILD BERRY POUCH 125G",
+      "price": "₵31.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/6/6/66455.jpg",
+      "url": "https://melcom.com/skittles-wild-berry-pouch-125g.html"
+    },
+    {
+      "title": "SOFT WHEAT FLOUR 2KG",
+      "price": "₵56.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/3/03766a.jpg",
+      "url": "https://melcom.com/soft-wheat-flour-2kg.html"
+    }
+  ]
+}

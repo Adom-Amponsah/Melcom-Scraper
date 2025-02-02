@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 22,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:54:58.066Z",
+  "products": [
+    {
+      "title": "GOLDEN ICE ROSE ALCOHOLIC SPARKLING 750ML",
+      "price": "₵104.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157745.png",
+      "url": "https://melcom.com/golden-ice-rose-alcoholic-sparkling-750ml.html"
+    },
+    {
+      "title": "MORPHEUS BLUE XO PREMIUM BRANDY 750ML",
+      "price": "₵269.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157757.png",
+      "url": "https://melcom.com/morpheus-blue-xo-premium-brandy-750ml.html"
+    },
+    {
+      "title": "RADICO GOLD SUPREME WHISKY 750ML",
+      "price": "₵85.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157768_1.png",
+      "url": "https://melcom.com/radico-gold-supreme-whisky-750ml.html"
+    },
+    {
+      "title": "WHYTEHALL BRANDY RESERVA WMC 750ML",
+      "price": "₵61.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/157771_2.png",
+      "url": "https://melcom.com/whytehall-brandy-reserva-wmc-750ml.html"
+    },
+    {
+      "title": "GALAXY PLUS CONCEPT SPRAY BLUE BLOOD 200ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159583.png",
+      "url": "https://melcom.com/galaxy-plus-concept-spray-blue-blood-200ml.html"
+    },
+    {
+      "title": "GALAXY PLUS CONCEPT SPRAY DELIGHT 200ML",
+      "price": "₵35.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159585.png",
+      "url": "https://melcom.com/galaxy-plus-concept-spray-delight-200ml.html"
+    },
+    {
+      "title": "FREEDOM T-ROLL ALOE VERA 9PCS",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159630.png",
+      "url": "https://melcom.com/freedom-t-roll-aloe-vera-9pcs.html"
+    },
+    {
+      "title": "FILIPPO BERIO EXTRA VIRGIN OLIVE OIL 750ML",
+      "price": "₵349.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159044.png",
+      "url": "https://melcom.com/filippo-berio-extra-virgin-olive-oil-750ml.html"
+    },
+    {
+      "title": "TANGO JELLY BEANS CAN",
+      "price": "₵15.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159051.png",
+      "url": "https://melcom.com/tango-jelly-beans-can.html"
+    },
+    {
+      "title": "DRAGON FRUITS KG APK",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147562.png",
+      "url": "https://melcom.com/dragon-fruits-kg-apk.html"
+    },
+    {
+      "title": "GREEN BEANS PACK",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136281.png",
+      "url": "https://melcom.com/green-beans-pack.html"
+    },
+    {
+      "title": "WATERMELON KS- 1KG",
+      "price": "₵9.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/136139_1.png",
+      "url": "https://melcom.com/watermelon-ks-1kg.html"
+    },
+    {
+      "title": "BITTER GOURD- KARELA SA 300G",
+      "price": "₵7.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132498.png",
+      "url": "https://melcom.com/bitter-gourd-karela-sa-300g.html"
+    },
+    {
+      "title": "OKRA INDIAN-SA 300G",
+      "price": "₵7.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132491_1.png",
+      "url": "https://melcom.com/okra-indian-sa-300g.html"
+    },
+    {
+      "title": "GREEN CHILLI-ST 300G",
+      "price": "₵7.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/132490.png",
+      "url": "https://melcom.com/green-chilli-st-300g.html"
+    },
+    {
+      "title": "ZUCCHINI GREEN IMPORT - PC",
+      "price": "₵89.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/129735.png",
+      "url": "https://melcom.com/zucchini-green-import-pc.html"
+    },
+    {
+      "title": "ONION - PURPLE (IMPORT) - KG",
+      "price": "₵22.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/1/117021.png",
+      "url": "https://melcom.com/onion-purple-import-kg.html"
+    },
+    {
+      "title": "SWEET MAYABELLE SEEDLESS GRAPE 10 X 400G",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/p/special_sweet_mayabelle_seedless_grapes_174368_.jpg",
+      "url": "https://melcom.com/sweet-mayabelle-seedless-grape-10-x-400g.html"
+    },
+    {
+      "title": "SABLE GRAPE BLACK SEEDLESS 10 X 400G",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/p/special_sable_black_seedless_grapes_174366_.jpg",
+      "url": "https://melcom.com/sable-grape-black-seedless-10-x-400g.html"
+    },
+    {
+      "title": "GRAPE SEEDLESS K3 BICOLOR 10 X 400G",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/p/special_bicolor_seedless_grapes_174364_.jpg",
+      "url": "https://melcom.com/grape-seedless-k3-bicolor-10-x-400g.html"
+    },
+    {
+      "title": "GRAPE CANDY SNAPS 10 X 400G",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/p/special_candy_snap_seedless_grapes_174363_.jpg",
+      "url": "https://melcom.com/grape-candy-snaps-10-x-400g.html"
+    },
+    {
+      "title": "PAPILION SHOWER GEL OCEAN MINERALS 1L",
+      "price": "₵62.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/6/169893.png",
+      "url": "https://melcom.com/papilion-shower-gel-ocean-minerals-1l.html"
+    },
+    {
+      "title": "SEARA CHICKEN GIZZARD 1KG (Buy 10 PIECES OR MORE @ GH¢36 PER 1 PIECE)",
+      "price": "₵39.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/s/e/seara_1.png",
+      "url": "https://melcom.com/catalog/product/view/id/69802/s/seara-chicken-gizzard-1kg/category/3112/"
+    },
+    {
+      "title": "WRIGLEY EXTRA WHITE BUBBLEMINT CHEWGUM SFPMP 1PC",
+      "price": "₵36.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/159001.png",
+      "url": "https://melcom.com/wrigley-extra-white-bubblemint-chewgum-sfpmp-1pc.html"
+    },
+    {
+      "title": "LA BOULANGERE BURGER BUN 200G",
+      "price": "₵56.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/153358.png",
+      "url": "https://melcom.com/la-boulangere-burger-bun-200g.html"
+    },
+    {
+      "title": "PEPERAMI HOT 28G",
+      "price": "₵26.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152569_oqvttvp.png",
+      "url": "https://melcom.com/peperami-hot-28g.html"
+    },
+    {
+      "title": "LINDT CLASSIC RECIPE MILK HAZELNUT 125G",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/5/152529.png",
+      "url": "https://melcom.com/lindt-classic-recipe-milk-hazelnut-125g.html"
+    },
+    {
+      "title": "PRIME GREEN LEMON LIME HYDRATION DRINK 500ML",
+      "price": "₵44.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/l/i/lime_1.png",
+      "url": "https://melcom.com/prime-green-lemon-lime-hydration-drink-500ml.html"
+    },
+    {
+      "title": "MYDIBEL SPICY WEDGES 2.5KG",
+      "price": "₵149.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/145889.png",
+      "url": "https://melcom.com/mydibel-spicy-wedges-2-5kg.html"
+    },
+    {
+      "title": "BARRATT SHRIMPS & BANANAS CANDIES 150G",
+      "price": "₵17.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/141643.png",
+      "url": "https://melcom.com/barratt-shrimps-bananas-candies-150g.html"
+    },
+    {
+      "title": "VOLYS - TURKEY ROAST 150G",
+      "price": "₵129.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/138385_1.png",
+      "url": "https://melcom.com/volys-turkey-roast-150g.html"
+    },
+    {
+      "title": "MYDIBEL PREMIUM CRUNCH FRIES 10/10 2.5KG",
+      "price": "₵149.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/8/7/87493.png",
+      "url": "https://melcom.com/mydibel-premium-crunch-fries-10-10-2-5kg.html"
+    }
+  ]
+}

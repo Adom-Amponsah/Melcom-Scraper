@@ -1,0 +1,200 @@
+{
+  "category": "SUPERMARKET",
+  "page": 46,
+  "productsCount": 32,
+  "scrapedAt": "2025-02-01T15:57:01.091Z",
+  "products": [
+    {
+      "title": "NIDO ESSENTIA 350G",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/n/i/nido_update_1.png",
+      "url": "https://melcom.com/nido-essentia-350g.html"
+    },
+    {
+      "title": "BIRRA GOLDEN ALE BIONDA SPECIAL TOSCANA 330ML",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147002.png",
+      "url": "https://melcom.com/birra-golden-ale-bionda-special-toscana-330ml.html"
+    },
+    {
+      "title": "BIRRA BLANCHE BIANCA TOSCANA 330ML",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147001.png",
+      "url": "https://melcom.com/birra-blanche-bianca-toscana-330ml.html"
+    },
+    {
+      "title": "ELLE&VIRE MON GREC DAIRY DESSERT VANILLA 125G",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146764.png",
+      "url": "https://melcom.com/elle-vire-mon-grec-dairy-dessert-vanilla-125g.html"
+    },
+    {
+      "title": "GOODLIFE SPICY VEG BEAN BURGERS 454G",
+      "price": "₵139.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140950.png",
+      "url": "https://melcom.com/catalog/product/view/id/56416/s/goodlife-spicy-veg-bean-burgers-454g/category/3112/"
+    },
+    {
+      "title": "FOX'S JAM -N- CREAM RASPBERRY AND VANILLA 150G",
+      "price": "₵42.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/140505.png",
+      "url": "https://melcom.com/catalog/product/view/id/56409/s/fox-s-jam-n-cream-raspberry-and-vanilla-150g/category/3112/"
+    },
+    {
+      "title": "D-AUCY MIX BROCCOLI GREEN BEANS 750G",
+      "price": "₵74.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/r/draucy_2.png",
+      "url": "https://melcom.com/d-aucy-mix-broccoli-green-beans-750g.html"
+    },
+    {
+      "title": "D-AUCY ASIAN PAN STYLE 1KG",
+      "price": "₵84.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/d/r/draucy.png",
+      "url": "https://melcom.com/d-aucy-asian-pan-style-1kg.html"
+    },
+    {
+      "title": "ROSEMARY ( IMPORT)",
+      "price": "₵99.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/125996_1.png",
+      "url": "https://melcom.com/rosemary-import.html"
+    },
+    {
+      "title": "JUVER SELECCION PEAR JUICE 200ML",
+      "price": "₵16.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104434a.jpg",
+      "url": "https://melcom.com/juver-seleccion-pear-juice-200ml.html"
+    },
+    {
+      "title": "JUVER SELECCION ORANGE CARROT JUICE 200ML",
+      "price": "₵11.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/0/104432a.jpg",
+      "url": "https://melcom.com/juver-seleccion-orange-carrot-juice-200ml.html"
+    },
+    {
+      "title": "FANTA ORANGE PET 300ML",
+      "price": "₵5.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/f/a/fanta_pet_300ml_1.png",
+      "url": "https://melcom.com/fanta-orange-pet-300ml.html"
+    },
+    {
+      "title": "WELCH'S 100% STRAWBERRY KIWI JUICE 473ML",
+      "price": "₵59.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/0/3/034894a.jpg",
+      "url": "https://melcom.com/welch-s-100-strawberry-kiwi-juice-473ml.html"
+    },
+    {
+      "title": "HAPPY ZIPPER BAGS SMALL 18PIECES",
+      "price": "₵90.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/143821a.jpg",
+      "url": "https://melcom.com/happy-zipper-bags-small-18pieces.html"
+    },
+    {
+      "title": "RITTER SPORT CORNFLAKES CHOCOLATE 100G",
+      "price": "₵46.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/_/1_39.jpg",
+      "url": "https://melcom.com/ritter-sport-cornflakes-chocolate-100g.html"
+    },
+    {
+      "title": "ELLE&VIRE SKIMMED MILK BOTTLE 1L",
+      "price": "₵47.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/146673.jpg",
+      "url": "https://melcom.com/elle-vire-skimmed-milk-bottle-1l.html"
+    },
+    {
+      "title": "TIME WAFER MASTER MINIS HAZELNUT 120G",
+      "price": "₵34.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137745a.jpg",
+      "url": "https://melcom.com/time-wafer-master-minis-hazelnut-120g.html"
+    },
+    {
+      "title": "TIME WAFER MASTER MINIS CHOCOLATE 120G",
+      "price": "₵31.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/137744a.jpg",
+      "url": "https://melcom.com/time-wafer-master-minis-chocolate-120g.html"
+    },
+    {
+      "title": "PERK CHOCOLATE CHIP COOKIES 115G",
+      "price": "₵19.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/135211a.jpg",
+      "url": "https://melcom.com/perk-chocolate-chip-cookies-115g.html"
+    },
+    {
+      "title": "MCBERRY LOVAN WAFER 10G",
+      "price": "₵0.69",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/4/147405a.jpg",
+      "url": "https://melcom.com/mcberry-lovan-wafer-10g.html"
+    },
+    {
+      "title": "MCBERRY ALPHA CRACKER PREMIUM BISCUIT 60G",
+      "price": "₵2.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139682a.jpg",
+      "url": "https://melcom.com/mcberry-alpha-cracker-premium-biscuit-60g.html"
+    },
+    {
+      "title": "MCBERRY PURE DELIGHT MARBLE CAKE SLICES 40G",
+      "price": "₵2.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139702a.jpg",
+      "url": "https://melcom.com/mcberry-pure-delight-marble-cake-slices-40g.html"
+    },
+    {
+      "title": "MCBERRY PURE DELIGHT VANILLA CAKE SLICES 40G",
+      "price": "₵2.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/3/139701a.jpg",
+      "url": "https://melcom.com/mcberry-pure-delight-vanilla-cake-slices-40g.html"
+    },
+    {
+      "title": "MCBERRY BELLA CHOCOLATE CREAM CAKE 24G",
+      "price": "₵1.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/127905a.jpg",
+      "url": "https://melcom.com/mcberry-bella-chocolate-cream-cake-24g.html"
+    },
+    {
+      "title": "BRUNSWICK TUNA CHUNK IN WATER 1.88KG/4LB",
+      "price": "₵269.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126842a_1.jpg",
+      "url": "https://melcom.com/brunswick-tuna-chunk-in-water-1-88kg-4lb.html"
+    },
+    {
+      "title": "BRUNSWICK TUNA FLAKED IN OIL 142G",
+      "price": "₵20.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126841a.jpg",
+      "url": "https://melcom.com/brunswick-tuna-flaked-in-oil-142g.html"
+    },
+    {
+      "title": "BRUNSWICK TUNA FLAKE IN WATER 142G",
+      "price": "₵16.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126840a.jpg",
+      "url": "https://melcom.com/brunswick-tuna-flake-in-water-142g.html"
+    },
+    {
+      "title": "BRUNSWICK TUNA CHUNK IN WATER 142G",
+      "price": "₵23.99",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126838a.jpg",
+      "url": "https://melcom.com/brunswick-tuna-chunk-in-water-142g.html"
+    },
+    {
+      "title": "BRUNSWICK TUNA CHUNK IN OIL 142G",
+      "price": "₵26.49",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/1/2/126839a.jpg",
+      "url": "https://melcom.com/brunswick-tuna-chunk-in-oil-142g.html"
+    },
+    {
+      "title": "MCBERRY BREAKFAST CEREAL BISCUITS 30G",
+      "price": "₵1.39",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/b/r/breakfast_cereal.jpg",
+      "url": "https://melcom.com/mcberry-breakfast-cereal-biscuits-30g.html"
+    },
+    {
+      "title": "MCBERRY CRUNCHY BANANA WAFER 17G",
+      "price": "₵1.29",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/c/r/crunchy_break_banana_4pcs_.jpg",
+      "url": "https://melcom.com/mcberry-crunchy-banana-wafer-17g.html"
+    },
+    {
+      "title": "MCBERRY OXFORD DIGESTIVE 36G",
+      "price": "₵1.59",
+      "image": "https://melcom.com/media/catalog/product/cache/8757aa1374eaaf34b9fd32f9e760ba0b/o/x/oxford_digestive.jpg",
+      "url": "https://melcom.com/mcberry-oxford-digestive-36g.html"
+    }
+  ]
+}
